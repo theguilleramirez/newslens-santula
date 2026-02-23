@@ -49,7 +49,7 @@ def curar_noticias():
         print(f"Leyendo {nombre_medio}...")
         d = feedparser.parse(feed['url'])
         
-        for entry in d.entries[:2]:
+        for entry in d.entries[:5]:
             try:
                 response = client.models.generate_content(
                     model="gemini-2.0-flash", 
