@@ -12,72 +12,53 @@ FEEDS = [
     {"medio": "Infobae Salud", "url": "https://www.infobae.com/arc/outboundfeeds/rss/category/salud/"},
     {"medio": "El País Ciencia", "url": "https://elpais.com/rss/ciencia/ciencia.xml"},
     {"medio": "Xataka", "url": "http://feeds.weblogssl.com/xataka2"},
-    {"medio": "National Geographic Esp", "url": "https://www.nationalgeographic.com.es/feeds/tags/ciencia.xml"},
-    {"medio": "Agencia SINC", "url": "https://www.agenciasinc.es/rss/all"},
     {"medio": "Science Daily", "url": "https://www.sciencedaily.com/rss/all.xml"},
     {"medio": "MIT Tech Review", "url": "https://www.technologyreview.com/feed/"},
-    {"medio": "BBC Future", "url": "https://feeds.bbci.co.uk/future/rss.xml"},
-    {"medio": "Nature News", "url": "https://www.nature.com/nature.rss"},
-    {"medio": "Nautilus", "url": "https://nautil.us/feed/"},
-    {"medio": "The Atlantic Science", "url": "https://www.theatlantic.com/feed/channel/science/"},
-    {"medio": "Scientific American", "url": "https://www.scientificamerican.com/section/reuters/index.xml"}
+    {"medio": "BBC Future", "url": "https://feeds.bbci.co.uk/future/rss.xml"}
 ]
 
-PROMPT_SISTEMA = """
-Eres el socio estratégico del periodista Santiago González (Santula). 
-Tu tarea es analizar noticias basadas en EVIDENCIA y DATOS REALES para crear Reels de edutainment.
-Si la noticia está en inglés, traduce el análisis al ESPAÑOL.
-
-Formato de salida:
-ÁNGULO EDITORIAL: ...
-HOOK: ...
-EL DATO: ...
-BAJADA SANTULA: ...
-REF. CULTURA: ...
-"""
+PROMPT_SISTEMA = "Analiza esta noticia para un video educativo. Genera: HOOK, EL DATO y BAJADA ESTRATÉGICA."
 
 def curar_noticias():
     articulos_curados = []
     print(f"--- Iniciando Curaduría: {datetime.now()} ---")
     
     for feed in FEEDS:
-        nombre_medio = feed['medio']
-        print(f"Conectando a: {nombre_medio}...")
+        print(f"Conectando a: {feed['medio']}...")
         d = feedparser.parse(feed['url'])
         
-        # Si el feed está vacío, saltar
-        if not d.entries:
-            print(f"⚠️ {nombre_medio} no devolvió entradas.")
-            continue
-
-        for entry in d.entries[:5]: # Leemos 5 noticias por fuente
+        for entry in d.entries[:5]:
             try:
-                # Limpiar el título y resumen para el prompt
-                titulo = entry.title
-                resumen = entry.get('summary', '')[:500] # Limitar a 500 caracteres
+                print(f"  -> Procesando: {entry.title[:50]}...")
                 
-                print(f"  Procesando noticia: {titulo[:50]}...")
-                
-                response = client.models.generate_content(
-                    model="gemini-2.0-flash", 
-                    contents=f"{PROMPT_SISTEMA}\n\nNoticia: {titulo}\nContenido: {resumen}"
-                )
-                
-                if response.text:
-                    articulos_curados.append({
-                        "titulo": titulo,
-                        "link": entry.link,
-                        "medio": nombre_medio,
-                        "fecha": datetime.now().strftime("%d/%m/%Y"),
-                        "ficha": response.text
-                    })
-            except Exception as e:
-                print(f"  ❌ Error en noticia: {e}")
+                # Intento de generación con Gemini
+                try:
+                    response = client.models.generate_content(
+                        model="gemini-2.0-flash", 
+                        contents=f"{PROMPT_SISTEMA}\n\nNoticia: {entry.title}\nInfo: {entry.get('summary', '')[:300]}"
+                    )
+                    ficha_texto = response.text if response.text else "Ficha no generada."
+                except Exception as ai_err:
+                    print(f"     ⚠️ Error Gemini: {ai_err}")
+                    ficha_texto = "Error al generar análisis con IA."
 
-    # Guardar incluso si la lista es pequeña
-    print(f"--- Guardando {len(articulos_curados)} noticias en data.json ---")
-    with open("data.json", "w", encoding="utf-8") as f:
-        json.dump(articulos_curados, f, indent=4, ensure_ascii=False)
+                articulos_curados.append({
+                    "titulo": entry.title,
+                    "link": entry.link,
+                    "medio": feed['medio'],
+                    "fecha": datetime.now().strftime("%d/%m/%Y"),
+                    "ficha": ficha_texto
+                })
+            except Exception as e:
+                print(f"     ❌ Error General: {e}")
+
+    # GUARDADO FORZADO: Esto asegura que el archivo no sea [] si hay artículos
+    if articulos_curados:
+        print(f"--- Guardando {len(articulos_curados)} noticias en data.json ---")
+        with open("data.json", "w", encoding="utf-8") as f:
+            json.dump(articulos_curados, f, indent=4, ensure_ascii=False)
+    else:
+        print("--- ⚠️ No se recolectaron noticias. El archivo quedará vacío. ---")
 
 if __name__ == "__main__":
     curar_noticias()
