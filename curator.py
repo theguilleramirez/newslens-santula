@@ -40,7 +40,7 @@ def curar_noticias():
             try:
                 # Usamos el nuevo método de la librería actualizada
                 response = client.models.generate_content(
-                    model="gemini-1.5-flash", 
+                    model="gemini-2.0-flash", 
                     contents=f"{PROMPT_SISTEMA}\n\nNoticia: {entry.title}\n{entry.get('summary', '')}"
                 )
                 
