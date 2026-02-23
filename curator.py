@@ -8,7 +8,6 @@ from datetime import datetime
 GENAI_API_KEY = os.environ.get("GEMINI_API_KEY")
 client = genai.Client(api_key=GENAI_API_KEY)
 
-# Mezcla estratégica de fuentes (Español + Inglés)
 FEEDS = [
     {"medio": "Infobae Salud", "url": "https://www.infobae.com/arc/outboundfeeds/rss/category/salud/"},
     {"medio": "El País Ciencia", "url": "https://elpais.com/rss/ciencia/ciencia.xml"},
@@ -27,17 +26,14 @@ FEEDS = [
 PROMPT_SISTEMA = """
 Eres el socio estratégico del periodista Santiago González (Santula). 
 Tu tarea es analizar noticias basadas en EVIDENCIA y DATOS REALES para crear Reels de edutainment.
+Si la noticia está en inglés, traduce el análisis al ESPAÑOL.
 
-Si la noticia original está en inglés, traduce el análisis y la ficha al ESPAÑOL.
-
-Genera una FICHA DE PRODUCCIÓN PARA REELS con este formato:
-ÁNGULO EDITORIAL: (Enfoque humano y cercano, no de cátedra)
-HOOK: (Frase rompedora de 3 seg para captar atención)
-EL DATO: (Explicación simple y clara del estudio o tendencia)
-BAJADA SANTULA: (Por qué esto le importa al ciudadano o el cruce con Paraguay si aplica)
-REF. CULTURA: (Cita, libro, película o mito que eleve el tema - solo si es muy relevante)
-
-Estilo: Observador implicado, lenguaje directo, frases cortas, cero cursilería.
+Formato de salida:
+ÁNGULO EDITORIAL: ...
+HOOK: ...
+EL DATO: ...
+BAJADA SANTULA: ...
+REF. CULTURA: ...
 """
 
 def curar_noticias():
@@ -46,29 +42,42 @@ def curar_noticias():
     
     for feed in FEEDS:
         nombre_medio = feed['medio']
-        print(f"Leyendo {nombre_medio}...")
+        print(f"Conectando a: {nombre_medio}...")
         d = feedparser.parse(feed['url'])
         
-        for entry in d.entries[:5]:
+        # Si el feed está vacío, saltar
+        if not d.entries:
+            print(f"⚠️ {nombre_medio} no devolvió entradas.")
+            continue
+
+        for entry in d.entries[:5]: # Leemos 5 noticias por fuente
             try:
+                # Limpiar el título y resumen para el prompt
+                titulo = entry.title
+                resumen = entry.get('summary', '')[:500] # Limitar a 500 caracteres
+                
+                print(f"  Procesando noticia: {titulo[:50]}...")
+                
                 response = client.models.generate_content(
                     model="gemini-2.0-flash", 
-                    contents=f"{PROMPT_SISTEMA}\n\nNoticia original: {entry.title}\nResumen: {entry.get('summary', '')}"
+                    contents=f"{PROMPT_SISTEMA}\n\nNoticia: {titulo}\nContenido: {resumen}"
                 )
                 
-                articulos_curados.append({
-                    "titulo": entry.title,
-                    "link": entry.link,
-                    "medio": nombre_medio,
-                    "fecha": datetime.now().strftime("%d/%m/%Y"),
-                    "ficha": response.text
-                })
+                if response.text:
+                    articulos_curados.append({
+                        "titulo": titulo,
+                        "link": entry.link,
+                        "medio": nombre_medio,
+                        "fecha": datetime.now().strftime("%d/%m/%Y"),
+                        "ficha": response.text
+                    })
             except Exception as e:
-                print(f"Error procesando {entry.title}: {e}")
+                print(f"  ❌ Error en noticia: {e}")
 
+    # Guardar incluso si la lista es pequeña
+    print(f"--- Guardando {len(articulos_curados)} noticias en data.json ---")
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(articulos_curados, f, indent=4, ensure_ascii=False)
-    print("--- Proceso Finalizado con Éxito ---")
 
 if __name__ == "__main__":
     curar_noticias()
