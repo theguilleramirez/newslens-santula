@@ -9,7 +9,6 @@ from datetime import datetime
 GENAI_API_KEY = os.environ.get("GEMINI_API_KEY")
 client = genai.Client(api_key=GENAI_API_KEY)
 
-# Lista equilibrada (Español e Inglés)
 FEEDS = [
     {"medio": "Infobae Salud", "url": "https://www.infobae.com/arc/outboundfeeds/rss/category/salud/"},
     {"medio": "El País Ciencia", "url": "https://elpais.com/rss/ciencia/ciencia.xml"},
@@ -21,63 +20,56 @@ FEEDS = [
 ]
 
 PROMPT_SISTEMA = """
-Eres el socio estratégico de Santiago González (Santula). Tu tarea es analizar noticias basadas en EVIDENCIA.
-Genera una FICHA DE PRODUCCIÓN PARA REELS en ESPAÑOL con este formato:
-
-ÁNGULO EDITORIAL: (Enfoque humano)
-HOOK: (Frase rompedora de 3 seg)
-EL DATO: (Explicación simple del estudio)
-BAJADA SANTULA: (Por qué importa al ciudadano o cruce con Paraguay)
-REF. CULTURA: (Cita o referencia que sume)
-
-Usa un tono profesional, cercano y directo.
+Eres el socio estratégico de Santula. Analiza esta noticia basada en EVIDENCIA.
+Genera una FICHA DE PRODUCCIÓN PARA REELS en ESPAÑOL:
+ÁNGULO EDITORIAL, HOOK, EL DATO, BAJADA SANTULA y REF. CULTURA.
 """
 
 def curar_noticias():
     articulos_curados = []
-    print(f"--- Iniciando NewsLens: {datetime.now()} ---")
+    print(f"--- Ejecución iniciada: {datetime.now().strftime('%H:%M:%S')} ---")
     
     for feed in FEEDS:
-        print(f"Leyendo: {feed['medio']}...")
+        print(f"Leyendo: {feed['medio']}")
         d = feedparser.parse(feed['url'])
         
-        # Procesamos las 2 mejores de cada medio para no saturar la API
         for entry in d.entries[:2]:
             try:
-                print(f"  -> Analizando: {entry.title[:50]}...")
+                print(f"  -> Analizando: {entry.title[:40]}...")
                 
-                # Llamada a Gemini 2.0 Flash
                 response = client.models.generate_content(
                     model="gemini-2.0-flash", 
-                    contents=f"{PROMPT_SISTEMA}\n\nNoticia: {entry.title}\nInfo: {entry.get('summary', '')[:300]}"
+                    contents=f"{PROMPT_SISTEMA}\n\nNoticia: {entry.title}\nInfo: {entry.get('summary', '')[:200]}"
                 )
                 
-                if response.text:
-                    articulos_curados.append({
-                        "titulo": entry.title,
-                        "link": entry.link,
-                        "medio": feed['medio'],
-                        "fecha": datetime.now().strftime("%d/%m/%Y"),
-                        "ficha": response.text
-                    })
-                    print("     ✅ Ficha generada.")
+                ficha_resultado = response.text if response.text else "Análisis vacío por parte de la IA."
                 
-                # Pausa de seguridad para evitar el error 429
-                time.sleep(15) 
+                articulos_curados.append({
+                    "titulo": entry.title,
+                    "link": entry.link,
+                    "medio": feed['medio'],
+                    "fecha": datetime.now().strftime("%d/%m/%Y %H:%M"), # Agregamos hora para debug
+                    "ficha": ficha_resultado
+                })
+                print("     ✅ Éxito.")
+                time.sleep(12) # Pausa obligatoria para evitar el error 429
 
             except Exception as e:
-                print(f"     ⚠️ Error: {e}")
-                # Si hay error de cuota, esperamos más tiempo
-                if "429" in str(e):
-                    time.sleep(60)
+                error_msg = str(e)
+                print(f"     ⚠️ Error: {error_msg}")
+                # Guardamos el error para que aparezca en la web y sepamos qué pasa
+                articulos_curados.append({
+                    "titulo": entry.title,
+                    "link": entry.link,
+                    "medio": feed['medio'],
+                    "fecha": datetime.now().strftime("%d/%m/%Y"),
+                    "ficha": f"ERROR TÉCNICO: {error_msg}"
+                })
 
-    # Guardar resultados finales
-    if articulos_curados:
-        print(f"--- Éxito: Guardando {len(articulos_curados)} noticias en data.json ---")
-        with open("data.json", "w", encoding="utf-8") as f:
-            json.dump(articulos_curados, f, indent=4, ensure_ascii=False)
-    else:
-        print("--- Error: No se pudo generar ninguna noticia hoy. ---")
+    # Guardar siempre, incluso si hay errores, para actualizar la fecha del archivo
+    print(f"--- Guardando {len(articulos_curados)} elementos en data.json ---")
+    with open("data.json", "w", encoding="utf-8") as f:
+        json.dump(articulos_curados, f, indent=4, ensure_ascii=False)
 
 if __name__ == "__main__":
     curar_noticias()
