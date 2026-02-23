@@ -2,6 +2,7 @@ import os
 import feedparser
 from google import genai
 import json
+import time # Importamos tiempo para las pausas
 from datetime import datetime
 
 # Configuración de la nueva librería de Gemini
@@ -17,7 +18,7 @@ FEEDS = [
     {"medio": "BBC Future", "url": "https://feeds.bbci.co.uk/future/rss.xml"}
 ]
 
-PROMPT_SISTEMA = "Analiza esta noticia para un video educativo. Genera: HOOK, EL DATO y BAJADA ESTRATÉGICA."
+PROMPT_SISTEMA = "Analiza esta noticia para un video educativo de Santiago González. Genera en español: ÁNGULO EDITORIAL, HOOK, EL DATO y BAJADA ESTRATÉGICA."
 
 def curar_noticias():
     articulos_curados = []
@@ -27,21 +28,18 @@ def curar_noticias():
         print(f"Conectando a: {feed['medio']}...")
         d = feedparser.parse(feed['url'])
         
-        for entry in d.entries[:5]:
+        # Procesamos solo las 3 más nuevas de cada medio para cuidar la cuota
+        for entry in d.entries[:3]:
             try:
                 print(f"  -> Procesando: {entry.title[:50]}...")
                 
-                # Intento de generación con Gemini
-                try:
-                    response = client.models.generate_content(
-                        model="gemini-2.0-flash", 
-                        contents=f"{PROMPT_SISTEMA}\n\nNoticia: {entry.title}\nInfo: {entry.get('summary', '')[:300]}"
-                    )
-                    ficha_texto = response.text if response.text else "Ficha no generada."
-                except Exception as ai_err:
-                    print(f"     ⚠️ Error Gemini: {ai_err}")
-                    ficha_texto = "Error al generar análisis con IA."
-
+                response = client.models.generate_content(
+                    model="gemini-2.0-flash", 
+                    contents=f"{PROMPT_SISTEMA}\n\nNoticia: {entry.title}\nInfo: {entry.get('summary', '')[:300]}"
+                )
+                
+                ficha_texto = response.text if response.text else "Ficha no generada."
+                
                 articulos_curados.append({
                     "titulo": entry.title,
                     "link": entry.link,
@@ -49,16 +47,25 @@ def curar_noticias():
                     "fecha": datetime.now().strftime("%d/%m/%Y"),
                     "ficha": ficha_texto
                 })
-            except Exception as e:
-                print(f"     ❌ Error General: {e}")
 
-    # GUARDADO FORZADO: Esto asegura que el archivo no sea [] si hay artículos
+                # --- PAUSA ESTRATÉGICA ---
+                # Esperamos 10 segundos antes de la siguiente noticia para no agotar la cuota gratuita
+                print("     ⏳ Esperando 10 segundos para cuidar la cuota...")
+                time.sleep(10)
+
+            except Exception as ai_err:
+                if "429" in str(ai_err):
+                    print(f"     ⚠️ Límite de cuota alcanzado. Saltando a la siguiente fuente...")
+                    time.sleep(30) # Si da error 429, esperamos 30 segundos
+                else:
+                    print(f"     ❌ Error: {ai_err}")
+
     if articulos_curados:
         print(f"--- Guardando {len(articulos_curados)} noticias en data.json ---")
         with open("data.json", "w", encoding="utf-8") as f:
             json.dump(articulos_curados, f, indent=4, ensure_ascii=False)
     else:
-        print("--- ⚠️ No se recolectaron noticias. El archivo quedará vacío. ---")
+        print("--- ⚠️ No se recolectaron noticias. ---")
 
 if __name__ == "__main__":
     curar_noticias()
