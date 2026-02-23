@@ -10,14 +10,11 @@ client = genai.Client(api_key=GENAI_API_KEY)
 
 # Mezcla estratégica de fuentes (Español + Inglés)
 FEEDS = [
-    # ESPAÑOL
     {"medio": "Infobae Salud", "url": "https://www.infobae.com/arc/outboundfeeds/rss/category/salud/"},
     {"medio": "El País Ciencia", "url": "https://elpais.com/rss/ciencia/ciencia.xml"},
     {"medio": "Xataka", "url": "http://feeds.weblogssl.com/xataka2"},
     {"medio": "National Geographic Esp", "url": "https://www.nationalgeographic.com.es/feeds/tags/ciencia.xml"},
     {"medio": "Agencia SINC", "url": "https://www.agenciasinc.es/rss/all"},
-    
-    # INGLÉS (Fuentes primarias de alta calidad)
     {"medio": "Science Daily", "url": "https://www.sciencedaily.com/rss/all.xml"},
     {"medio": "MIT Tech Review", "url": "https://www.technologyreview.com/feed/"},
     {"medio": "BBC Future", "url": "https://feeds.bbci.co.uk/future/rss.xml"},
@@ -48,4 +45,30 @@ def curar_noticias():
     print(f"--- Iniciando Curaduría: {datetime.now()} ---")
     
     for feed in FEEDS:
-        print(f"Leyendo {feed['medio
+        nombre_medio = feed['medio']
+        print(f"Leyendo {nombre_medio}...")
+        d = feedparser.parse(feed['url'])
+        
+        for entry in d.entries[:2]:
+            try:
+                response = client.models.generate_content(
+                    model="gemini-2.0-flash", 
+                    contents=f"{PROMPT_SISTEMA}\n\nNoticia original: {entry.title}\nResumen: {entry.get('summary', '')}"
+                )
+                
+                articulos_curados.append({
+                    "titulo": entry.title,
+                    "link": entry.link,
+                    "medio": nombre_medio,
+                    "fecha": datetime.now().strftime("%d/%m/%Y"),
+                    "ficha": response.text
+                })
+            except Exception as e:
+                print(f"Error procesando {entry.title}: {e}")
+
+    with open("data.json", "w", encoding="utf-8") as f:
+        json.dump(articulos_curados, f, indent=4, ensure_ascii=False)
+    print("--- Proceso Finalizado con Éxito ---")
+
+if __name__ == "__main__":
+    curar_noticias()
