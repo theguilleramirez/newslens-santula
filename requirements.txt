@@ -1,4 +1,4 @@
-google-generativeai
+google-genai
 feedparser
 jinja2
 requests
