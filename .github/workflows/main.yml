@@ -1,0 +1,33 @@
+name: Actualizar NewsLens Diario
+
+on:
+  schedule:
+    - cron: '0 9 * * *' # 09:00 UTC es 05:00 AM en Paraguay
+  workflow_dispatch: # Permite ejecutarlo manualmente para probar
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del código
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Instalar dependencias
+        run: |
+          pip install -r requirements.txt
+
+      - name: Ejecutar Curador
+        run: python curator.py
+
+      - name: Subir cambios
+        run: |
+          git config --global user.name 'NewsLens Bot'
+          git config --global user.email 'bot@newslens.com'
+          git add data.json
+          git commit -m "Actualización diaria de noticias" || exit 0
+          git push
