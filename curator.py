@@ -5,7 +5,7 @@ import json
 from datetime import datetime
 
 # Configuración de Gemini
-GENAI_API_KEY = "AIzaSyAJegSxeKOl2USgs7x6KwGECrVG4MOkB_Y"
+GENAI_API_KEY = os.environ.get("GEMINI_API_KEY")
 genai.configure(api_key=GENAI_API_KEY)
 model = genai.GenerativeModel('gemini-1.5-flash')
 
