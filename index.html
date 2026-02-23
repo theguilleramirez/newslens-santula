@@ -2,64 +2,82 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NewsLens - Santula Edition</title>
     <style>
-        body { font-family: 'Segoe UI', sans-serif; background: #0f172a; color: #f8fafc; padding: 40px; }
-        .container { max-width: 900px; margin: auto; }
-        header { border-bottom: 2px solid #334155; padding-bottom: 20px; margin-bottom: 40px; }
-        h1 { font-size: 2rem; color: #38bdf8; }
-        .card { background: #1e293b; padding: 25px; border-radius: 12px; margin-bottom: 20px; border: 1px solid #334155; }
-        .medio { font-size: 0.8rem; text-transform: uppercase; color: #94a3b8; letter-spacing: 1px; }
-        h2 { margin: 10px 0; font-size: 1.4rem; }
-        button { background: #38bdf8; color: #0f172a; border: none; padding: 10px 20px; border-radius: 6px; cursor: pointer; font-weight: bold; margin-top: 15px; }
-        button:hover { background: #7dd3fc; }
-        #guion-output { background: #000; color: #adff2f; padding: 20px; border-radius: 8px; display: none; margin-top: 20px; font-family: monospace; white-space: pre-wrap; position: relative; }
-        .copy-btn { position: absolute; top: 10px; right: 10px; background: #334155; color: white; font-size: 0.7rem; }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <header>
-            <h1>NewsLens | Santula</h1>
-            <p>Insumos basados en evidencia para videos de redes sociales.</p>
-        </header>
-
-        <div id="noticias-lista">
-            </div>
-
-        <div id="guion-output">
-            <button class="copy-btn" onclick="copyToClipboard()">Copiar</button>
-            <div id="guion-content"></div>
-        </div>
-    </div>
-
-    <script>
-        // Esta lógica se conectará con el data.json generado por el script de Python
-        fetch('data.json')
-            .then(response => response.json())
-            .then(data => {
-                const lista = document.getElementById('noticias-lista');
-                data.forEach(item => {
-                    const card = document.createElement('div');
-                    card.className = 'card';
-                    card.innerHTML = `
-                        <div class="medio">${item.medio} - ${item.fecha}</div>
-                        <h2>${item.titulo}</h2>
-                        <button onclick="generarGuion('${item.titulo}')">Generar Ficha de Producción</button>
-                    `;
-                    lista.appendChild(card);
-                });
-            });
-
-        function generarGuion(titulo) {
-            alert("Solicitando a Gemini la ficha para: " + titulo + "\n(Esta función se activará al completar el paso de Actions)");
+        :root {
+            --bg: #0f172a;
+            --card-bg: #1e293b;
+            --accent: #38bdf8;
+            --text: #f8fafc;
+            --text-dim: #94a3b8;
         }
-
-        function copyToClipboard() {
-            const content = document.getElementById('guion-content').innerText;
-            navigator.clipboard.writeText(content);
-            alert("¡Copiado al portapapeles!");
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            background: var(--bg); 
+            color: var(--text); 
+            padding: 20px;
+            line-height: 1.6;
         }
-    </script>
-</body>
-</html>
+        .container { max-width: 800px; margin: auto; }
+        header { 
+            text-align: center; 
+            border-bottom: 1px solid #334155; 
+            padding-bottom: 30px; 
+            margin-bottom: 40px; 
+        }
+        h1 { color: var(--accent); margin-bottom: 10px; }
+        .card { 
+            background: var(--card-bg); 
+            padding: 25px; 
+            border-radius: 12px; 
+            margin-bottom: 20px; 
+            border: 1px solid #334155;
+            transition: transform 0.2s;
+        }
+        .card:hover { transform: translateY(-3px); border-color: var(--accent); }
+        .medio { 
+            font-size: 0.75rem; 
+            text-transform: uppercase; 
+            color: var(--text-dim); 
+            font-weight: bold;
+            letter-spacing: 1px;
+        }
+        h2 { margin: 10px 0; font-size: 1.25rem; line-height: 1.3; }
+        .btn-gen { 
+            background: var(--accent); 
+            color: var(--bg); 
+            border: none; 
+            padding: 12px 20px; 
+            border-radius: 8px; 
+            cursor: pointer; 
+            font-weight: bold;
+            width: 100%;
+            margin-top: 10px;
+        }
+        #guion-output { 
+            display: none; 
+            background: #000; 
+            color: #bef264; 
+            padding: 25px; 
+            border-radius: 12px; 
+            margin-top: 30px; 
+            font-family: 'Courier New', Courier, monospace;
+            border: 1px solid #bef264;
+            position: relative;
+            white-space: pre-wrap;
+        }
+        .copy-btn {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: #bef264;
+            color: #000;
+            border: none;
+            padding: 5px 12px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 0.8rem;
+            font-weight: bold;
+        }
+        .loading { text
