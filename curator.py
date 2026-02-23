@@ -1,54 +1,59 @@
 import os
 import feedparser
-import google.generativeai as genai
+from google import genai
 import json
 from datetime import datetime
 
-# Configuración de Gemini
+# Configuración de la nueva librería de Gemini
 GENAI_API_KEY = os.environ.get("GEMINI_API_KEY")
-genai.configure(api_key=GENAI_API_KEY)
-model = genai.GenerativeModel('gemini-1.5-flash')
+client = genai.Client(api_key=GENAI_API_KEY)
 
-# Fuentes enfocadas en Datos, Ciencia y Tendencias Sociales
 FEEDS = [
     {"medio": "Science Daily", "url": "https://www.sciencedaily.com/rss/all.xml"},
-    {"medio": "MIT Technology Review", "url": "https://www.technologyreview.com/feed/"},
+    {"medio": "MIT Tech Review", "url": "https://www.technologyreview.com/feed/"},
     {"medio": "Infobae Salud", "url": "https://www.infobae.com/arc/outboundfeeds/rss/category/salud/"},
-    {"medio": "El País Ciencia", "url": "https://elpais.com/rss/ciencia/ciencia.xml"},
-    {"medio": "BBC Future", "url": "https://feeds.bbci.co.uk/future/rss.xml"}
+    {"medio": "El País Ciencia", "url": "https://elpais.com/rss/ciencia/ciencia.xml"}
 ]
 
 PROMPT_SISTEMA = """
-Eres un consultor estratégico de contenido para el periodista Santiago González (Santula). 
-Tu objetivo es filtrar noticias basadas en DATOS REALES, ESTUDIOS, O TENDENCIAS COMPROBABLES.
-Ignora política partidaria o chismes. 
+Eres el socio estratégico del periodista Santiago González (Santula). 
+Tu tarea es analizar noticias basadas en EVIDENCIA y DATOS REALES.
+Genera una FICHA DE PRODUCCIÓN PARA REELS con este formato:
 
-Para cada noticia, califica de 1 a 10 su 'Conversabilidad': qué tan fácil es que Santi 
-la use para un Reel de TikTok/Instagram bajo el formato 'Traducción de Evidencia'.
+ÁNGULO EDITORIAL: (Enfoque humano y cercano)
+HOOK: (Frase rompedora de 3 seg)
+EL DATO: (Explicación simple del estudio)
+BAJADA SANTULA: (Por qué importa al ciudadano o cruce con Paraguay si aplica)
+REF. CULTURA: (Cita, libro o película - solo si suma)
+
+Sé directo, evita el tono de IA y usa el estilo de 'observador implicado'.
 """
 
 def curar_noticias():
     articulos_curados = []
-    
     for feed in FEEDS:
         print(f"Leyendo {feed['medio']}...")
         d = feedparser.parse(feed['url'])
-        for entry in d.entries[:5]: # Leemos las últimas 5 de cada fuente
-            texto_analizar = f"Título: {entry.title}. Resumen: {entry.get('summary', '')}"
-            
-            # Pedimos a Gemini que evalúe
-            response = model.generate_content(f"{PROMPT_SISTEMA}\n\nAnaliza esto: {texto_analizar}")
-            
-            # Aquí simulamos un scoring simple para el MVP
-            # En la versión final, pediremos a Gemini un JSON estructurado
-            articulos_curados.append({
-                "titulo": entry.title,
-                "link": entry.link,
-                "medio": feed['medio'],
-                "fecha": datetime.now().strftime("%d/%m/%Y")
-            })
-            
-    # Guardamos los resultados
+        
+        # Procesamos las primeras 3 noticias de cada feed
+        for entry in d.entries[:3]:
+            try:
+                # Usamos el nuevo método de la librería actualizada
+                response = client.models.generate_content(
+                    model="gemini-1.5-flash", 
+                    contents=f"{PROMPT_SISTEMA}\n\nNoticia: {entry.title}\n{entry.get('summary', '')}"
+                )
+                
+                articulos_curados.append({
+                    "titulo": entry.title,
+                    "link": entry.link,
+                    "medio": feed['medio'],
+                    "fecha": datetime.now().strftime("%d/%m/%Y"),
+                    "ficha": response.text
+                })
+            except Exception as e:
+                print(f"Error procesando noticia: {e}")
+
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(articulos_curados, f, indent=4, ensure_all_ascii=False)
 
