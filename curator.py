@@ -237,7 +237,7 @@ def select_diverse_candidates(candidates: list[dict]) -> list[dict]:
 
 def generate_ai_ficha(title: str, summary: str, medio: str, score: float):
     if not CLIENT:
-        return None
+        raise RuntimeError("OPENAI_API_KEY no configurada. No se puede generar ficha con IA.")
 
     user_prompt = (
         f"Medio: {medio}\n"
@@ -246,7 +246,6 @@ def generate_ai_ficha(title: str, summary: str, medio: str, score: float):
         f"Resumen: {summary[:1200]}\n"
     )
 
-    # Versión compatible y estable para tu caso:
     response = CLIENT.chat.completions.create(
         model=MODEL_NAME,
         messages=[
@@ -260,7 +259,7 @@ def generate_ai_ficha(title: str, summary: str, medio: str, score: float):
         if content:
             return content.strip()
 
-    return None
+    raise RuntimeError("OpenAI respondió sin contenido utilizable.")
 
 
 def curar_noticias():
