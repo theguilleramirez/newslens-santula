@@ -14,64 +14,62 @@ from openai import OpenAI
 # Configuración general
 # =========================
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
-# Forzamos gpt-4o-mini por estabilidad y costo, compatible con la nueva librería
+# Usamos 4o-mini por estabilidad absoluta en el Tier Pago
 MODEL_NAME = "gpt-4o-mini"
 
 TARGET_MIN_ITEMS = 8
 TARGET_MAX_ITEMS = 12
 MAX_ITEMS_PER_FEED = 10
-MAX_PER_MEDIO = 2 # Evita que un solo medio (como Xataka) domine el feed
+MAX_PER_MEDIO = 2  # Mantiene la variedad de fuentes
 
 AI_MAX_REQUESTS = 12
 SLEEP_BETWEEN_AI_CALLS = 1
 REQUEST_TIMEOUT_SECONDS = 20
 
-WEIGHT_IMPACTO = 0.65
-WEIGHT_NOVEDAD = 0.35
-# Subimos a 25 para filtrar el ruido y quedarnos con lo mejor
+# Balanceamos: Impacto cotidiano es la prioridad
+WEIGHT_IMPACTO = 0.70 
+WEIGHT_NOVEDAD = 0.30
 MIN_RELEVANCE_SCORE = 18.0
 
-# Fuentes optimizadas: Mayor peso institucional y diversidad
+# Mix Estratégico: Prestigio + Divulgación Ágil
 FEEDS = [
     {"medio": "Harvard Health", "url": "https://www.health.harvard.edu/blog/feed", "idioma": "en"},
     {"medio": "Pew Research", "url": "https://www.pewresearch.org/feed/", "idioma": "en"},
     {"medio": "Scientific American", "url": "https://www.scientificamerican.com/section/reuters/index.xml", "idioma": "en"},
-    {"medio": "MIT Tech Review", "url": "https://www.technologyreview.com/feed/", "idioma": "en"},
     {"medio": "BBC Future", "url": "https://feeds.bbci.co.uk/future/rss.xml", "idioma": "en"},
-    {"medio": "El País Ciencia", "url": "https://elpais.com/rss/ciencia/ciencia.xml", "idioma": "es"},
     {"medio": "Infobae Salud", "url": "https://www.infobae.com/arc/outboundfeeds/rss/category/salud/", "idioma": "es"},
+    {"medio": "Xataka", "url": "http://feeds.weblogssl.com/xataka2", "idioma": "es"},
     {"medio": "Psychology Today", "url": "https://www.psychologytoday.com/intl/front/feed", "idioma": "en"},
-    {"medio": "Mayo Clinic", "url": "https://newsnetwork.mayoclinic.org/category/health-tips/feed/", "idioma": "en"}
+    {"medio": "Wired Science", "url": "https://www.wired.com/feed/category/science/latest/rss", "idioma": "en"},
+    {"medio": "MIT Tech Review", "url": "https://www.technologyreview.com/feed/", "idioma": "en"}
 ]
 
 PROMPT_SISTEMA = """
-Eres el socio estratégico de Santiago González (Santula). Tu tarea es analizar noticias basadas en evidencia.
+Eres el socio estratégico de Santiago González (Santula). Tu tarea es analizar noticias basadas en evidencia pero con interés masivo.
 Devuelve una FICHA DE PRODUCCIÓN PARA REELS en ESPAÑOL con este formato exacto:
 
-ÁNGULO EDITORIAL: ...
-HOOK: ...
-EL DATO: ...
-BAJADA SANTULA: ...
-REF. CULTURA: ...
+ÁNGULO EDITORIAL: (Enfoque humano y estratégico: ¿Por qué esto le importa a alguien que está en su casa hoy?)
+HOOK: (Frase rompedora de 3 segundos para el inicio del video)
+EL DATO: (La evidencia o estudio explicado de forma ultra simple)
+BAJADA SANTULA: (Cómo aterrizar esto a la realidad paraguaya o cotidiana)
+REF. CULTURA: (Opcional: Una película, libro o frase histórica que ayude a ilustrar el punto)
 
 Reglas:
-- Tono profesional, humano y directo. Sin clichés.
-- Si la noticia está en inglés, tradúcela y sintetízala directamente al español.
-- Mantener foco en el impacto estratégico para la vida cotidiana.
-""".strip()
+- Tono profesional, humano y directo. Sin "hype" innecesario.
+- Traduce del inglés al español de forma natural.
+"""
 
+# Keywords optimizadas para "Historias Útiles"
 IMPACTO_KEYWORDS = [
-    "salud", "cáncer", "corazón", "diabetes", "alzheimer", "energía", "educación", "empleo",
-    "costo", "precio", "vivienda", "seguridad", "clima", "alimentación", "mental", "bienestar",
-    "public health", "health", "cost", "jobs", "education", "climate", "food", "longevity",
-    "study", "research", "discovered", "treatment", "brain", "patient", "discovery",
-    "intelligence", "ai", "tech", "social", "people", "behavior"
+    "salud", "dinero", "hábitos", "sueño", "cerebro", "hijos", "trabajo", "alimentación",
+    "estrés", "tecnología", "celular", "tiempo", "longevidad", "bienestar", "apps",
+    "vida", "cotidiano", "ahorro", "decisiones", "productivity", "mental", "brain",
+    "health", "money", "habits", "parenting", "work", "stress", "longevity"
 ]
 
 NOVEDAD_KEYWORDS = [
-    "estudio", "investigación", "descubr", "hallazgo", "innov", "avance", "ensayo", "tecnología", "ia",
-    "inteligencia artificial", "universidad", "científico", "science", "research", "discovery",
-    "breakthrough", "innovation", "ai", "machine learning", "trial", "study"
+    "estudio", "investigación", "descubrimiento", "nuevo", "sorprendente", "ciencia",
+    "hallazgo", "avance", "dato", "study", "research", "discovery", "new", "data"
 ]
 
 HTTP_HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; NewsLensBot/1.0)"}
@@ -86,18 +84,9 @@ def normalize_text(value: str) -> str:
 def compute_relevance_score(title: str, summary: str) -> float:
     merged = f"{title} {summary}".lower()
     impacto = sum(15 for kw in IMPACTO_KEYWORDS if kw in merged)
-    novedad = sum(15 for kw in NOVEDAD_KEYWORDS if kw in merged)
+    novedad = sum(10 for kw in NOVEDAD_KEYWORDS if kw in merged)
     score = (min(100, impacto) * WEIGHT_IMPACTO) + (min(100, novedad) * WEIGHT_NOVEDAD)
     return max(0.0, min(100.0, round(score, 2)))
-
-def build_fallback_ficha(title, summary, medio):
-    return (
-        f"ÁNGULO EDITORIAL: Análisis pendiente (IA en pausa).\n"
-        f"HOOK: Noticia de {medio}: {title[:70]}...\n"
-        f"EL DATO: {summary[:200] if summary else 'Sin resumen disponible.'}\n"
-        f"BAJADA SANTULA: Revisar fuente original para extraer ángulo local.\n"
-        f"REF. CULTURA: N/A"
-    )
 
 def generate_ai_ficha(title, summary, medio, score):
     if not CLIENT: return None
@@ -106,13 +95,13 @@ def generate_ai_ficha(title, summary, medio, score):
             model=MODEL_NAME,
             messages=[
                 {"role": "system", "content": PROMPT_SISTEMA},
-                {"role": "user", "content": f"Medio: {medio}\nScore: {score}\nTítulo: {title}\nResumen: {summary[:1000]}"}
+                {"role": "user", "content": f"Medio: {medio}\nTítulo: {title}\nResumen: {summary[:1000]}"}
             ],
             temperature=0.7
         )
         return response.choices[0].message.content.strip()
     except Exception as e:
-        print(f"     ❌ Error en llamada API: {e}")
+        print(f"     ❌ Error API OpenAI: {e}")
         return None
 
 def curar_noticias():
@@ -143,7 +132,6 @@ def curar_noticias():
         except Exception as e:
             print(f"⚠️ Error feed {feed['medio']}: {e}")
 
-    # Selección diversa: max por medio
     candidates.sort(key=lambda x: x["score"], reverse=True)
     counts = defaultdict(int)
     selected = []
@@ -166,8 +154,9 @@ def curar_noticias():
                 ai_requests += 1
             time.sleep(SLEEP_BETWEEN_AI_CALLS)
 
+        # Si la IA falla, construimos un mini resumen para no dejar el hueco
         if not ficha:
-            ficha = build_fallback_ficha(item["titulo"], item["summary"], item["medio"])
+            ficha = f"ÁNGULO: Noticia relevante de {item['medio']}.\nEL DATO: {item['summary'][:250]}..."
 
         articulos_curados.append({
             "titulo": item["titulo"], "link": item["link"], "medio": item["medio"],
