@@ -7,9 +7,10 @@ Herramienta para curar noticias de alto interés general y convertirlas en ficha
 1. Lee RSS de medios y portales de ciencia/tecnología.
 2. Calcula un score de relevancia por noticia (65% impacto cotidiano, 35% novedad científica).
 3. Selecciona automáticamente entre 8 y 10 opciones por corrida diaria.
-4. Genera fichas con OpenAI para la mayor parte de las noticias.
-5. Completa con fallback cuando la IA no responde (el flujo no se rompe).
-6. Guarda todo en `data.json`, que consume `index.html`.
+4. Equilibra resultados para evitar que un solo medio domine la muestra (`MAX_PER_MEDIO`).
+5. Genera fichas con OpenAI (`gpt-5.4-mini` por default).
+6. Completa con fallback cuando la IA no responde (el flujo no se rompe).
+7. Guarda todo en `data.json`, que consume `index.html`.
 
 ## Requisitos
 
