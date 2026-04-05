@@ -23,9 +23,9 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Ejecutar Curador con Gemini
+      - name: Ejecutar Curador con OpenAI
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python curator.py
 
       - name: Subir cambios al repositorio
