@@ -29,7 +29,7 @@ REQUEST_TIMEOUT_SECONDS = 20
 WEIGHT_IMPACTO = 0.65
 WEIGHT_NOVEDAD = 0.35
 # Subimos a 25 para filtrar el ruido y quedarnos con lo mejor
-MIN_RELEVANCE_SCORE = 25.0
+MIN_RELEVANCE_SCORE = 18.0
 
 # Fuentes optimizadas: Mayor peso institucional y diversidad
 FEEDS = [
@@ -63,7 +63,9 @@ Reglas:
 IMPACTO_KEYWORDS = [
     "salud", "cáncer", "corazón", "diabetes", "alzheimer", "energía", "educación", "empleo",
     "costo", "precio", "vivienda", "seguridad", "clima", "alimentación", "mental", "bienestar",
-    "public health", "health", "cost", "jobs", "education", "climate", "food", "longevity"
+    "public health", "health", "cost", "jobs", "education", "climate", "food", "longevity",
+    "study", "research", "discovered", "treatment", "brain", "patient", "discovery",
+    "intelligence", "ai", "tech", "social", "people", "behavior"
 ]
 
 NOVEDAD_KEYWORDS = [
