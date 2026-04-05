@@ -11,6 +11,191 @@
             --accent: #38bdf8;
             --text: #f8fafc;
             --text-dim: #94a3b8;
+            --ok: #22c55e;
+            --warn: #facc15;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            padding: 20px;
+            line-height: 1.6;
+            margin: 0;
+        }
+        .container { max-width: 900px; margin: 40px auto; }
+        header {
+            text-align: center;
+            border-bottom: 1px solid #334155;
+            padding-bottom: 30px;
+            margin-bottom: 40px;
+        }
+        h1 { color: var(--accent); margin: 0 0 10px 0; font-size: 2.5rem; }
+        .card {
+            background: var(--card-bg);
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 16px;
+            border: 1px solid #334155;
+        }
+        .medio {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            color: var(--text-dim);
+            font-weight: bold;
+            letter-spacing: 1px;
+            margin-bottom: 8px;
+        }
+        .meta-row {
+            display: flex;
+            gap: 8px;
+            align-items: center;
+            flex-wrap: wrap;
+            margin-bottom: 8px;
+        }
+        .chip {
+            padding: 2px 8px;
+            border-radius: 999px;
+            font-size: 0.72rem;
+            font-weight: bold;
+        }
+        .chip-openai { background: rgba(34,197,94,.2); color: #86efac; border: 1px solid rgba(34,197,94,.4); }
+        .chip-fallback { background: rgba(250,204,21,.2); color: #fde68a; border: 1px solid rgba(250,204,21,.4); }
+
+        h2 { margin: 8px 0; font-size: 1.2rem; line-height: 1.3; color: #fff; }
+        .btn-gen {
+            background: var(--accent);
+            color: var(--bg);
+            border: none;
+            padding: 10px 16px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: bold;
+            width: 100%;
+            margin-top: 14px;
+            font-size: 0.95rem;
+        }
+        #guion-output {
+            display: none;
+            background: #000;
+            color: #bef264;
+            padding: 25px;
+            border-radius: 12px;
+            margin-top: 30px;
+            font-family: 'Courier New', Courier, monospace;
+            border: 1px solid #bef264;
+            position: relative;
+            white-space: pre-wrap;
+            font-size: 0.95rem;
+        }
+        .copy-btn {
+            position: absolute; top: 10px; right: 10px;
+            background: #bef264; color: #000; border: none;
+            padding: 5px 12px; border-radius: 4px;
+            cursor: pointer; font-size: 0.75rem; font-weight: bold;
+        }
+        .loading { text-align: center; color: var(--text-dim); padding: 40px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>NewsLens | Santula</h1>
+            <p style="color: var(--text-dim); margin: 0;">Traducción de evidencia para redes sociales</p>
+        </header>
+
+        <div id="noticias-lista">
+            <p class="loading">Cargando noticias y conectando con el repositorio...</p>
+        </div>
+
+        <div id="guion-output">
+            <button class="copy-btn" onclick="copyToClipboard()">COPIAR FICHA</button>
+            <div id="guion-content"></div>
+        </div>
+    </div>
+
+    <script>
+        let noticiasData = [];
+        const cacheBuster = new Date().getTime();
+
+        fetch(`data.json?v=${cacheBuster}`)
+            .then(response => {
+                if (!response.ok) throw new Error("Archivo no encontrado");
+                return response.json();
+            })
+            .then(data => {
+                const lista = document.getElementById('noticias-lista');
+                noticiasData = data;
+
+                if (!data || data.length === 0) {
+                    lista.innerHTML = `
+                        <div style="text-align:center; padding: 40px; border: 1px dashed #334155; border-radius: 12px;">
+                            <p>No hay noticias para mostrar todavía.</p>
+                            <p style="font-size:0.8rem; color:var(--text-dim)">Ejecuta el workflow diario en GitHub Actions para generar data.json.</p>
+                        </div>`;
+                    return;
+                }
+
+                lista.innerHTML = '';
+                data.forEach((item, index) => {
+                    const providerClass = item.provider === 'openai' ? 'chip-openai' : 'chip-fallback';
+                    const providerLabel = item.provider === 'openai' ? 'OpenAI' : 'Fallback';
+
+                    const card = document.createElement('div');
+                    card.className = 'card';
+                    card.innerHTML = `
+                        <div class="medio">${item.medio} • ${item.fecha}</div>
+                        <div class="meta-row">
+                            <span class="chip ${providerClass}">${providerLabel}</span>
+                            <span style="font-size:0.8rem;color:var(--text-dim);">Score: ${item.score ?? 'N/D'}</span>
+                            <span style="font-size:0.8rem;color:var(--text-dim);">Idioma: ${item.idioma ?? 'N/D'}</span>
+                        </div>
+                        <h2>${item.titulo}</h2>
+                        <a href="${item.link}" target="_blank" rel="noopener noreferrer" style="font-size:0.8rem;color:var(--accent);display:inline-block;margin-top:6px;">Ver noticia original</a>
+                        <button class="btn-gen" onclick="mostrarFicha(${index})">VER FICHA DE PRODUCCIÓN</button>
+                    `;
+                    lista.appendChild(card);
+                });
+            })
+            .catch(err => {
+                document.getElementById('noticias-lista').innerHTML = `
+                    <div style="text-align:center; padding: 40px;">
+                        <p>Error al cargar <b>data.json</b>.</p>
+                        <p style="font-size:0.8rem; color:var(--text-dim)">Verifica que el workflow haya generado y commiteado el archivo.</p>
+                    </div>`;
+                console.error(err);
+            });
+
+        function mostrarFicha(index) {
+            const item = noticiasData[index];
+            const output = document.getElementById('guion-output');
+            const content = document.getElementById('guion-content');
+
+            content.innerText = item.ficha;
+            output.style.display = 'block';
+            output.scrollIntoView({ behavior: 'smooth' });
+        }
+
+        function copyToClipboard() {
+            const content = document.getElementById('guion-content').innerText;
+            navigator.clipboard.writeText(content).then(() => {
+                alert('Ficha copiada con éxito.');
+            });
+        }
+    </script>
+</body>
+</html><!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NewsLens - Santula Edition</title>
+    <style>
+        :root {
+            --bg: #0f172a;
+            --card-bg: #1e293b;
+            --accent: #38bdf8;
+            --text: #f8fafc;
+            --text-dim: #94a3b8;
         }
         body { 
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
