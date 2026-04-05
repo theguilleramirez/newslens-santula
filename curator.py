@@ -193,7 +193,6 @@ def select_diverse_candidates(candidates: list[dict]) -> list[dict]:
     for item in candidates:
         buckets[item["medio"]].append(item)
 
-    # Ordenar cada bucket por score descendente
     for medio in buckets:
         buckets[medio].sort(key=lambda x: x["score"], reverse=True)
 
@@ -220,7 +219,6 @@ def select_diverse_candidates(candidates: list[dict]) -> list[dict]:
         if not added_in_round:
             break
 
-    # Si por diversidad quedamos cortos, completar con los mejores restantes
     if len(selected) < TARGET_MIN_ITEMS:
         remaining = []
         for medio in medios:
@@ -265,6 +263,9 @@ def generate_ai_ficha(title: str, summary: str, medio: str, score: float):
 def curar_noticias():
     timestamp_inicio = datetime.now().strftime("%H:%M:%S")
     print(f"--- Iniciando Barrido NewsLens: {timestamp_inicio} ---")
+
+    if not OPENAI_API_KEY:
+        print("⚠️ OPENAI_API_KEY no está configurada. Todas las fichas caerán en fallback.")
 
     candidates = get_candidates()
     if not candidates:
@@ -315,5 +316,3 @@ def curar_noticias():
 
 if __name__ == "__main__":
     curar_noticias()
-    if not OPENAI_API_KEY:
-    print("⚠️ OPENAI_API_KEY no está configurada. Todas las fichas caerán en fallback.")
