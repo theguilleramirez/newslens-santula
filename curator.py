@@ -315,3 +315,5 @@ def curar_noticias():
 
 if __name__ == "__main__":
     curar_noticias()
+    if not OPENAI_API_KEY:
+    print("⚠️ OPENAI_API_KEY no está configurada. Todas las fichas caerán en fallback.")
