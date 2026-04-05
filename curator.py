@@ -14,36 +14,40 @@ from openai import OpenAI
 # Configuración general
 # =========================
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
-MODEL_NAME = os.environ.get("OPENAI_MODEL", "gpt-5.4-mini")
+# Forzamos gpt-4o-mini por estabilidad y costo, compatible con la nueva librería
+MODEL_NAME = "gpt-4o-mini"
 
-TARGET_MIN_ITEMS = int(os.environ.get("TARGET_MIN_ITEMS", "8"))
-TARGET_MAX_ITEMS = int(os.environ.get("TARGET_MAX_ITEMS", "10"))
-MAX_ITEMS_PER_FEED = int(os.environ.get("MAX_ITEMS_PER_FEED", "8"))
-MAX_PER_MEDIO = int(os.environ.get("MAX_PER_MEDIO", "2"))
+TARGET_MIN_ITEMS = 8
+TARGET_MAX_ITEMS = 12
+MAX_ITEMS_PER_FEED = 10
+MAX_PER_MEDIO = 2 # Evita que un solo medio (como Xataka) domine el feed
 
-AI_MAX_REQUESTS = int(os.environ.get("AI_MAX_REQUESTS", "8"))
-SLEEP_BETWEEN_AI_CALLS = int(os.environ.get("SLEEP_BETWEEN_AI_CALLS", "2"))
-REQUEST_TIMEOUT_SECONDS = int(os.environ.get("REQUEST_TIMEOUT_SECONDS", "20"))
+AI_MAX_REQUESTS = 12
+SLEEP_BETWEEN_AI_CALLS = 1
+REQUEST_TIMEOUT_SECONDS = 20
 
 WEIGHT_IMPACTO = 0.65
 WEIGHT_NOVEDAD = 0.35
-MIN_RELEVANCE_SCORE = float(os.environ.get("MIN_RELEVANCE_SCORE", "18"))
+# Subimos a 25 para filtrar el ruido y quedarnos con lo mejor
+MIN_RELEVANCE_SCORE = 25.0
 
+# Fuentes optimizadas: Mayor peso institucional y diversidad
 FEEDS = [
-    {"medio": "Infobae Salud", "url": "https://www.infobae.com/arc/outboundfeeds/rss/category/salud/", "idioma": "es"},
-    {"medio": "El País Ciencia", "url": "https://elpais.com/rss/ciencia/ciencia.xml", "idioma": "es"},
-    {"medio": "Xataka", "url": "http://feeds.weblogssl.com/xataka2", "idioma": "es"},
-    {"medio": "Science Daily", "url": "https://www.sciencedaily.com/rss/all.xml", "idioma": "en"},
+    {"medio": "Harvard Health", "url": "https://www.health.harvard.edu/blog/feed", "idioma": "en"},
+    {"medio": "Pew Research", "url": "https://www.pewresearch.org/feed/", "idioma": "en"},
+    {"medio": "Scientific American", "url": "https://www.scientificamerican.com/section/reuters/index.xml", "idioma": "en"},
     {"medio": "MIT Tech Review", "url": "https://www.technologyreview.com/feed/", "idioma": "en"},
     {"medio": "BBC Future", "url": "https://feeds.bbci.co.uk/future/rss.xml", "idioma": "en"},
-    {"medio": "Wired Science", "url": "https://www.wired.com/feed/category/science/latest/rss", "idioma": "en"},
+    {"medio": "El País Ciencia", "url": "https://elpais.com/rss/ciencia/ciencia.xml", "idioma": "es"},
+    {"medio": "Infobae Salud", "url": "https://www.infobae.com/arc/outboundfeeds/rss/category/salud/", "idioma": "es"},
+    {"medio": "Psychology Today", "url": "https://www.psychologytoday.com/intl/front/feed", "idioma": "en"},
+    {"medio": "Mayo Clinic", "url": "https://newsnetwork.mayoclinic.org/category/health-tips/feed/", "idioma": "en"}
 ]
 
 PROMPT_SISTEMA = """
-Eres el socio estratégico de Santiago González (Santula).
-Analiza noticias basadas en evidencia y genera una FICHA DE PRODUCCIÓN PARA REELS en ESPAÑOL.
+Eres el socio estratégico de Santiago González (Santula). Tu tarea es analizar noticias basadas en evidencia.
+Devuelve una FICHA DE PRODUCCIÓN PARA REELS en ESPAÑOL con este formato exacto:
 
-Formato exacto de salida:
 ÁNGULO EDITORIAL: ...
 HOOK: ...
 EL DATO: ...
@@ -51,37 +55,25 @@ BAJADA SANTULA: ...
 REF. CULTURA: ...
 
 Reglas:
-- Tono profesional, humano y directo.
-- Evitar frases genéricas y repetidas.
-- NO repetir exactamente el mismo hook entre notas.
-- El ángulo editorial debe ser específico de la noticia, no plantilla.
-- Si no hay referencia cultural útil, escribir: "Opcional. No aplica para esta nota."
-- Máximo 110 palabras en total.
+- Tono profesional, humano y directo. Sin clichés.
+- Si la noticia está en inglés, tradúcela y sintetízala directamente al español.
+- Mantener foco en el impacto estratégico para la vida cotidiana.
 """.strip()
 
 IMPACTO_KEYWORDS = [
-    "salud", "cáncer", "corazón", "diabetes", "alzheimer", "energía", "educación", "empleo", "trabajo",
-    "costo", "precio", "hogar", "vivienda", "movilidad", "seguridad", "clima", "aire", "agua",
-    "comida", "alimentación", "mental", "bienestar", "consumo", "medicina", "hospital",
-    "public health", "health", "cost", "jobs", "education", "climate", "food", "safety",
+    "salud", "cáncer", "corazón", "diabetes", "alzheimer", "energía", "educación", "empleo",
+    "costo", "precio", "vivienda", "seguridad", "clima", "alimentación", "mental", "bienestar",
+    "public health", "health", "cost", "jobs", "education", "climate", "food", "longevity"
 ]
 
 NOVEDAD_KEYWORDS = [
     "estudio", "investigación", "descubr", "hallazgo", "innov", "avance", "ensayo", "tecnología", "ia",
     "inteligencia artificial", "universidad", "científico", "science", "research", "discovery",
-    "breakthrough", "innovation", "ai", "machine learning", "trial", "study",
+    "breakthrough", "innovation", "ai", "machine learning", "trial", "study"
 ]
 
-LOW_VALUE_KEYWORDS = [
-    "opinión", "opinion", "celebrity", "famos", "horoscope", "astrolog", "deportes", "sports",
-]
-
-HTTP_HEADERS = {
-    "User-Agent": "Mozilla/5.0 (compatible; NewsLensBot/1.0; +https://github.com/)"
-}
-
+HTTP_HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; NewsLensBot/1.0)"}
 CLIENT = OpenAI(api_key=OPENAI_API_KEY) if OPENAI_API_KEY else None
-
 
 def normalize_text(value: str) -> str:
     clean = unescape(value or "")
@@ -89,230 +81,101 @@ def normalize_text(value: str) -> str:
     clean = re.sub(r"\s+", " ", clean)
     return clean.strip()
 
-
-def keyword_score(text: str, keywords: list[str], max_score: int = 100) -> int:
-    text_lower = text.lower()
-    matches = sum(1 for kw in keywords if kw in text_lower)
-    return min(max_score, matches * 15)
-
-
-def low_value_penalty(text: str) -> int:
-    text_lower = text.lower()
-    matches = sum(1 for kw in LOW_VALUE_KEYWORDS if kw in text_lower)
-    return matches * 12
-
-
 def compute_relevance_score(title: str, summary: str) -> float:
-    merged = f"{title} {summary}".strip()
-    impacto = keyword_score(merged, IMPACTO_KEYWORDS)
-    novedad = keyword_score(merged, NOVEDAD_KEYWORDS)
-    score = (impacto * WEIGHT_IMPACTO) + (novedad * WEIGHT_NOVEDAD) - low_value_penalty(merged)
+    merged = f"{title} {summary}".lower()
+    impacto = sum(15 for kw in IMPACTO_KEYWORDS if kw in merged)
+    novedad = sum(15 for kw in NOVEDAD_KEYWORDS if kw in merged)
+    score = (min(100, impacto) * WEIGHT_IMPACTO) + (min(100, novedad) * WEIGHT_NOVEDAD)
     return max(0.0, min(100.0, round(score, 2)))
 
-
-def build_fallback_ficha(title: str, summary: str, medio: str, idioma: str) -> str:
-    short_summary = summary[:320] if summary else "Nota breve sin resumen expandido en el feed."
-
-    hook_variants = [
-        f"Si esto escala, puede cambiar decisiones cotidianas: {title[:80]}.",
-        f"Una señal silenciosa con impacto real: {title[:80]}.",
-        f"No es una moda: este dato puede afectar tu día a día: {title[:80]}.",
-    ]
-    hook = hook_variants[hash(title) % len(hook_variants)]
-
-    idioma_label = "inglés" if idioma == "en" else "español"
-
+def build_fallback_ficha(title, summary, medio):
     return (
-        f"ÁNGULO EDITORIAL: {medio} publica una señal concreta con impacto social potencial, traducible al ciudadano común.\n"
-        f"HOOK: {hook}\n"
-        f"EL DATO: {short_summary}\n"
-        f"BAJADA SANTULA: Explicarlo en lenguaje simple, conectándolo con hábitos, costos o decisiones reales del público. (Fuente original en {idioma_label}).\n"
-        "REF. CULTURA: Opcional. No aplica para esta nota."
+        f"ÁNGULO EDITORIAL: Análisis pendiente (IA en pausa).\n"
+        f"HOOK: Noticia de {medio}: {title[:70]}...\n"
+        f"EL DATO: {summary[:200] if summary else 'Sin resumen disponible.'}\n"
+        f"BAJADA SANTULA: Revisar fuente original para extraer ángulo local.\n"
+        f"REF. CULTURA: N/A"
     )
 
-
-def parse_feed_with_requests(url: str):
+def generate_ai_ficha(title, summary, medio, score):
+    if not CLIENT: return None
     try:
-        response = requests.get(url, headers=HTTP_HEADERS, timeout=REQUEST_TIMEOUT_SECONDS)
-        response.raise_for_status()
-        return feedparser.parse(response.content)
-    except Exception as exc:
-        print(f"     ⚠️ Feed no disponible ({url}): {exc}")
+        response = CLIENT.chat.completions.create(
+            model=MODEL_NAME,
+            messages=[
+                {"role": "system", "content": PROMPT_SISTEMA},
+                {"role": "user", "content": f"Medio: {medio}\nScore: {score}\nTítulo: {title}\nResumen: {summary[:1000]}"}
+            ],
+            temperature=0.7
+        )
+        return response.choices[0].message.content.strip()
+    except Exception as e:
+        print(f"     ❌ Error en llamada API: {e}")
         return None
 
-
-def get_candidates() -> list[dict]:
+def curar_noticias():
+    print(f"--- Iniciando NewsLens: {datetime.now().strftime('%H:%M:%S')} ---")
     candidates = []
     seen_links = set()
 
     for feed in FEEDS:
-        print(f"Revisando: {feed['medio']}...")
-        parsed = parse_feed_with_requests(feed["url"])
-        if not parsed or not getattr(parsed, "entries", None):
-            continue
+        print(f"Leyendo: {feed['medio']}...")
+        try:
+            resp = requests.get(feed["url"], headers=HTTP_HEADERS, timeout=REQUEST_TIMEOUT_SECONDS)
+            parsed = feedparser.parse(resp.content)
+            for entry in parsed.entries[:MAX_ITEMS_PER_FEED]:
+                link = entry.get("link", "").strip()
+                if not link or link in seen_links: continue
+                
+                title = normalize_text(entry.get("title", ""))
+                summary = normalize_text(entry.get("summary", entry.get("description", "")))
+                score = compute_relevance_score(title, summary)
+                
+                if score >= MIN_RELEVANCE_SCORE:
+                    candidates.append({
+                        "titulo": title, "link": link, "medio": feed["medio"],
+                        "idioma": feed["idioma"], "fecha": datetime.now().strftime("%d/%m/%Y"),
+                        "summary": summary, "score": score
+                    })
+                    seen_links.add(link)
+        except Exception as e:
+            print(f"⚠️ Error feed {feed['medio']}: {e}")
 
-        for entry in parsed.entries[:MAX_ITEMS_PER_FEED]:
-            link = entry.get("link", "").strip()
-            if not link or link in seen_links:
-                continue
-
-            title = normalize_text(entry.get("title", ""))
-            summary = normalize_text(entry.get("summary", entry.get("description", "")))
-
-            if not title:
-                continue
-
-            score = compute_relevance_score(title, summary)
-            if score < MIN_RELEVANCE_SCORE:
-                continue
-
-            candidates.append(
-                {
-                    "titulo": title,
-                    "link": link,
-                    "medio": feed["medio"],
-                    "idioma": feed.get("idioma", "es"),
-                    "fecha": datetime.now().strftime("%d/%m/%Y"),
-                    "summary": summary,
-                    "score": score,
-                }
-            )
-            seen_links.add(link)
-
+    # Selección diversa: max por medio
     candidates.sort(key=lambda x: x["score"], reverse=True)
-    return candidates
-
-
-def select_diverse_candidates(candidates: list[dict]) -> list[dict]:
-    """
-    Selecciona noticias con diversidad de medios.
-    - Máximo MAX_PER_MEDIO por medio.
-    - Entre TARGET_MIN_ITEMS y TARGET_MAX_ITEMS si hay suficiente volumen.
-    """
-    buckets = defaultdict(list)
-    for item in candidates:
-        buckets[item["medio"]].append(item)
-
-    for medio in buckets:
-        buckets[medio].sort(key=lambda x: x["score"], reverse=True)
-
-    medios = sorted(buckets.keys())
+    counts = defaultdict(int)
     selected = []
-    selected_by_medio = defaultdict(int)
-
-    while len(selected) < TARGET_MAX_ITEMS:
-        added_in_round = False
-        for medio in medios:
-            if selected_by_medio[medio] >= MAX_PER_MEDIO:
-                continue
-            if not buckets[medio]:
-                continue
-
-            candidate = buckets[medio].pop(0)
-            selected.append(candidate)
-            selected_by_medio[medio] += 1
-            added_in_round = True
-
-            if len(selected) >= TARGET_MAX_ITEMS:
-                break
-
-        if not added_in_round:
-            break
-
-    if len(selected) < TARGET_MIN_ITEMS:
-        remaining = []
-        for medio in medios:
-            remaining.extend(buckets[medio])
-        remaining.sort(key=lambda x: x["score"], reverse=True)
-
-        for item in remaining:
-            if len(selected) >= TARGET_MIN_ITEMS:
-                break
-            selected.append(item)
-
-    return selected
-
-
-def generate_ai_ficha(title: str, summary: str, medio: str, score: float):
-    if not CLIENT:
-        raise RuntimeError("OPENAI_API_KEY no configurada. No se puede generar ficha con IA.")
-
-    user_prompt = (
-        f"Medio: {medio}\n"
-        f"Relevancia estimada: {score}\n"
-        f"Título: {title}\n"
-        f"Resumen: {summary[:1200]}\n"
-    )
-
-    response = CLIENT.chat.completions.create(
-        model=MODEL_NAME,
-        messages=[
-            {"role": "system", "content": PROMPT_SISTEMA},
-            {"role": "user", "content": user_prompt},
-        ],
-    )
-
-    if response and response.choices and response.choices[0].message:
-        content = response.choices[0].message.content
-        if content:
-            return content.strip()
-
-    raise RuntimeError("OpenAI respondió sin contenido utilizable.")
-
-
-def curar_noticias():
-    timestamp_inicio = datetime.now().strftime("%H:%M:%S")
-    print(f"--- Iniciando Barrido NewsLens: {timestamp_inicio} ---")
-
-    if not OPENAI_API_KEY:
-        print("⚠️ OPENAI_API_KEY no está configurada. Todas las fichas caerán en fallback.")
-
-    candidates = get_candidates()
-    if not candidates:
-        print("--- No se encontraron candidatos en los feeds. Se conserva el data.json existente. ---")
-        return
-
-    selected = select_diverse_candidates(candidates)
+    for c in candidates:
+        if counts[c["medio"]] < MAX_PER_MEDIO and len(selected) < TARGET_MAX_ITEMS:
+            selected.append(c)
+            counts[c["medio"]] += 1
 
     articulos_curados = []
-    ai_requests_used = 0
+    ai_requests = 0
 
     for item in selected:
         ficha = None
         provider = "fallback"
-
-        if ai_requests_used < AI_MAX_REQUESTS:
-            try:
-                print(f"  -> IA(OpenAI): {item['titulo'][:70]}...")
-                ficha = generate_ai_ficha(item["titulo"], item["summary"], item["medio"], item["score"])
-                if ficha:
-                    provider = "openai"
-                    ai_requests_used += 1
-                time.sleep(SLEEP_BETWEEN_AI_CALLS)
-            except Exception as exc:
-                print(f"     ⚠️ Error IA OpenAI: {exc}")
+        if ai_requests < AI_MAX_REQUESTS:
+            print(f"  -> Procesando IA: {item['titulo'][:50]}...")
+            ficha = generate_ai_ficha(item["titulo"], item["summary"], item["medio"], item["score"])
+            if ficha:
+                provider = "openai"
+                ai_requests += 1
+            time.sleep(SLEEP_BETWEEN_AI_CALLS)
 
         if not ficha:
-            ficha = build_fallback_ficha(item["titulo"], item["summary"], item["medio"], item["idioma"])
+            ficha = build_fallback_ficha(item["titulo"], item["summary"], item["medio"])
 
-        articulos_curados.append(
-            {
-                "titulo": item["titulo"],
-                "link": item["link"],
-                "medio": item["medio"],
-                "idioma": item["idioma"],
-                "fecha": item["fecha"],
-                "score": item["score"],
-                "provider": provider,
-                "ficha": ficha,
-            }
-        )
+        articulos_curados.append({
+            "titulo": item["titulo"], "link": item["link"], "medio": item["medio"],
+            "idioma": item["idioma"], "fecha": item["fecha"], "score": item["score"],
+            "provider": provider, "ficha": ficha
+        })
 
-    with open("data.json", "w", encoding="utf-8") as file_obj:
-        json.dump(articulos_curados, file_obj, indent=4, ensure_ascii=False)
-
-    print(f"--- Éxito: {len(articulos_curados)} fichas generadas ({ai_requests_used} con OpenAI) ---")
-
+    with open("data.json", "w", encoding="utf-8") as f:
+        json.dump(articulos_curados, f, indent=4, ensure_ascii=False)
+    print(f"--- Éxito: {len(articulos_curados)} noticias guardadas ---")
 
 if __name__ == "__main__":
     curar_noticias()
