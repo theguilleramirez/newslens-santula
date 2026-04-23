@@ -1,102 +1,102 @@
 [
     {
-        "titulo": "La mayoría abandonamos el gimnasio al mes de haber vuelto a empezar. La ciencia tiene claro qué está pasando",
-        "link": "https://www.xataka.com/medicina-y-salud/problema-no-tu-fuerza-voluntad-ciencia-explica-que-abandonas-gimnasio-al-mes-empezar",
+        "titulo": "Los nacidos entre 1950 y 1970 tienen una ventaja psicológica sobre las demás generaciones: están entrando en su \"peak\"",
+        "link": "https://www.xataka.com/investigacion/nacidos-1950-1970-tienen-ventaja-psicologica-demas-generaciones-estan-entrando-su-peak-1",
         "medio": "Xataka",
         "idioma": "es",
-        "fecha": "22/04/2026",
-        "score": 100.0,
+        "fecha": "23/04/2026",
+        "score": 80.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** ¿Por qué abandonamos el gimnasio tan rápido? La ciencia revela que nuestros objetivos rígidos son una de las principales razones. En lugar de motivarnos, nos desmotivan y hacen que nos sintamos fracasados. Aprender a establecer metas flexibles puede ser la clave para mantenernos activos y saludables.\n\n**HOOK:** \"¿Por qué el gimnasio se convierte en un recuerdo después de un mes? La respuesta está en tus objetivos.\"\n\n**EL DATO:** Un estudio reciente muestra que establecer metas de ejercicio demasiado estrictas, como \"ir al gimnasio 4 días a la semana\", puede llevar a una mentalidad de \"todo o nada\". Si no cumplimos con esos objetivos, abandonamos completamente. La clave está en ser flexibles y adaptarnos a nuestras circunstancias.\n\n**BAJADA SANTULA:** En lugar de plantearte metas inalcanzables, intenta establecer objetivos más realistas y adaptables. Por ejemplo, comprométete a hacer ejercicio 2-3 veces a la semana, sin importar la duración. La idea es disfrutar del proceso y no castigarte si un día no puedes cumplirlo. Cada pequeño paso cuenta.\n\n**REF. CULTURA:** N/A"
+        "ficha": "ÁNGULO EDITORIAL: En un mundo que a menudo asocia la vejez con la rigidez y el desencanto, la ciencia nos muestra que en realidad, las personas de 60 a 70 años están en su mejor momento emocional. Esta información es crucial porque desafía estereotipos y resalta el valor de la experiencia en nuestra sociedad.\n\nHOOK: \"¿Sabías que los mayores de 60 están en su mejor momento emocional?\"\n\nEL DATO: Estudios demuestran que las personas nacidas entre 1950 y 1970 experimentan un \"pico\" de bienestar emocional y competencia social. A medida que envejecemos, nuestra personalidad se afina, y este proceso se traduce en una mayor satisfacción y habilidades interpersonales, en contraste con las generaciones más jóvenes.\n\nBAJADA SANTULA: Esto nos invita a replantear cómo valoramos a nuestros mayores. En lugar de verlos como personas desconectadas, deberíamos reconocer y aprovechar su sabiduría y habilidades emocionales. En nuestra vida cotidiana, buscar su consejo o involucrarlos en decisiones familiares puede enriquecer nuestras experiencias y fortalecer vínculos intergeneracionales.\n\nREF. CULTURA: \"El viejo y el mar\" de Ernest Hemingway, donde la experiencia y la perseverancia del protagonista muestran que la verdadera fortaleza no disminuye con la edad, sino que se transforma y refina."
+    },
+    {
+        "titulo": "Creían que habían encontrado trabajo en grandes empresas. En realidad estaban siendo engañados: así funciona la trampa",
+        "link": "https://www.xataka.com/seguridad/creian-que-habian-encontrado-trabajo-grandes-empresas-realidad-estaban-siendo-enganados-asi-funciona-trampa",
+        "medio": "Xataka",
+        "idioma": "es",
+        "fecha": "23/04/2026",
+        "score": 40.0,
+        "provider": "openai",
+        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: En la búsqueda de empleo, la esperanza puede convertirse en un arma de doble filo. Las oportunidades laborales son escasas y, por lo tanto, las trampas están cada vez más sofisticadas. Comprender cómo funcionan estos fraudes es vital para proteger nuestra información y evitar caer en la trampa.\n\nHOOK: \"¿Estás buscando trabajo? ¡Cuidado, podrías estar en el camino equivocado!\"\n\nEL DATO: Una nueva investigación revela que los ciberdelincuentes están utilizando una campaña de phishing muy elaborada, imitando empresas reconocidas como Meta y Disney. Estas estafas buscan robar tus credenciales a través de correos electrónicos que parecen legítimos, engañándote para que ingreses a sitios falsos.\n\nBAJADA SANTULA: En la actualidad, es fundamental tener un ojo crítico ante las ofertas laborales que recibimos. Verifica siempre la autenticidad de los correos y nunca compartas tus credenciales sin asegurarte de que estás en el sitio correcto. La precaución es clave para protegerte en un mercado laboral ya de por sí complicado.\n\nREF. CULTURA: \"El lobo de Wall Street\" – una película que ilustra cómo las apariencias pueden engañar y las consecuencias de dejarse llevar por la ambición sin cuestionar la realidad detrás de las oportunidades."
+    },
+    {
+        "titulo": "En España hemos glorificado la larga siesta. En los estudios científicos tienen otra opinión al respecto",
+        "link": "https://www.xataka.com/medicina-y-salud/espana-hemos-glorificado-siesta-para-ciencia-dormir-30-minutos-al-dia-bandera-roja-para-tu-salud",
+        "medio": "Xataka",
+        "idioma": "es",
+        "fecha": "23/04/2026",
+        "score": 40.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La siesta es un símbolo de la cultura mediterránea, pero es importante cuestionar si realmente nos beneficia. Hoy, más que nunca, necesitamos entender cómo nuestros hábitos afectan nuestra salud y productividad en un mundo que nunca se detiene.\n\nHOOK: ¿La siesta es un placer o un peligro para tu salud?\n\nEL DATO: Un estudio de la Universidad de Murcia analizó a más de 3.000 adultos y encontró que las siestas que superan los 30 minutos pueden estar relacionadas con problemas de salud. La clave está en la duración: menos de media hora es reparador, más tiempo podría ser perjudicial.\n\nBAJADA SANTULA: Si amas la siesta, no la elimines, pero controla su duración. Una pequeña pausa puede recargar tus energías, pero si te pasas, podrías acabar más cansado y afectar tu salud a largo plazo. Ajusta tu descanso para que sea realmente reparador y beneficioso.\n\nREF. CULTURA: “El poder de la hora de la siesta” de Gabriel García Márquez ilustra cómo un simple momento de descanso puede ser un refugio, pero también es vital saber cuándo detenerse para evitar que se convierta en un obstáculo."
     },
     {
         "titulo": "What parents say about their teen’s uses of social media",
         "link": "https://www.pewresearch.org/internet/2026/04/15/what-parents-say-about-their-teens-uses-of-social-media/",
         "medio": "Pew Research",
         "idioma": "en",
-        "fecha": "22/04/2026",
+        "fecha": "23/04/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La percepción de los padres sobre el uso de redes sociales por parte de sus hijos adolescentes refleja preocupaciones que van más allá de la tecnología. Entender estas opiniones puede ayudarnos a establecer un diálogo más abierto sobre el bienestar juvenil y la convivencia digital.\n\nHOOK: \"¿Qué piensan realmente los padres sobre las redes sociales de sus hijos?\"\n\nEL DATO: Un estudio de Pew Research revela que el 60% de los padres cree que las redes sociales tienen efectos negativos en la salud mental de sus hijos adolescentes. Además, la percepción varía según la plataforma utilizada; por ejemplo, muchos ven más riesgos en aplicaciones como TikTok que en Facebook.\n\nBAJADA SANTULA: En la vida cotidiana, esto significa que como adultos, debemos ser proactivos en educar y guiar a nuestros hijos sobre el uso responsable de la tecnología. Fomentar conversaciones abiertas y establecer límites puede ayudar a mitigar esos riesgos percibidos.\n\nREF. CULTURA: \"La vida es lo que hacemos de ella\" - Eleanor Roosevelt. Esta frase nos recuerda que, así como en la vida, el uso de las redes sociales depende de cómo decidimos interactuar con ellas."
+        "ficha": "ÁNGULO EDITORIAL: La preocupación de los padres sobre el uso de redes sociales por parte de sus hijos adolescentes revela un dilema crucial: ¿cómo encontrar un equilibrio entre los beneficios y riesgos de estas plataformas en la vida cotidiana de los jóvenes?\n\nHOOK: \"¿Son las redes sociales un refugio o una trampa para nuestros adolescentes?\"\n\nEL DATO: Un estudio de Pew Research revela que el 71% de los padres creen que las redes sociales tienen un impacto negativo en la salud mental de sus hijos adolescentes, pero también reconocen que estas plataformas pueden fomentar la conexión y la creatividad.\n\nBAJADA SANTULA: La clave está en la comunicación. Los padres deben involucrarse activamente en las vidas digitales de sus hijos, estableciendo reglas y promoviendo un uso saludable, para que las redes sociales no se conviertan en un lugar de peligro, sino en una herramienta de desarrollo.\n\nREF. CULTURA: \"La red social\" (The Social Network) – La película que narra la creación de Facebook refleja cómo las redes pueden cambiar vidas, pero también cómo pueden tener consecuencias imprevistas."
     },
     {
-        "titulo": "Teens’ Experiences on TikTok, Instagram and Snapchat",
-        "link": "https://www.pewresearch.org/internet/2026/04/15/teens-experiences-on-tiktok-instagram-and-snapchat/",
-        "medio": "Pew Research",
-        "idioma": "en",
-        "fecha": "22/04/2026",
-        "score": 20.0,
-        "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: Los adolescentes de hoy usan redes sociales para divertirse y conectar, pero la forma en que estas plataformas afectan su bienestar emocional es crucial. Entender esto puede ayudar a padres y educadores a guiar a los jóvenes en un entorno digital más seguro y saludable.\n\nHOOK: \"¿Las redes sociales son una fuente de diversión o de estrés para nuestros adolescentes?\"\n\nEL DATO: Un estudio de Pew Research revela que los adolescentes utilizan principalmente TikTok, Instagram y Snapchat para disfrutar y socializar. Sin embargo, sus experiencias varían: algunos sienten que estas plataformas aumentan su ansiedad y contribuyen al ciberacoso.\n\nBAJADA SANTULA: Es fundamental que padres y educadores aborden abiertamente con los jóvenes cómo se sienten realmente al usar estas redes. Crear espacios de conversación sobre sus experiencias puede ayudar a mitigar los efectos negativos y fomentar un uso más saludable de la tecnología.\n\nREF. CULTURA: \"El Club de los Poetas Muertos\" - una película que nos recuerda la importancia de escuchar y entender las voces de los jóvenes en un mundo que a menudo no lo hace."
-    },
-    {
-        "titulo": "Dormir boca arriba o boca abajo: cuál es la mejor postura y cómo obtener un sueño reparador",
-        "link": "https://www.infobae.com/salud/2026/04/22/dormir-boca-arriba-o-boca-abajo-cual-es-la-mejor-postura-y-como-obtener-un-sueno-reparador/",
+        "titulo": "3 beneficios probados del chocolate negro para el corazón, según la ciencia",
+        "link": "https://www.infobae.com/salud/2026/04/23/3-beneficios-probados-del-chocolate-negro-para-el-corazon-segun-la-ciencia/",
         "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "22/04/2026",
+        "fecha": "23/04/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La calidad del sueño es fundamental para nuestra salud física y mental. Conocer la mejor postura para dormir puede ser la clave para prevenir dolores y mejorar nuestro bienestar diario.\n\n**HOOK:** ¿Sabías que la forma en que duermes puede cambiar tu día por completo?\n\n**EL DATO:** Expertos sugieren que dormir boca arriba es la mejor postura para mantener la alineación de la columna y prevenir dolores matutinos. Dormir de lado puede ser una opción, pero hacerlo boca abajo puede generar más problemas en el cuello y la espalda.\n\n**BAJADA SANTULA:** Si te despiertas con molestias, tal vez sea hora de revisar cómo duermes. Hacer pequeños ajustes en tu postura puede llevar a un sueño más reparador y a días sin dolores.\n\n**REF. CULTURA:** \"Dormir es la mejor meditación.\" - Dalai Lama."
+        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La salud del corazón es una preocupación universal. Con un simple placer como el chocolate negro, podemos hacer algo positivo por nuestro bienestar cardiovascular. ¿Por qué no aprovecharlo?\n\nHOOK: \"¿Sabías que el chocolate negro puede ser el aliado perfecto de tu corazón?\"\n\nEL DATO: Estudios muestran que el chocolate negro, rico en flavonoides, ayuda a mejorar la circulación sanguínea, reducir la presión arterial y proteger contra enfermedades cardíacas. ¡Así de simple!\n\nBAJADA SANTULA: Incorporar chocolate negro en tu dieta no solo es un capricho, es una estrategia inteligente para cuidar tu corazón. Opta por una porción pequeña y disfruta de sus beneficios mientras cuidas tu salud.\n\nREF. CULTURA: \"El chocolate es la respuesta a muchas preguntas de la vida.\" - N/A"
     },
     {
-        "titulo": "Los 6 fallos más frecuentes al consumir fibra que afectan la microbiota y el metabolismo",
-        "link": "https://www.infobae.com/salud/2026/04/22/los-6-fallos-mas-frecuentes-al-consumir-fibra-que-afectan-la-microbiota-y-el-metabolismo/",
-        "medio": "Infobae Salud",
+        "titulo": "¡Últimas horas para participar en el sorteo de un pack de 'Super Mario Galaxy: la película x Lush! Solo para miembros de Xtra",
+        "link": "https://www.xataka.com/xataka-xtra/ultimas-horas-para-participar-sorteo-pack-super-mario-galaxy-pelicula-x-lush-solo-para-miembros-xtra",
+        "medio": "Xataka",
         "idioma": "es",
-        "fecha": "22/04/2026",
+        "fecha": "23/04/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La fibra es esencial para nuestra salud, pero muchas personas cometen errores que limitan sus beneficios. Conocer estos fallos puede mejorar nuestro bienestar y ayudar a mantener un metabolismo sano.\n\nHOOK: \"¿Estás cometiendo estos errores con la fibra? ¡Te sorprenderás!\"\n\nEL DATO: Según la nutricionista Federica Amati, muchos de nosotros no estamos aprovechando al máximo la fibra. Errores comunes como no beber suficiente agua, consumir fibra de manera repentina o elegir fuentes de fibra de baja calidad pueden afectar nuestra microbiota y, en consecuencia, nuestro metabolismo.\n\nBAJADA SANTULA: Incorporar fibra en nuestra dieta es más que simplemente añadirla. Debemos hacerlo de manera consciente: aumentar la ingesta gradualmente, asegurarnos de hidratarse correctamente y optar por fuentes de fibra variada, como frutas, verduras y granos enteros, para maximizar sus beneficios.\n\nREF. CULTURA: \"La fibra es el mejor amigo de nuestra salud intestinal\" – N/A."
+        "ficha": "ÁNGULO EDITORIAL: La comunidad digital se fortalece a través de iniciativas que premian la lealtad de sus seguidores. Participar en sorteos exclusivos no solo genera emoción, sino que también fomenta un sentido de pertenencia a una comunidad que comparte intereses comunes.\n\nHOOK: ¡Últimas horas para ganar un pack exclusivo de 'Super Mario Galaxy: la película'!\n\nEL DATO: Los suscriptores de Xataka Xtra tienen la oportunidad de participar en un sorteo exclusivo con un premio valorado en 150 euros, que incluye productos de baño inspirados en 'Super Mario Galaxy'. El sorteo cierra mañana a las 9:00 AM.\n\nBAJADA SANTULA: Si eres amante de la tecnología y de la cultura pop, este tipo de sorteos te permiten no solo ganar productos únicos, sino también conectar con otros entusiastas. Unirte a una comunidad como Xataka Xtra te brinda acceso a beneficios exclusivos que enriquecen tu experiencia.\n\nREF. CULTURA: N/A"
     },
     {
-        "titulo": "Edulcorantes bajo la lupa: un estudio advierte cambios en la microbiota que podrían heredarse",
-        "link": "https://www.infobae.com/salud/ciencia/2026/04/22/edulcorantes-bajo-la-lupa-advierten-cambios-en-la-microbiota-y-afirman-que-podrian-heredarse/",
-        "medio": "Infobae Salud",
+        "titulo": "EEUU acaba de liberar a ocho mujeres que Irán iba a ejecutar. El problema es que Irán dice que fueron generadas por IA",
+        "link": "https://www.xataka.com/magnet/eeuu-acaba-liberar-a-ocho-mujeres-que-iran-iba-a-ejecutar-problema-que-iran-dice-que-fueron-generadas-ia",
+        "medio": "Xataka",
         "idioma": "es",
-        "fecha": "22/04/2026",
+        "fecha": "23/04/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** Los edulcorantes artificiales, presentes en muchos productos que consumimos a diario, podrían tener un impacto más profundo en nuestra salud de lo que pensamos. Cambios en nuestra microbiota intestinal pueden afectar no solo a nosotros, sino también a las futuras generaciones.\n\n**HOOK:** \"¿Sabías que lo que comes hoy podría afectar la salud de tus hijos mañana?\"\n\n**EL DATO:** Un estudio reciente de investigadores chilenos revela que los edulcorantes artificiales pueden alterar la expresión genética y modificar la microbiota intestinal en modelos animales. Estos cambios pueden influir en la salud metabólica y reducir la diversidad de bacterias beneficiosas en nuestros intestinos.\n\n**BAJADA SANTULA:** Esto significa que, al consumir productos con edulcorantes, no solo estamos afectando nuestra salud actual, sino que también podríamos estar dejando una huella en la microbiota de nuestros hijos. Es crucial revisar lo que elegimos para comer y beber, no solo por nosotros, sino por las generaciones futuras.\n\n**REF. CULTURA:** \"La herencia\" - un concepto que nos recuerda que nuestras decisiones hoy impactan no solo nuestro presente, sino también el futuro de quienes vendrán."
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** En un mundo donde la información se difunde a la velocidad de la luz, la veracidad de las imágenes y noticias es crucial. Entender cómo una imagen puede cambiar narrativas políticas y la vida de personas es esencial en la actualidad.\n\n**HOOK:** \"¿Puede una imagen salvar vidas? La respuesta está en la política internacional.\"\n\n**EL DATO:** Recientemente, Donald Trump compartió una imagen de ocho mujeres que Irán iba a ejecutar, instando a su liberación. Sin embargo, Irán alegó que la imagen era generada por inteligencia artificial, lo que subraya cómo la desinformación puede complicar situaciones graves y afectar decisiones políticas.\n\n**BAJADA SANTULA:** En nuestra vida cotidiana, el impacto de lo que compartimos en redes sociales puede ser enorme. Este caso nos recuerda que siempre debemos verificar la información antes de difundirla, ya que nuestras acciones pueden tener consecuencias reales en la vida de otros.\n\n**REF. CULTURA:** \"La verdad es como el agua; se filtra a través de cualquier grieta.\" - N/A"
     },
     {
-        "titulo": "Ceguera por falta de atención: las razones detrás de no ver lo que está frente a los ojos",
-        "link": "https://www.infobae.com/salud/2026/04/22/ceguera-por-falta-de-atencion-las-razones-detras-de-no-ver-lo-que-esta-frente-a-los-ojos/",
-        "medio": "Infobae Salud",
+        "titulo": "Carrefour está liquidando (a casi el 50%) esta tele QLED de 65 pulgadas con Dolby Vision & Atmos",
+        "link": "https://www.xataka.com/seleccion/carrefour-esta-liquidando-a-casi-50-esta-tele-qled-65-pulgadas-dolby-vision-atmos",
+        "medio": "Xataka",
         "idioma": "es",
-        "fecha": "22/04/2026",
+        "fecha": "23/04/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La ceguera por falta de atención nos recuerda que a menudo pasamos por alto lo que realmente importa en nuestra vida diaria. En un mundo lleno de distracciones, es crucial entender cómo nuestro cerebro procesa la información y cómo eso afecta nuestra percepción de la realidad.\n\nHOOK: \"¿Te has perdido algo que estaba justo frente a ti? No estás solo.\"\n\nEL DATO: Estudios demuestran que nuestro cerebro filtra información constantemente, lo que puede llevarnos a no ver objetos o situaciones que están a la vista. Esto sucede porque nos concentramos en otras tareas, ignorando lo que está a nuestro alrededor.\n\nBAJADA SANTULA: En nuestra rutina diaria, es fácil distraerse con el trabajo, el móvil o las preocupaciones. Esto puede hacer que pasemos por alto detalles importantes en nuestras vidas, como una conversación significativa o un momento especial con seres queridos. La próxima vez que te sientas abrumado, detente y mira a tu alrededor; podrías encontrar algo valioso que antes no notaste.\n\nREF. CULTURA: \"El Principito\" de Antoine de Saint-Exupéry: \"Lo esencial es invisible a los ojos.\""
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** En un mundo donde la tecnología avanza rápidamente, encontrar una buena oferta puede marcar la diferencia en tu entretenimiento diario. Hoy, un televisor de alta gama se vuelve accesible, lo que permite que más personas disfruten de experiencias cinematográficas en casa.\n\n**HOOK:** ¡Aprovecha la liquidación de Carrefour y transforma tu sala en un cine por menos de 350 euros!\n\n**EL DATO:** La Hisense 65E79NQE, un televisor QLED de 65 pulgadas, está rebajado casi un 50%, quedando en solo 329 euros. Con resolución 4K y compatibilidad con Dolby Vision y Atmos, ofrece calidad de imagen y sonido a un precio increíble.\n\n**BAJADA SANTULA:** Esta oferta no solo te ahorra dinero, sino que mejora tu experiencia visual y sonora en casa. Imagina ver tus películas y series favoritas con una calidad que antes solo podías disfrutar en el cine, todo sin romper el banco.\n\n**REF. CULTURA:** \"El Gran Showman\" - Una película que celebra la magia del entretenimiento y cómo una buena experiencia visual puede transformar momentos cotidianos en recuerdos inolvidables."
     },
     {
-        "titulo": "Caminar con mayor intensidad y velocidad, el hábito simple que está revolucionando la salud a partir de los 40 años",
-        "link": "https://www.infobae.com/salud/ciencia/2026/04/22/caminar-con-mayor-intensidad-y-velocidad-el-habito-simple-que-esta-revolucionando-la-salud-a-partir-de-los-40-anos/",
-        "medio": "Infobae Salud",
+        "titulo": "Una oferta de trabajo en LinkedIn prometía teletrabajo y videojuegos: era una trampa triple diseñada por hackers norcoreanos",
+        "link": "https://www.xataka.com/seguridad/hackers-norcoreanos-usan-ofertas-empleo-falsas-linkedin-para-infectar-a-desarrolladores-espanoles",
+        "medio": "Xataka",
         "idioma": "es",
-        "fecha": "22/04/2026",
+        "fecha": "23/04/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: Caminar con mayor intensidad y velocidad puede ser el cambio sencillo que muchas personas de más de 40 años necesitan para mejorar su salud física y mental. Este hábito no solo es accesible, sino que puede tener un impacto significativo en la calidad de vida.\n\nHOOK: ¡Caminar puede ser el mejor medicamento que no estás tomando!\n\nEL DATO: Estudios recientes sugieren que dar más de 7,000 pasos al día puede mejorar notablemente tu salud física y mental. Aumentar la intensidad y la velocidad de tus caminatas es clave para maximizar estos beneficios.\n\nBAJADA SANTULA: Incorporar caminatas más rápidas en tu rutina diaria no requiere mucho tiempo ni recursos. Solo 30 minutos diarios pueden ayudarte a sentirte más enérgico y reducir el riesgo de enfermedades. Es un hábito que puedes empezar hoy mismo.\n\nREF. CULTURA: \"La salud no lo es todo, pero sin ella, todo lo demás es nada\". – Arthur Schopenhauer."
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La seguridad en el mundo laboral digital es más crucial que nunca. Las ofertas de trabajo pueden ser trampas que ponen en riesgo nuestra información personal y profesional. Este caso nos recuerda que es fundamental estar alerta y saber identificar los peligros en plataformas como LinkedIn.\n\n**HOOK:** ¿Una oferta de trabajo que parece perfecta? ¡Cuidado, podría ser una trampa de hackers!\n\n**EL DATO:** Un desarrollador de blockchain casi cae en una sofisticada trampa de ciberespionaje. La oferta de empleo, enviada por un grupo de hackers norcoreanos, era en realidad una estrategia para robar información. Este grupo, conocido como Lazarus, es uno de los más peligrosos del mundo digital.\n\n**BAJADA SANTULA:** En nuestra vida diaria, es común recibir mensajes atractivos en redes sociales. Este caso nos enseña a cuestionar antes de aceptar cualquier propuesta. Mantenernos informados y ser escépticos nos protege de caer en engaños que pueden costarnos mucho más que un empleo.\n\n**REF. CULTURA:** \"La red\" (1995) - Una película que explora cómo la vida digital puede convertirse en una trampa peligrosa si no tenemos cuidado."
     },
     {
-        "titulo": "Vitamina D segura: cuánto sol es necesario y cuándo aplicar protector solar",
-        "link": "https://www.infobae.com/salud/2026/04/22/vitamina-d-segura-cuanto-sol-es-necesario-y-cuando-aplicar-protector-solar/",
-        "medio": "Infobae Salud",
+        "titulo": "Mythos será el modelo más peligroso de IA, pero las compañías ya están tomando nota de sus consejos de seguridad",
+        "link": "https://www.xataka.com/robotica-e-ia/mythos-sera-modelo-peligroso-ia-companias-estan-tomando-nota-sus-consejos-seguridad",
+        "medio": "Xataka",
         "idioma": "es",
-        "fecha": "22/04/2026",
+        "fecha": "23/04/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La salud de nuestra piel es esencial, y entender cómo obtener la vitamina D de forma segura puede marcar la diferencia en nuestra calidad de vida. Con el aumento de enfermedades relacionadas con la piel, es crucial encontrar un equilibrio entre disfrutar del sol y protegernos adecuadamente.\n\nHOOK: ¿Sabías que el sol puede ser tu mejor amigo y tu peor enemigo?\n\nEL DATO: La Cleveland Clinic recomienda que, para obtener suficiente vitamina D, se debe exponerse al sol entre 10 y 30 minutos varias veces a la semana, dependiendo de la piel, edad y condición física, y que se debe aplicar protector solar después de ese tiempo para evitar daños.\n\nBAJADA SANTULA: Esto significa que puedes disfrutar de un rato al aire libre y beneficiar tu salud, pero debes ser consciente de cuándo y cómo proteger tu piel. Así que, antes de salir, planifica tu tiempo al sol y no olvides el protector solar.\n\nREF. CULTURA: \"El sol brilla para todos, pero la sombra también es necesaria.\" - Proverbio."
-    },
-    {
-        "titulo": "Nueva alerta por la caída de la vacunación en Argentina: causas y riesgos para la salud",
-        "link": "https://www.infobae.com/salud/2026/04/22/nueva-alerta-por-la-caida-de-la-vacunacion-en-argentina-causas-y-riesgos-para-la-salud/",
-        "medio": "Infobae Salud",
-        "idioma": "es",
-        "fecha": "22/04/2026",
-        "score": 20.0,
-        "provider": "openai",
-        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La caída en la vacunación en Argentina es una preocupación que afecta a toda la población. Esta situación no solo pone en riesgo a los más vulnerables, como los niños, sino que también puede permitir el regreso de enfermedades que creíamos erradicadas. Es un llamado a la acción para cuidar la salud pública.\n\nHOOK: \"¿Sabías que la caída en la vacunación puede hacer que enfermedades controladas regresen? ¡Hablemos de ello!\"\n\nEL DATO: Según la Sociedad Argentina de Pediatría, el descenso en la aplicación de dosis esenciales ha generado un aumento en el riesgo de que enfermedades como el sarampión o la rubéola resurjan en el país. Esto se debe a que menos personas vacunadas significa menos inmunidad colectiva.\n\nBAJADA SANTULA: Es fundamental que todos, especialmente los padres, comprendan la importancia de mantener al día el calendario de vacunación de sus hijos. Cada dosis cuenta y la salud de la comunidad depende de la responsabilidad individual. Si nos descuidamos, podemos volver a enfrentar brotes de enfermedades que ya habíamos controlado.\n\nREF. CULTURA: \"La vacunación es un acto de amor hacia nuestros hijos y hacia la comunidad\" - N/A."
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La inteligencia artificial avanza a pasos agigantados, pero con grandes poderes vienen grandes responsabilidades. Mythos, el nuevo modelo de IA, plantea serias preocupaciones sobre la ciberseguridad. Esto nos afecta a todos, ya que la seguridad digital está en juego y debemos estar informados.\n\nHOOK: ¿La inteligencia artificial más peligrosa del mundo ya está aquí?\n\nEL DATO: Anthropic ha desarrollado Mythos, un modelo de IA que ha encontrado vulnerabilidades en sistemas operativos y navegadores, lo que podría poner en riesgo nuestra ciberseguridad. Aunque no se ha liberado al público, ya hay empresas que están accediendo a su tecnología debido a su potencial peligro.\n\nBAJADA SANTULA: En nuestra vida diaria, dependemos cada vez más de la tecnología. Este desarrollo de Mythos nos recuerda que, aunque la IA puede ofrecer grandes beneficios, también puede ser una amenaza si no se maneja con cuidado. Es crucial que estemos atentos a cómo se implementan estas tecnologías en nuestro entorno.\n\nREF. CULTURA: \"La tecnología es como un hacha en manos de un criminal\" - Albert Einstein."
     }
 ]
