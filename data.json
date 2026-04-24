@@ -1,102 +1,102 @@
 [
     {
-        "titulo": "Los nacidos entre 1950 y 1970 tienen una ventaja psicológica sobre las demás generaciones: están entrando en su \"peak\"",
-        "link": "https://www.xataka.com/investigacion/nacidos-1950-1970-tienen-ventaja-psicologica-demas-generaciones-estan-entrando-su-peak-1",
-        "medio": "Xataka",
-        "idioma": "es",
-        "fecha": "23/04/2026",
-        "score": 80.0,
-        "provider": "openai",
-        "ficha": "ÁNGULO EDITORIAL: En un mundo que a menudo asocia la vejez con la rigidez y el desencanto, la ciencia nos muestra que en realidad, las personas de 60 a 70 años están en su mejor momento emocional. Esta información es crucial porque desafía estereotipos y resalta el valor de la experiencia en nuestra sociedad.\n\nHOOK: \"¿Sabías que los mayores de 60 están en su mejor momento emocional?\"\n\nEL DATO: Estudios demuestran que las personas nacidas entre 1950 y 1970 experimentan un \"pico\" de bienestar emocional y competencia social. A medida que envejecemos, nuestra personalidad se afina, y este proceso se traduce en una mayor satisfacción y habilidades interpersonales, en contraste con las generaciones más jóvenes.\n\nBAJADA SANTULA: Esto nos invita a replantear cómo valoramos a nuestros mayores. En lugar de verlos como personas desconectadas, deberíamos reconocer y aprovechar su sabiduría y habilidades emocionales. En nuestra vida cotidiana, buscar su consejo o involucrarlos en decisiones familiares puede enriquecer nuestras experiencias y fortalecer vínculos intergeneracionales.\n\nREF. CULTURA: \"El viejo y el mar\" de Ernest Hemingway, donde la experiencia y la perseverancia del protagonista muestran que la verdadera fortaleza no disminuye con la edad, sino que se transforma y refina."
-    },
-    {
-        "titulo": "Creían que habían encontrado trabajo en grandes empresas. En realidad estaban siendo engañados: así funciona la trampa",
-        "link": "https://www.xataka.com/seguridad/creian-que-habian-encontrado-trabajo-grandes-empresas-realidad-estaban-siendo-enganados-asi-funciona-trampa",
-        "medio": "Xataka",
-        "idioma": "es",
-        "fecha": "23/04/2026",
-        "score": 40.0,
-        "provider": "openai",
-        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: En la búsqueda de empleo, la esperanza puede convertirse en un arma de doble filo. Las oportunidades laborales son escasas y, por lo tanto, las trampas están cada vez más sofisticadas. Comprender cómo funcionan estos fraudes es vital para proteger nuestra información y evitar caer en la trampa.\n\nHOOK: \"¿Estás buscando trabajo? ¡Cuidado, podrías estar en el camino equivocado!\"\n\nEL DATO: Una nueva investigación revela que los ciberdelincuentes están utilizando una campaña de phishing muy elaborada, imitando empresas reconocidas como Meta y Disney. Estas estafas buscan robar tus credenciales a través de correos electrónicos que parecen legítimos, engañándote para que ingreses a sitios falsos.\n\nBAJADA SANTULA: En la actualidad, es fundamental tener un ojo crítico ante las ofertas laborales que recibimos. Verifica siempre la autenticidad de los correos y nunca compartas tus credenciales sin asegurarte de que estás en el sitio correcto. La precaución es clave para protegerte en un mercado laboral ya de por sí complicado.\n\nREF. CULTURA: \"El lobo de Wall Street\" – una película que ilustra cómo las apariencias pueden engañar y las consecuencias de dejarse llevar por la ambición sin cuestionar la realidad detrás de las oportunidades."
-    },
-    {
-        "titulo": "En España hemos glorificado la larga siesta. En los estudios científicos tienen otra opinión al respecto",
-        "link": "https://www.xataka.com/medicina-y-salud/espana-hemos-glorificado-siesta-para-ciencia-dormir-30-minutos-al-dia-bandera-roja-para-tu-salud",
-        "medio": "Xataka",
-        "idioma": "es",
-        "fecha": "23/04/2026",
-        "score": 40.0,
-        "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La siesta es un símbolo de la cultura mediterránea, pero es importante cuestionar si realmente nos beneficia. Hoy, más que nunca, necesitamos entender cómo nuestros hábitos afectan nuestra salud y productividad en un mundo que nunca se detiene.\n\nHOOK: ¿La siesta es un placer o un peligro para tu salud?\n\nEL DATO: Un estudio de la Universidad de Murcia analizó a más de 3.000 adultos y encontró que las siestas que superan los 30 minutos pueden estar relacionadas con problemas de salud. La clave está en la duración: menos de media hora es reparador, más tiempo podría ser perjudicial.\n\nBAJADA SANTULA: Si amas la siesta, no la elimines, pero controla su duración. Una pequeña pausa puede recargar tus energías, pero si te pasas, podrías acabar más cansado y afectar tu salud a largo plazo. Ajusta tu descanso para que sea realmente reparador y beneficioso.\n\nREF. CULTURA: “El poder de la hora de la siesta” de Gabriel García Márquez ilustra cómo un simple momento de descanso puede ser un refugio, pero también es vital saber cuándo detenerse para evitar que se convierta en un obstáculo."
-    },
-    {
-        "titulo": "What parents say about their teen’s uses of social media",
-        "link": "https://www.pewresearch.org/internet/2026/04/15/what-parents-say-about-their-teens-uses-of-social-media/",
-        "medio": "Pew Research",
-        "idioma": "en",
-        "fecha": "23/04/2026",
-        "score": 20.0,
-        "provider": "openai",
-        "ficha": "ÁNGULO EDITORIAL: La preocupación de los padres sobre el uso de redes sociales por parte de sus hijos adolescentes revela un dilema crucial: ¿cómo encontrar un equilibrio entre los beneficios y riesgos de estas plataformas en la vida cotidiana de los jóvenes?\n\nHOOK: \"¿Son las redes sociales un refugio o una trampa para nuestros adolescentes?\"\n\nEL DATO: Un estudio de Pew Research revela que el 71% de los padres creen que las redes sociales tienen un impacto negativo en la salud mental de sus hijos adolescentes, pero también reconocen que estas plataformas pueden fomentar la conexión y la creatividad.\n\nBAJADA SANTULA: La clave está en la comunicación. Los padres deben involucrarse activamente en las vidas digitales de sus hijos, estableciendo reglas y promoviendo un uso saludable, para que las redes sociales no se conviertan en un lugar de peligro, sino en una herramienta de desarrollo.\n\nREF. CULTURA: \"La red social\" (The Social Network) – La película que narra la creación de Facebook refleja cómo las redes pueden cambiar vidas, pero también cómo pueden tener consecuencias imprevistas."
-    },
-    {
-        "titulo": "3 beneficios probados del chocolate negro para el corazón, según la ciencia",
-        "link": "https://www.infobae.com/salud/2026/04/23/3-beneficios-probados-del-chocolate-negro-para-el-corazon-segun-la-ciencia/",
+        "titulo": "Cuáles son las estrategias naturales que pueden prevenir calambres musculares, según especialistas",
+        "link": "https://www.infobae.com/salud/2026/04/24/cuales-son-las-estrategias-naturales-que-pueden-prevenir-calambres-musculares-segun-especialistas/",
         "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "23/04/2026",
-        "score": 20.0,
+        "fecha": "24/04/2026",
+        "score": 40.0,
         "provider": "openai",
-        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La salud del corazón es una preocupación universal. Con un simple placer como el chocolate negro, podemos hacer algo positivo por nuestro bienestar cardiovascular. ¿Por qué no aprovecharlo?\n\nHOOK: \"¿Sabías que el chocolate negro puede ser el aliado perfecto de tu corazón?\"\n\nEL DATO: Estudios muestran que el chocolate negro, rico en flavonoides, ayuda a mejorar la circulación sanguínea, reducir la presión arterial y proteger contra enfermedades cardíacas. ¡Así de simple!\n\nBAJADA SANTULA: Incorporar chocolate negro en tu dieta no solo es un capricho, es una estrategia inteligente para cuidar tu corazón. Opta por una porción pequeña y disfruta de sus beneficios mientras cuidas tu salud.\n\nREF. CULTURA: \"El chocolate es la respuesta a muchas preguntas de la vida.\" - N/A"
+        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La prevención de calambres musculares es esencial para mantener una calidad de vida activa y saludable. Con una alimentación adecuada y estrategias naturales, puedes cuidar de tu bienestar físico sin recurrir a medicamentos innecesarios.\n\nHOOK: ¡Olvídate de los calambres! Descubre cómo prevenirlos de manera natural.\n\nEL DATO: Estudios recientes indican que ciertos ingredientes, como el plátano, las espinacas y las almendras, pueden mejorar la función muscular y reducir la incidencia de calambres. Esto se debe a su contenido en potasio, magnesio y calcio, minerales clave para la salud muscular.\n\nBAJADA SANTULA: Incorporar estos alimentos en tu dieta diaria es un paso simple y efectivo que puedes hacer hoy. Consulta con un profesional de la salud para personalizar tu plan y asegúrate de que tu cuerpo esté siempre en óptimas condiciones.\n\nREF. CULTURA: \"La salud es la verdadera riqueza\" - Mahatma Gandhi."
     },
     {
-        "titulo": "¡Últimas horas para participar en el sorteo de un pack de 'Super Mario Galaxy: la película x Lush! Solo para miembros de Xtra",
-        "link": "https://www.xataka.com/xataka-xtra/ultimas-horas-para-participar-sorteo-pack-super-mario-galaxy-pelicula-x-lush-solo-para-miembros-xtra",
-        "medio": "Xataka",
+        "titulo": "El cardio ayuda, pero no es suficiente: así se logra una pérdida de peso sostenible",
+        "link": "https://www.infobae.com/salud/2026/04/24/el-cardio-ayuda-pero-no-es-suficiente-asi-se-logra-una-perdida-de-peso-sostenible/",
+        "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "23/04/2026",
-        "score": 20.0,
+        "fecha": "24/04/2026",
+        "score": 40.0,
         "provider": "openai",
-        "ficha": "ÁNGULO EDITORIAL: La comunidad digital se fortalece a través de iniciativas que premian la lealtad de sus seguidores. Participar en sorteos exclusivos no solo genera emoción, sino que también fomenta un sentido de pertenencia a una comunidad que comparte intereses comunes.\n\nHOOK: ¡Últimas horas para ganar un pack exclusivo de 'Super Mario Galaxy: la película'!\n\nEL DATO: Los suscriptores de Xataka Xtra tienen la oportunidad de participar en un sorteo exclusivo con un premio valorado en 150 euros, que incluye productos de baño inspirados en 'Super Mario Galaxy'. El sorteo cierra mañana a las 9:00 AM.\n\nBAJADA SANTULA: Si eres amante de la tecnología y de la cultura pop, este tipo de sorteos te permiten no solo ganar productos únicos, sino también conectar con otros entusiastas. Unirte a una comunidad como Xataka Xtra te brinda acceso a beneficios exclusivos que enriquecen tu experiencia.\n\nREF. CULTURA: N/A"
+        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La pérdida de peso sostenible no se trata solo de hacer cardio; es un cambio integral en nuestros hábitos que todos podemos aplicar para mejorar nuestra salud y bienestar.\n\nHOOK: \"¿Cardio? No es suficiente para perder peso de forma efectiva.\"\n\nEL DATO: Para lograr una pérdida de peso sostenible, no solo hay que hacer ejercicio cardiovascular, sino también incorporar entrenamiento de fuerza y adoptar una alimentación balanceada. Un déficit calórico se logra con hábitos saludables en conjunto.\n\nBAJADA SANTULA: En nuestra vida diaria, esto significa que no basta con correr o andar en bicicleta. Debemos también incluir ejercicios de fuerza, como levantamiento de pesas, y cuidar lo que comemos. Un enfoque integral que permita que nuestro cuerpo se adapte y mantenga el peso deseado a largo plazo.\n\nREF. CULTURA: “El hombre en busca de sentido” de Viktor Frankl, donde se enfatiza la importancia de encontrar un propósito y adoptar hábitos que enriquezcan nuestra vida."
     },
     {
-        "titulo": "EEUU acaba de liberar a ocho mujeres que Irán iba a ejecutar. El problema es que Irán dice que fueron generadas por IA",
-        "link": "https://www.xataka.com/magnet/eeuu-acaba-liberar-a-ocho-mujeres-que-iran-iba-a-ejecutar-problema-que-iran-dice-que-fueron-generadas-ia",
-        "medio": "Xataka",
+        "titulo": "Señales de un metabolismo lento que pueden afectar tu energía, peso y bienestar diario según expertos",
+        "link": "https://www.infobae.com/salud/2026/04/24/senales-de-un-metabolismo-lento-que-pueden-afectar-tu-energia-peso-y-bienestar-diario-segun-expertos/",
+        "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "23/04/2026",
-        "score": 20.0,
+        "fecha": "24/04/2026",
+        "score": 40.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** En un mundo donde la información se difunde a la velocidad de la luz, la veracidad de las imágenes y noticias es crucial. Entender cómo una imagen puede cambiar narrativas políticas y la vida de personas es esencial en la actualidad.\n\n**HOOK:** \"¿Puede una imagen salvar vidas? La respuesta está en la política internacional.\"\n\n**EL DATO:** Recientemente, Donald Trump compartió una imagen de ocho mujeres que Irán iba a ejecutar, instando a su liberación. Sin embargo, Irán alegó que la imagen era generada por inteligencia artificial, lo que subraya cómo la desinformación puede complicar situaciones graves y afectar decisiones políticas.\n\n**BAJADA SANTULA:** En nuestra vida cotidiana, el impacto de lo que compartimos en redes sociales puede ser enorme. Este caso nos recuerda que siempre debemos verificar la información antes de difundirla, ya que nuestras acciones pueden tener consecuencias reales en la vida de otros.\n\n**REF. CULTURA:** \"La verdad es como el agua; se filtra a través de cualquier grieta.\" - N/A"
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: Un metabolismo lento puede ser más que un simple inconveniente; puede reflejar desequilibrios en nuestra salud que impactan nuestra energía y bienestar diario. Conocer estas señales es clave para tomar acción y mejorar nuestra calidad de vida.\n\nHOOK: \"¿Sientes que tu energía se agota? Podría ser tu metabolismo pidiéndote ayuda.\"\n\nEL DATO: Según expertos, señales como fatiga, aumento de peso inexplicable y cambios en el estado de ánimo son indicativos de un metabolismo lento. Esto puede deberse a factores como la falta de actividad física, estrés o desequilibrios hormonales.\n\nBAJADA SANTULA: Prestar atención a estos síntomas es esencial. Realizar pequeños cambios en nuestra rutina diaria, como incorporar más actividad física y una alimentación balanceada, puede ayudar a reactivar nuestro metabolismo y mejorar nuestro bienestar general.\n\nREF. CULTURA: \"La mente es como un paracaídas, solo funciona si se abre.\" - Albert Einstein. Este pensamiento nos recuerda la importancia de estar atentos a las señales de nuestro cuerpo y abrirnos a nuevas formas de cuidar nuestra salud."
     },
     {
-        "titulo": "Carrefour está liquidando (a casi el 50%) esta tele QLED de 65 pulgadas con Dolby Vision & Atmos",
-        "link": "https://www.xataka.com/seleccion/carrefour-esta-liquidando-a-casi-50-esta-tele-qled-65-pulgadas-dolby-vision-atmos",
+        "titulo": "Como no podemos solucionar la sequía, estamos creando plantas 100% resistentes a ella",
+        "link": "https://www.xataka.com/ecologia-y-naturaleza/como-no-podemos-solucionar-sequia-estamos-creando-plantas-100-resistentes-a-ella",
         "medio": "Xataka",
         "idioma": "es",
-        "fecha": "23/04/2026",
-        "score": 20.0,
+        "fecha": "24/04/2026",
+        "score": 40.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** En un mundo donde la tecnología avanza rápidamente, encontrar una buena oferta puede marcar la diferencia en tu entretenimiento diario. Hoy, un televisor de alta gama se vuelve accesible, lo que permite que más personas disfruten de experiencias cinematográficas en casa.\n\n**HOOK:** ¡Aprovecha la liquidación de Carrefour y transforma tu sala en un cine por menos de 350 euros!\n\n**EL DATO:** La Hisense 65E79NQE, un televisor QLED de 65 pulgadas, está rebajado casi un 50%, quedando en solo 329 euros. Con resolución 4K y compatibilidad con Dolby Vision y Atmos, ofrece calidad de imagen y sonido a un precio increíble.\n\n**BAJADA SANTULA:** Esta oferta no solo te ahorra dinero, sino que mejora tu experiencia visual y sonora en casa. Imagina ver tus películas y series favoritas con una calidad que antes solo podías disfrutar en el cine, todo sin romper el banco.\n\n**REF. CULTURA:** \"El Gran Showman\" - Una película que celebra la magia del entretenimiento y cómo una buena experiencia visual puede transformar momentos cotidianos en recuerdos inolvidables."
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La sequía es una de las crisis ambientales más graves que enfrentamos hoy. Entender cómo las plantas pueden adaptarse a estas condiciones críticas no solo es esencial para la agricultura, sino que también tiene implicaciones directas para nuestra seguridad alimentaria y el futuro del planeta.\n\n**HOOK:** ¿Sabías que cinco aminoácidos pueden salvar nuestras plantas de la sequía?\n\n**EL DATO:** Un equipo de científicos ha descubierto un 'código molecular mínimo' que permite a las plantas reaccionar al estrés hídrico. Han identificado cómo un compuesto llamado ácido abscísico ayuda a las plantas a activar sus defensas cuando el agua escasea. Esto podría llevar a la creación de plantas 100% resistentes a la sequía.\n\n**BAJADA SANTULA:** Imagina un mundo donde las cosechas no se ven afectadas por la falta de agua. Este avance podría significar más alimentos en nuestros platos y menos preocupación por la escasez. Con el cambio climático, estas innovaciones son más relevantes que nunca para asegurar nuestro futuro agrícola.\n\n**REF. CULTURA:** \"El Jardín de los Finzi-Contini\" de Giorgio Bassani, donde la naturaleza y la resiliencia se entrelazan en tiempos de adversidad."
     },
     {
-        "titulo": "Una oferta de trabajo en LinkedIn prometía teletrabajo y videojuegos: era una trampa triple diseñada por hackers norcoreanos",
-        "link": "https://www.xataka.com/seguridad/hackers-norcoreanos-usan-ofertas-empleo-falsas-linkedin-para-infectar-a-desarrolladores-espanoles",
-        "medio": "Xataka",
-        "idioma": "es",
-        "fecha": "23/04/2026",
+        "titulo": "Teens’ Experiences on TikTok, Instagram and Snapchat",
+        "link": "https://www.pewresearch.org/internet/2026/04/15/teens-experiences-on-tiktok-instagram-and-snapchat/",
+        "medio": "Pew Research",
+        "idioma": "en",
+        "fecha": "24/04/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La seguridad en el mundo laboral digital es más crucial que nunca. Las ofertas de trabajo pueden ser trampas que ponen en riesgo nuestra información personal y profesional. Este caso nos recuerda que es fundamental estar alerta y saber identificar los peligros en plataformas como LinkedIn.\n\n**HOOK:** ¿Una oferta de trabajo que parece perfecta? ¡Cuidado, podría ser una trampa de hackers!\n\n**EL DATO:** Un desarrollador de blockchain casi cae en una sofisticada trampa de ciberespionaje. La oferta de empleo, enviada por un grupo de hackers norcoreanos, era en realidad una estrategia para robar información. Este grupo, conocido como Lazarus, es uno de los más peligrosos del mundo digital.\n\n**BAJADA SANTULA:** En nuestra vida diaria, es común recibir mensajes atractivos en redes sociales. Este caso nos enseña a cuestionar antes de aceptar cualquier propuesta. Mantenernos informados y ser escépticos nos protege de caer en engaños que pueden costarnos mucho más que un empleo.\n\n**REF. CULTURA:** \"La red\" (1995) - Una película que explora cómo la vida digital puede convertirse en una trampa peligrosa si no tenemos cuidado."
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** Hoy en día, los adolescentes utilizan plataformas como TikTok, Instagram y Snapchat no solo para divertirse, sino también para conectar con otros. Sin embargo, es crucial entender cómo estas redes sociales afectan su salud mental y experiencias cotidianas, ya que estos impactos pueden ser profundos y duraderos.\n\n**HOOK:** \"¿Las redes sociales son un refugio o una trampa para nuestros adolescentes?\"\n\n**EL DATO:** Un estudio de Pew Research revela que los adolescentes disfrutan de TikTok, Instagram y Snapchat, pero también enfrentan desafíos como el ciberacoso y el impacto negativo en su salud mental, dependiendo del tiempo que pasan en estas plataformas y la forma en que se comunican.\n\n**BAJADA SANTULA:** Es vital que como padres y educadores estemos atentos a las interacciones de los jóvenes en estas redes. Fomentar un uso equilibrado y saludable puede hacer la diferencia. Crear espacios de diálogo sobre sus experiencias puede reducir el riesgo de daño emocional.\n\n**REF. CULTURA:** \"La red social\", una película que explora el impacto de las plataformas digitales en la vida de las personas, ejemplificando cómo pueden ser tanto un vehículo de conexión como de aislamiento."
     },
     {
-        "titulo": "Mythos será el modelo más peligroso de IA, pero las compañías ya están tomando nota de sus consejos de seguridad",
-        "link": "https://www.xataka.com/robotica-e-ia/mythos-sera-modelo-peligroso-ia-companias-estan-tomando-nota-sus-consejos-seguridad",
-        "medio": "Xataka",
+        "titulo": "“Invertir en el cerebro es esencial”: el informe global que destaca el valor humano en la era de la IA",
+        "link": "https://www.infobae.com/salud/ciencia/2026/04/24/invertir-en-el-cerebro-es-esencial-el-informe-global-que-destaca-el-valor-humano-en-la-era-de-la-ia/",
+        "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "23/04/2026",
+        "fecha": "24/04/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La inteligencia artificial avanza a pasos agigantados, pero con grandes poderes vienen grandes responsabilidades. Mythos, el nuevo modelo de IA, plantea serias preocupaciones sobre la ciberseguridad. Esto nos afecta a todos, ya que la seguridad digital está en juego y debemos estar informados.\n\nHOOK: ¿La inteligencia artificial más peligrosa del mundo ya está aquí?\n\nEL DATO: Anthropic ha desarrollado Mythos, un modelo de IA que ha encontrado vulnerabilidades en sistemas operativos y navegadores, lo que podría poner en riesgo nuestra ciberseguridad. Aunque no se ha liberado al público, ya hay empresas que están accediendo a su tecnología debido a su potencial peligro.\n\nBAJADA SANTULA: En nuestra vida diaria, dependemos cada vez más de la tecnología. Este desarrollo de Mythos nos recuerda que, aunque la IA puede ofrecer grandes beneficios, también puede ser una amenaza si no se maneja con cuidado. Es crucial que estemos atentos a cómo se implementan estas tecnologías en nuestro entorno.\n\nREF. CULTURA: \"La tecnología es como un hacha en manos de un criminal\" - Albert Einstein."
+        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: En un mundo cada vez más dominado por la inteligencia artificial, invertir en nuestras habilidades mentales se convierte en una necesidad imperiosa. Este informe nos recuerda que el valor humano es insustituible y esencial para enfrentar los retos del futuro.\n\nHOOK: \"La inteligencia artificial avanza, pero nuestro cerebro sigue siendo la clave del futuro.\"\n\nEL DATO: Un informe del Foro Económico Mundial y el Instituto McKinsey revela que fortalecer nuestras habilidades mentales y fomentar la prevención es crucial para adaptarnos a los desafíos que presenta la revolución tecnológica.\n\nBAJADA SANTULA: En nuestra vida diaria, esto significa que debemos priorizar el desarrollo de nuestra inteligencia emocional y habilidades cognitivas. Ya sea a través de la educación continua, la meditación, o simplemente dedicando tiempo a aprender cosas nuevas, cuidar de nuestra mente es invertir en nuestro futuro.\n\nREF. CULTURA: \"El hombre que calculaba\" de Malba Tahan, que muestra cómo el pensamiento crítico y las habilidades mentales pueden resolver problemas complejos y enriquecer nuestras vidas."
+    },
+    {
+        "titulo": "Por qué la estatura disminuye con los años y cuándo puede indicar un problema de salud",
+        "link": "https://www.infobae.com/salud/2026/04/24/por-que-la-estatura-disminuye-con-los-anos-y-cuando-puede-indicar-un-problema-de-salud/",
+        "medio": "Infobae Salud",
+        "idioma": "es",
+        "fecha": "24/04/2026",
+        "score": 20.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La disminución de la estatura con la edad es un tema que afecta a muchas personas, especialmente a quienes están en la tercera edad. Comprender por qué ocurre y cuándo puede ser un indicativo de un problema de salud es esencial para mantener una buena calidad de vida y prevenir complicaciones.\n\n**HOOK:** \"¿Sabías que puedes perder centímetros con los años? ¡Descubre por qué y cuándo preocuparte!\"\n\n**EL DATO:** A partir de los 50 años, es común que las personas experimenten cambios en la postura, la fuerza muscular y la densidad ósea, lo que puede resultar en una reducción de la estatura. Estos cambios son a menudo sutiles, pero pueden ser señales de condiciones como la osteoporosis o problemas musculares que requieren atención médica.\n\n**BAJADA SANTULA:** Mantener una buena salud ósea y muscular es crucial a medida que envejecemos. Realizar ejercicios de fortalecimiento, llevar una dieta rica en calcio y vitamina D, y hacerse chequeos médicos regulares puede ayudar a prevenir la pérdida de estatura y otros problemas de salud asociados.\n\n**REF. CULTURA:** \"La vida es como un árbol; si no lo cuidas, se marchita.\" (N/A)"
+    },
+    {
+        "titulo": "Esta compañía espacial ha diseñado el traje para astronautas que tú también querrías llevar por la calle",
+        "link": "https://www.xataka.com/espacio/esta-compania-espacial-ha-disenado-traje-para-astronautas-que-tu-tambien-querrias-llevar-calle",
+        "medio": "Xataka",
+        "idioma": "es",
+        "fecha": "24/04/2026",
+        "score": 20.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** Hoy en día, la moda y la funcionalidad se entrelazan en todos los aspectos de nuestra vida. La presentación de trajes espaciales que priorizan la comodidad y la estética no solo representa un avance en la industria espacial, sino que también refleja cómo la tecnología puede mejorar nuestro día a día, desde la ropa que usamos hasta nuestra forma de trabajar.\n\n**HOOK:** ¿Quién no querría llevar un traje espacial en la calle?\n\n**EL DATO:** Vast, una compañía espacial privada, ha diseñado trajes para astronautas que son estéticamente atractivos y funcionales. Estos trajes están pensados para facilitar el movimiento en microgravedad y permiten que los astronautas tengan las manos libres y las herramientas al alcance, adaptándose a las posturas únicas que el cuerpo adopta en el espacio.\n\n**BAJADA SANTULA:** Imagina un día a día en el que tu ropa no solo se vea bien, sino que también te permita moverte con libertad y eficacia. La tendencia hacia la ropa funcional que también es atractiva se está volviendo cada vez más relevante, y estos trajes espaciales son un ejemplo perfecto de cómo la innovación puede transformar nuestra experiencia cotidiana.\n\n**REF. CULTURA:** \"El viaje a las estrellas comienza con un pequeño paso\", una frase que evoca la curiosidad y el deseo de explorar más allá, tal como lo hace la moda espacial en nuestra vida diaria."
+    },
+    {
+        "titulo": "Hoy los torreznos son un manjar de la gastronomía españoles. Durante años fueron despreciados por ser un plato de pastores",
+        "link": "https://www.xataka.com/magnet/hoy-torreznos-manjar-gastronomia-espanoles-durante-anos-fueron-despreciados-ser-plato-pastores",
+        "medio": "Xataka",
+        "idioma": "es",
+        "fecha": "24/04/2026",
+        "score": 20.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** Hoy en día, la gastronomía refleja no solo la cultura, sino también la evolución de la percepción sobre ciertos alimentos. Los torreznos, antes considerados comida de pastores, son ahora un símbolo de la alta cocina española. Esta transformación nos lleva a reflexionar sobre cómo valoramos la comida y los prejuicios que pueden irse desvaneciendo con el tiempo.\n\n**HOOK:** \"¿Sabías que los torreznos eran despreciados y hoy son un manjar? ¡Te cuento su historia!\"\n\n**EL DATO:** El 19 de noviembre de 2024, la Unión Europea otorgó la Indicación Geográfica Protegida (IGP) a los \"Torrezno de Soria\". Esto significa que el torrezno, preparado de forma única en Soria, ha sido reconocido oficialmente por su calidad y tradición. Cada año se consumen casi cinco millones de kilos, y su popularidad sigue creciendo a un ritmo del 30%.\n\n**BAJADA SANTULA:** En nuestra vida diaria, a menudo subestimamos productos que están al alcance y que, por su historia, podrían parecer insignificantes. Los torreznos nos enseñan que lo que hoy nos parece simple puede tener un gran valor cultural y gastronómico. En lugar de buscar siempre lo exótico, probemos y apreciemos lo que nos ofrece nuestra propia tierra.\n\n**REF. CULTURA:** \"La comida es un reflejo de la cultura y la historia de un pueblo.\" - N/A"
+    },
+    {
+        "titulo": "Creíamos que los cruceros ya lo habían llevado todo al límite: con el 'Hero of the Seas', Royal Caribbean opina que no",
+        "link": "https://www.xataka.com/transporte/creiamos-que-cruceros-habian-llevado-todo-al-limite-hero-of-the-seas-royal-caribbean-opina-que-no",
+        "medio": "Xataka",
+        "idioma": "es",
+        "fecha": "24/04/2026",
+        "score": 20.0,
+        "provider": "openai",
+        "ficha": "### FICHA DE PRODUCCIÓN PARA REELS\n\n**ÁNGULO EDITORIAL:** La industria de los cruceros está en constante evolución, buscando reinventarse y ofrecer experiencias que van más allá del simple transporte. ¿Por qué debería importarte? Porque estos cambios reflejan nuestras nuevas expectativas sobre el turismo y la forma en que queremos disfrutar de nuestros viajes.\n\n**HOOK:** \"¿Quién necesita un destino cuando el viaje es el destino?\"\n\n**EL DATO:** Royal Caribbean está introduciendo el 'Hero of the Seas', un crucero que no solo te lleva a lugares, sino que busca ser el principal atractivo del viaje. Este barco es parte de la clase Icon, diseñada para ofrecer experiencias familiares inolvidables con instalaciones y actividades que desafían la imaginación.\n\n**BAJADA SANTULA:** Imagina que en lugar de solo visitar un lugar, como unas vacaciones de playa, tu viaje en crucero se convierte en una aventura en sí misma. Desde restaurantes innovadores hasta actividades emocionantes, estos barcos están redefiniendo lo que significa navegar, haciendo que cada momento a bordo cuente tanto como el destino final.\n\n**REF. CULTURA:** \"El destino es el viaje\", una frase que nos recuerda que a veces el proceso es más importante que el resultado; un concepto que se refleja claramente en la experiencia de los cruceros modernos."
     }
 ]
