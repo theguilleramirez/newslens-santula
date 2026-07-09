@@ -1,92 +1,102 @@
 [
     {
-        "titulo": "Cuándo el hábito de masticar chicle deja de ser inofensivo y se convierte un enemigo de la salud bucal",
-        "link": "https://www.infobae.com/salud/2026/07/08/cuando-el-habito-de-masticar-chicle-deja-de-ser-inofensivo-y-se-convierte-un-enemigo-de-la-salud-bucal/",
+        "titulo": "La ciencia lo tiene claro: quienes jugaron en la calle hasta el anochecer ganaron una habilidad que hoy hemos perdido",
+        "link": "https://www.xataka.com/magnet/ciencia-tiene-claro-quienes-jugaron-calle-anochecer-ganaron-habilidad-que-hoy-hemos-perdido",
+        "medio": "Xataka",
+        "idioma": "es",
+        "fecha": "09/07/2026",
+        "score": 60.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**  \n\n**ÁNGULO EDITORIAL:** En un mundo cada vez más controlado y digital, la libertad de jugar en la calle ha disminuido, lo que ha impactado en el desarrollo de habilidades sociales y emocionales en los niños. Comprender la importancia de estas experiencias puede ayudarnos a crear entornos más saludables y enriquecedores para las nuevas generaciones.\n\n**HOOK:** \"¿Crees que jugar en la calle es cosa del pasado? La ciencia dice que nos estamos perdiendo mucho más que diversión.\"\n\n**EL DATO:** Un estudio de 1971 mostró que los niños de la época podían recorrer varios kilómetros solos, con un conocimiento profundo de su barrio. Sin embargo, décadas después, ese \"territorio de libertad\" se ha reducido drásticamente, afectando el desarrollo de habilidades sociales y de resolución de conflictos. Jugar al aire libre permitía a los niños aprender a manejar riesgos y conflictos sin la intervención de adultos.\n\n**BAJADA SANTULA:** Este estudio nos invita a reflexionar sobre cómo podemos fomentar espacios seguros para que los niños jueguen libremente hoy. ¿Cómo podemos reimaginar nuestras comunidades para que los más pequeños redescubran esa libertad y desarrollen habilidades cruciales para su vida?\n\n**REF. CULTURA:** \"El jardín secreto\" de Frances Hodgson Burnett, donde la exploración y la libertad de los niños se convierten en un camino hacia el crecimiento personal y la conexión con el entorno."
+    },
+    {
+        "titulo": "Cuáles son los dos tés con mayor actividad antioxidante y antiinflamatoria, según un estudio",
+        "link": "https://www.infobae.com/salud/2026/07/09/cuales-son-los-dos-tes-con-mayor-actividad-antioxidante-y-antiinflamatoria-segun-un-estudio/",
         "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "08/07/2026",
+        "fecha": "09/07/2026",
         "score": 40.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: El hábito de masticar chicle, que muchos consideran inofensivo, puede tener implicaciones significativas para la salud bucal. Comprender estos efectos es crucial para cuidar nuestra higiene dental y evitar complicaciones.\n\nHOOK: \"¿Sabías que masticar chicle puede ser un arma de doble filo para tu boca?\"\n\nEL DATO: Aunque masticar chicle puede ayudar a estimular la producción de saliva y mejorar la concentración, estudios han demostrado que un uso excesivo puede llevar a problemas como el desgaste dental y trastornos de la articulación temporomandibular (ATM).\n\nBAJADA SANTULA: Es importante disfrutar de un chicle de vez en cuando, pero hacerlo en exceso puede llevar a dolores y problemas dentales. Moderar su consumo es clave para mantener una boca sana.\n\nREF. CULTURA: \"Todo en exceso es malo\" - Proverbio popular que refleja la necesidad de equilibrio en nuestros hábitos diarios."
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: El estudio revela que ciertos tés pueden ser aliados poderosos para nuestra salud, especialmente en la lucha contra la inflamación y el daño celular. En un mundo donde el estrés y la alimentación poco saludable son comunes, conocer estos aliados naturales puede ser clave para mejorar nuestra calidad de vida.\n\nHOOK: \"¿Sabías que el té puede ser tu mejor defensa contra la inflamación?\"\n\nEL DATO: Un estudio en Food Chemistry analizó cinco variedades de té bajo las mismas condiciones y descubrió que dos de ellas tienen la mayor actividad antioxidante y antiinflamatoria, lo que significa que pueden ayudar a proteger nuestras células y reducir la inflamación en el cuerpo.\n\nBAJADA SANTULA: Incorporar estos tés en nuestra rutina diaria no solo es una forma de disfrutar una bebida deliciosa, sino también de potenciar nuestra salud. Imagina empezar tu día con una taza de té que no solo te despierta, sino que también cuida de tu bienestar a largo plazo.\n\nREF. CULTURA: \"El té es el elixir de la vida\" - Proverbio chino."
     },
     {
-        "titulo": "Caída de la natalidad: solo el 46% de los argentinos considera muy importante tener hijos",
-        "link": "https://www.infobae.com/tendencias/2026/07/08/caida-de-la-natalidad-solo-el-46-de-los-argentinos-considera-muy-importante-tener-hijos/",
+        "titulo": "ASML se ha convertido en el monopolio más importante del mundo. Esta es la historia completa",
+        "link": "https://www.xataka.com/empresas-y-economia/asml-se-ha-convertido-monopolio-importante-mundo-esta-historia-completa",
+        "medio": "Xataka",
+        "idioma": "es",
+        "fecha": "09/07/2026",
+        "score": 40.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** En un mundo donde dependemos de la tecnología, entender quién controla la producción de los chips es crucial. La dominancia de ASML no solo impacta a las grandes empresas, sino que también afecta a cada uno de nosotros en nuestra vida diaria, desde el funcionamiento de nuestros teléfonos hasta la evolución de la inteligencia artificial.\n\n**HOOK:** \"¿Sabías que el futuro de la tecnología depende de una sola empresa?\"\n\n**EL DATO:** ASML es el único proveedor de máquinas que fabrican los chips más avanzados del mundo. Sin sus máquinas, la producción de semiconductores se detendría, afectando todo, desde nuestros dispositivos móviles hasta la inteligencia artificial.\n\n**BAJADA SANTULA:** Imagina que tu smartphone, tu computadora y hasta los sistemas de navegación de los aviones dependen de una única fuente. Si ASML decidiera dejar de operar, el avance tecnológico que damos por sentado podría paralizarse de inmediato. Esto subraya la importancia de diversificar y entender las cadenas de suministro en la tecnología.\n\n**REF. CULTURA:** \"La historia de ASML es un recordatorio de cómo la innovación y la resiliencia pueden cambiar el rumbo de una industria, similar a lo que se narra en 'El hombre que cambió el mundo'.\""
+    },
+    {
+        "titulo": "Es oficial: Xiaomi SkyNomad es la nueva marca de coches de Xiaomi y llegará con un SUV gigantesco donde conducir será secundario",
+        "link": "https://www.xataka.com/movilidad/oficial-xiaomi-skynomad-nueva-marca-coches-xiaomi-llegara-suv-gigantesco-donde-conducir-sera-secundario",
+        "medio": "Xataka",
+        "idioma": "es",
+        "fecha": "09/07/2026",
+        "score": 40.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La llegada de Xiaomi al mundo automotriz nos plantea una nueva forma de entender la movilidad. En un contexto donde la tecnología se fusiona con la vida diaria, ¿cómo impactará esto en nuestra manera de desplazarnos y en la experiencia de conducción?\n\nHOOK: \"¿Xiaomi fabricando coches? ¡La conducción ya no será lo mismo!\"\n\nEL DATO: Xiaomi ha lanzado su nueva marca de coches eléctricos, SkyNomad, centrada en un SUV diseñado para ser más un espacio de convivencia que un mero vehículo de transporte. Este enfoque innovador refleja un cambio en la percepción de la movilidad, donde el confort y la conectividad son prioritarios.\n\nBAJADA SANTULA: Imagina un coche donde puedes trabajar, relajarte o socializar mientras te desplazas. Esta nueva propuesta de Xiaomi está diseñada para transformar los viajes cotidianos en experiencias más agradables y productivas, adaptándose a las necesidades de un mundo cada vez más conectado.\n\nREF. CULTURA: \"El futuro es ahora\", una frase que resuena en la película \"Yo, Robot\", donde la tecnología redefine nuestro día a día."
+    },
+    {
+        "titulo": "5 señales visibles en la cara y los ojos de una posible deficiencia de hierro",
+        "link": "https://www.infobae.com/salud/2026/07/09/5-senales-visibles-en-la-cara-y-los-ojos-de-una-posible-deficiencia-de-hierro/",
         "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "08/07/2026",
+        "fecha": "09/07/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La disminución en el deseo de tener hijos revela un cambio cultural significativo que afecta no solo a las familias, sino también a la estructura social y económica del país. ¿Cómo influye esto en el futuro de nuestra sociedad?\n\n**HOOK:** \"¿Por qué cada vez menos argentinos quieren ser padres?\"\n\n**EL DATO:** Solo el 46% de los argentinos considera muy importante tener hijos, una caída dramática del 77% en solo diez años, según el Observatorio del Desarrollo Humano de la Universidad Austral. Esto indica un cambio en las prioridades y valores de la sociedad.\n\n**BAJADA SANTULA:** Este cambio no solo afecta a las parejas que deciden no tener hijos, sino que también impacta en la economía, la educación y el sistema de salud. Con menos nacimientos, se plantean retos en la sostenibilidad de las pensiones y los servicios públicos en el futuro.\n\n**REF. CULTURA:** \"El hijo de la novia\" (película) - Esta película refleja la importancia y complejidad de las relaciones familiares y las decisiones sobre la paternidad en un contexto social cambiante."
+        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La deficiencia de hierro es un problema de salud común que puede tener consecuencias serias. Reconocer las señales visibles en nuestro rostro y ojos puede ser clave para actuar a tiempo y mejorar nuestra salud.\n\nHOOK: \"¿Sabías que tu cara puede revelar una deficiencia de hierro?\"\n\nEL DATO: La farmacéutica clínica ha identificado cinco señales que pueden indicar falta de hierro: palidez en la piel, ojeras pronunciadas, uñas quebradizas, caída del cabello y lengua inflamada. Estos síntomas son simples de observar, pero pueden estar indicando un problema de salud más serio.\n\nBAJADA SANTULA: Si notas alguna de estas señales en ti o en alguien cercano, es hora de consultar a un profesional de la salud. No subestimes tu bienestar; pequeños cambios pueden marcar una gran diferencia.\n\nREF. CULTURA: \"La salud es la verdadera riqueza, no las piezas de oro y plata.\" - Mahatma Gandhi"
     },
     {
-        "titulo": "Vacaciones de invierno: cómo fijar horarios regulares limita el acceso a ultraprocesados",
-        "link": "https://www.infobae.com/salud/2026/07/08/vacaciones-de-julio-como-fijar-horarios-regulares-limita-el-acceso-a-ultraprocesados/",
+        "titulo": "Beber café puede reducir tu riesgo de enfermedad hepática",
+        "link": "https://www.infobae.com/salud/2026/07/09/beber-cafe-puede-reducir-tu-riesgo-de-enfermedad-hepatica/",
         "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "08/07/2026",
+        "fecha": "09/07/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: Fijar horarios regulares para las comidas en vacaciones de invierno no solo ayuda a mantener la salud, sino que también es una estrategia efectiva para combatir el consumo excesivo de alimentos ultraprocesados. En un contexto donde el tiempo libre puede llevar a elecciones alimentarias poco saludables, esta práctica se vuelve crucial para cuidar de nuestra nutrición.\n\nHOOK: \"¿Sabías que tener horarios fijos para las comidas puede protegerte de los ultraprocesados?\"\n\nEL DATO: Un estudio revela que establecer horarios regulares para las comidas facilita el acceso a opciones más saludables y reduce la ingesta de alimentos ultraprocesados. Al planificar nuestros tiempos de comida, es más fácil optar por alimentos nutritivos en lugar de recurrir a snacks poco saludables.\n\nBAJADA SANTULA: Durante las vacaciones de invierno, es sencillo dejarse llevar por la comodidad de los alimentos ultraprocesados. Sin embargo, si estableces horarios para tus comidas y te preparas con opciones saludables, puedes disfrutar de tus días libres sin comprometer tu bienestar. Planifica tus almuerzos y cenas con anticipación y notarás la diferencia en tu energía y estado de ánimo.\n\nREF. CULTURA: N/A"
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: Beber café no solo es un placer cotidiano, sino que puede tener un impacto significativo en nuestra salud hepática. En un mundo donde las enfermedades del hígado son cada vez más comunes, esta información puede ser un cambio de juego para muchos.\n\nHOOK: \"¿Sabías que tu taza de café podría proteger tu hígado?\"\n\nEL DATO: Estudios recientes sugieren que el consumo regular de café puede reducir el riesgo de enfermedades hepáticas, incluyendo la cirrosis y la enfermedad del hígado graso. Los compuestos presentes en el café parecen tener propiedades antiinflamatorias y antioxidantes que benefician este órgano vital.\n\nBAJADA SANTULA: Incorporar una o dos tazas de café en tu rutina diaria podría ser una forma sencilla y agradable de cuidar tu salud. Sin embargo, siempre es clave balancear el consumo con hábitos saludables, como una dieta equilibrada y ejercicio.\n\nREF. CULTURA: N/A"
     },
     {
-        "titulo": "Las jirafas corren, las tortugas se aparean y los grillos cantan: así reacciona la naturaleza a un eclipse solar",
-        "link": "https://www.xataka.com/espacio/jirafas-corren-tortugas-se-aparean-grillos-cantan-asi-reacciona-naturaleza-a-eclipse-solar",
+        "titulo": "Los hombres tienen más probabilidades de ser diagnosticados con cáncer avanzado",
+        "link": "https://www.infobae.com/salud/2026/07/09/los-hombres-tienen-mas-probabilidades-de-ser-diagnosticados-con-cancer-avanzado/",
+        "medio": "Infobae Salud",
+        "idioma": "es",
+        "fecha": "09/07/2026",
+        "score": 20.0,
+        "provider": "openai",
+        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: En un mundo donde la salud es una prioridad, entender las diferencias en el diagnóstico de cáncer puede marcar la diferencia en la vida de muchos hombres. ¿Por qué es crucial que seamos conscientes de esto hoy? Porque la detección temprana puede salvar vidas.\n\nHOOK: \"Los hombres podrían estar en peligro: ¿por qué el cáncer avanzado los afecta más?\"\n\nEL DATO: Un estudio reciente revela que los hombres tienen un 30% más de probabilidades de ser diagnosticados con cáncer en etapas avanzadas en comparación con las mujeres. Esto se debe a factores como la falta de chequeos regulares y la tendencia a ignorar síntomas.\n\nBAJADA SANTULA: Es fundamental que los hombres se comprometan con su salud. Realizar chequeos anuales y prestar atención a los síntomas puede ser la clave para un diagnóstico temprano y un tratamiento efectivo. No esperar a que sea demasiado tarde es un acto de responsabilidad.\n\nREF. CULTURA: \"La vida es como una película; cada decisión cuenta. Asegúrate de que tu historia tenga un final feliz.\""
+    },
+    {
+        "titulo": "\"No hay indicios de saqueo\": los arqueólogos han llegado a machetazos a una ciudad maya oculta durante siglos en la selva",
+        "link": "https://www.xataka.com/magnet/no-hay-indicios-saqueo-arqueologos-han-llegado-a-machetazos-a-ciudad-maya-oculta-durante-siglos-selva",
         "medio": "Xataka",
         "idioma": "es",
-        "fecha": "08/07/2026",
+        "fecha": "09/07/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La naturaleza reacciona de manera fascinante ante fenómenos astronómicos como los eclipses. Comprender cómo los animales y las plantas responden a estos eventos puede ayudarnos a apreciar la conexión entre todos los seres vivos y el entorno que compartimos. ¿Cómo afectan estos cambios a nuestra vida cotidiana?\n\nHOOK: \"¡Cuando el sol se oculta, la naturaleza despierta de una forma inesperada!\"\n\nEL DATO: Durante un eclipse solar, muchos animales y plantas experimentan cambios drásticos en su comportamiento. Por ejemplo, algunas especies de aves dejan de cantar, mientras que otros animales aumentan su actividad. Esto se debe a que sus ciclos circadianos, o ritmos biológicos, están influenciados por la luz.\n\nBAJADA SANTULA: La próxima vez que veas un eclipse, no solo mires al cielo. Observa a tu alrededor: ¿cómo reaccionan los pájaros en tu vecindario? ¿Y las flores en tu jardín? Esta es una oportunidad para reconectar con la naturaleza y entender que todos estamos interconectados en este ciclo vital.\n\nREF. CULTURA: \"La vida es sueño\" de Pedro Calderón de la Barca, que nos invita a reflexionar sobre la percepción y la realidad, similar a cómo un eclipse transforma nuestra visión del mundo."
+        "ficha": "ÁNGULO EDITORIAL: Este descubrimiento resalta la importancia de preservar y estudiar nuestra historia, recordándonos que hay mucho más que aprender sobre las civilizaciones que nos precedieron. La conexión con nuestro pasado puede ayudarnos a entender mejor el presente y afrontar el futuro.\n\nHOOK: \"Un tesoro oculto por la selva, recuperado a machetazos. ¿Qué secretos esconde Minanbé?\"\n\nEL DATO: Investigadores han encontrado una ciudad maya olvidada en Campeche, México, que estuvo oculta durante más de mil años. Este yacimiento, llamado Minanbé, sugiere que fue relevante en el período Clásico Tardío (600-900 d.C.) y se ha descubierto tras una extensa exploración en la selva.\n\nBAJADA SANTULA: Este hallazgo no solo es un triunfo para la arqueología, sino que nos recuerda que nuestra historia está llena de misterios por descubrir. La próxima vez que veas un árbol o una selva, piensa en las historias que pueden estar escondidas bajo su sombra. La curiosidad y la investigación pueden desenterrar lo que creíamos perdido.\n\nREF. CULTURA: \"Apocalypto\" de Mel Gibson, que, aunque es una representación dramatizada, nos muestra la rica cultura maya y los desafíos que enfrentaron en su tiempo."
     },
     {
-        "titulo": "Unos científicos lanzaron una vaca a las profundidades del Mar de China. Descubrieron a ocho invitados inesperados al festín",
-        "link": "https://www.xataka.com/ecologia-y-naturaleza/unos-cientificos-lanzaron-vaca-a-profundidades-mar-china-descubrieron-a-ocho-invitados-inesperados-al-festin",
+        "titulo": "¡Últimas horas para participar en el sorteo de unos JBL Live 780NC! Solo para miembros de Xataka Xtra",
+        "link": "https://www.xataka.com/xataka-xtra/ultimas-horas-para-participar-sorteo-unos-jbl-live-780nc-solo-para-miembros-xataka-xtra",
         "medio": "Xataka",
         "idioma": "es",
-        "fecha": "08/07/2026",
+        "fecha": "09/07/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** Los océanos son un mundo desconocido que aún guarda muchos secretos. Este experimento no solo revela la curiosidad científica, sino también la importancia de entender nuestro ecosistema marino. ¿Qué sorpresas nos depara el océano y cómo afectan a la vida en la Tierra? Hoy más que nunca, cuidar de nuestros mares es esencial.\n\n**HOOK:** \"¡Un cadáver de vaca revela misterios ocultos en el océano!\"\n\n**EL DATO:** Un grupo de científicos lanzó una vaca muerta a 1.629 metros de profundidad en el Mar de China Meridional para estudiar el impacto de un cuerpo en descomposición en los ecosistemas marinos. Sorprendentemente, encontraron ocho tiburones dormilones, la primera vez que estos se observan en este contexto.\n\n**BAJADA SANTULA:** Este experimento nos muestra que incluso los actos más inusuales pueden tener un gran valor científico. Pero también nos recuerda la fragilidad de nuestros ecosistemas. Cada vez que tiramos algo al mar, estamos impactando un mundo que desconocemos. Proteger nuestros océanos es vital para mantener un equilibrio en la vida marina y, por ende, en nuestro planeta.\n\n**REF. CULTURA:** \"El océano es un lugar lleno de misterios\" - Jacques Cousteau."
+        "ficha": "ÁNGULO EDITORIAL: La tecnología y las experiencias de viaje se han vuelto inseparables. Participar en sorteos como este no solo brinda la oportunidad de obtener productos de calidad, sino que también crea una comunidad de entusiastas que comparten intereses y conocimientos.\n\nHOOK: ¡Última oportunidad para ganar unos auriculares que transformarán tu viaje!\n\nEL DATO: Los JBL Live 780NC son auriculares con cancelación de ruido, lo que significa que te permiten disfrutar de tu música o podcasts sin distracciones, perfectos para esos viajes largos en avión o tren.\n\nBAJADA SANTULA: Imagina estar en un tren lleno de gente y poder sumergirte en tu música sin el ruido del entorno. Participar en el sorteo no solo es una oportunidad de ganar, sino también de mejorar tu calidad de vida durante los viajes.\n\nREF. CULTURA: \"La vida es un viaje, no un destino\". – Ralph Waldo Emerson."
     },
     {
-        "titulo": "\"Quien no bebe corta el rollo\": el alcohol se ha encontrado con un viejo aliado entre la Generación Z, la presión social",
-        "link": "https://www.xataka.com/magnet/quien-no-bebe-corta-rollo-alcohol-se-ha-encontrado-viejo-aliado-generacion-z-presion-social",
+        "titulo": "Por fin, Toledo tiene su app de transporte. Solo ha costado una década de tropiezos digitales y colas analógicas",
+        "link": "https://www.xataka.com/magnet/fin-toledo-tiene-su-app-transporte-solo-ha-costado-decada-tropiezos-digitales-colas-analogicas",
         "medio": "Xataka",
         "idioma": "es",
-        "fecha": "08/07/2026",
+        "fecha": "09/07/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La relación de la Generación Z con el alcohol es un reflejo de las cambiantes dinámicas sociales y la presión que sienten en sus círculos. Entender esta nueva perspectiva es crucial para abordar temas de salud mental y socialización en un mundo donde el bienestar se prioriza cada vez más.\n\n**HOOK:** \"¿Bebes o no bebes? La decisión de hoy puede cambiar tu vida.\"\n\n**EL DATO:** Un estudio reciente muestra que el 57,9% de los jóvenes de 15 a 29 años consume alcohol de forma muy esporádica o lo ha eliminado de su vida. Sin embargo, la presión social sigue presente, vinculando la diversión con el consumo de alcohol.\n\n**BAJADA SANTULA:** A pesar de que muchos jóvenes están eligiendo un estilo de vida más saludable y consciente, la cultura de la fiesta y la presión del grupo persisten. Esto nos invita a reflexionar sobre cómo podemos crear espacios donde disfrutar sin necesidad de recurrir a una copa, fomentando conexiones auténticas y saludables.\n\n**REF. CULTURA:** \"El club de los poetas muertos\" - una película que resalta la importancia de vivir la vida según nuestras propias decisiones, desafiando la presión del grupo."
-    },
-    {
-        "titulo": "“Permitirían pasar rápidamente de una cuarentena a una campaña masiva de ataques”: China ha levantado dos misteriosos \"rectángulos\" en mitad del desierto",
-        "link": "https://www.xataka.com/magnet/imagenes-satelitales-no-dejan-dudas-china-ha-levantado-dos-misteriosos-rectangulos-mitad-desierto-que-apuntan-a-taiwan",
-        "medio": "Xataka",
-        "idioma": "es",
-        "fecha": "08/07/2026",
-        "score": 20.0,
-        "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La aparición de nuevas estructuras militares en regiones estratégicas como China puede tener implicaciones serias para la seguridad global. La comunidad internacional debe estar atenta a estos desarrollos, ya que pueden marcar un cambio en las dinámicas de poder y en la estabilidad mundial.\n\nHOOK: \"¿Qué esconden los misteriosos rectángulos en el desierto de China?\"\n\nEL DATO: Recientes imágenes satelitales han revelado dos estructuras rectangulares en la base de Jilantai, un centro clave para el desarrollo de misiles balísticos intercontinentales en China. Estas edificaciones, que cuentan con techos retráctiles, han suscitado preocupación sobre posibles nuevas capacidades militares del país.\n\nBAJADA SANTULA: Este hallazgo no es solo un tema de interés militar; podría impactar la seguridad global y la dinámica de relaciones internacionales. Es fundamental que todos seamos conscientes de cómo estos desarrollos pueden influir en nuestras vidas, desde decisiones políticas hasta la estabilidad económica mundial.\n\nREF. CULTURA: \"La Guerra Fría: Un conflicto de sombras\" - N/A."
-    },
-    {
-        "titulo": "The Science Behind Why Soccer Players at the 2026 World Cup Are Cutting Their Socks",
-        "link": "https://www.wired.com/story/the-science-behind-why-soccer-players-at-the-2026-world-cup-are-cutting-their-socks/",
-        "medio": "Wired Science",
-        "idioma": "en",
-        "fecha": "08/07/2026",
-        "score": 20.0,
-        "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La aparición de calcetines rotos en el Mundial de Fútbol 2026 revela cómo la ciencia del deporte puede influir en el rendimiento de los jugadores. Entender este fenómeno nos ayuda a ver el fútbol desde una perspectiva más humana y estratégica, donde cada detalle cuenta.\n\n**HOOK:** ¿Por qué los jugadores de fútbol están cortando sus calcetines en pleno Mundial?\n\n**EL DATO:** Los jugadores están haciendo esto por una combinación de biomecánica y percepción. Al cortar los calcetines, buscan mejorar la comodidad y la movilidad, lo que puede influir en su rendimiento durante el juego. Este fenómeno se ha vuelto común entre los profesionales, ya que pequeños cambios pueden tener un gran impacto.\n\n**BAJADA SANTULA:** En nuestra vida diaria, a veces pequeños ajustes en nuestra rutina o en cómo hacemos las cosas pueden optimizar nuestro rendimiento, ya sea en el trabajo o en el deporte. No subestimes los detalles; pueden ser la clave para mejorar.\n\n**REF. CULTURA:** \"El arte de la guerra\", de Sun Tzu, nos recuerda que a veces los pequeños cambios estratégicos pueden llevar a grandes victorias."
-    },
-    {
-        "titulo": "Food Preservatives May Increase the Risk of High Blood Pressure and Cardiovascular Disease",
-        "link": "https://www.wired.com/story/food-preservatives-may-increase-the-risk-of-high-blood-pressure-and-cardiovascular-disease/",
-        "medio": "Wired Science",
-        "idioma": "en",
-        "fecha": "08/07/2026",
-        "score": 20.0,
-        "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** A medida que la industria alimentaria sigue creciendo, es fundamental entender cómo lo que comemos afecta nuestra salud. Los conservantes que parecen inofensivos en nuestros alimentos pueden tener un impacto significativo en nuestro bienestar.\n\n**HOOK:** ¡Lo que comes podría estar elevando tu presión arterial!\n\n**EL DATO:** Un estudio a gran escala ha encontrado que los conservantes alimentarios comunes, presentes en muchos productos procesados, pueden aumentar el riesgo de hipertensión y enfermedades cardiovasculares.\n\n**BAJADA SANTULA:** Esto nos invita a revisar nuestras elecciones alimenticias. Optar por alimentos frescos y minimizar el consumo de productos procesados puede ser una forma sencilla de cuidar nuestra salud y reducir riesgos a largo plazo.\n\n**REF. CULTURA:** \"La comida es medicina\", un principio que resuena en la obra \"La alimentación como medicina\" de David Perlmutter."
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La llegada de la app Yurni a Toledo representa un avance significativo en la digitalización del transporte urbano. En un mundo donde la tecnología debe simplificar nuestra vida cotidiana, esta aplicación se convierte en una herramienta esencial para mejorar la movilidad y la calidad de vida de los ciudadanos.\n\nHOOK: \"¡Adiós colas y complicaciones! ¡Toledo se moderniza con Yurni!\"\n\nEL DATO: Después de una década de intentos fallidos, Yurni es la nueva app de transporte de Toledo que promete ofrecer horarios en tiempo real, recarga de tarjetas desde el móvil y planificación de rutas. En resumen, lo que debería haber sido simple, ahora se vuelve accesible.\n\nBAJADA SANTULA: Imagina poder gestionar tu transporte urbano desde tu teléfono, sin más complicaciones. Yurni no solo facilita la movilidad, sino que también te ayuda a ser más eficiente, ahorrando tiempo y energía. En un momento donde la tecnología es parte de nuestra vida diaria, tener una herramienta así a mano es un gran paso hacia el futuro.\n\nREF. CULTURA: \"La revolución digital: cómo la tecnología transforma nuestras vidas\" - N/A"
     }
 ]
