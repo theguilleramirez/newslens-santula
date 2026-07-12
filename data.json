@@ -1,102 +1,62 @@
 [
     {
-        "titulo": "Gafas con filtro amarillo y rojo: ¿son una moda o brindan protección real para la vista?",
-        "link": "https://www.infobae.com/salud/2026/07/11/gafas-con-filtro-amarillo-y-rojo-son-una-moda-o-brindan-proteccion-real-para-la-vista/",
-        "medio": "Infobae Salud",
-        "idioma": "es",
-        "fecha": "11/07/2026",
-        "score": 60.0,
-        "provider": "openai",
-        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: En un mundo donde pasamos horas frente a pantallas, la salud visual se convierte en una preocupación real. Las gafas con filtro amarillo y rojo prometen cuidar nuestros ojos de la luz azul y mejorar nuestro descanso. ¿Pero realmente funcionan? Es crucial saberlo hoy para tomar decisiones informadas sobre nuestra salud.\n\nHOOK: ¿Las gafas con filtro amarillo y rojo son la solución que necesitas para cuidar tus ojos?\n\nEL DATO: Algunos estudios sugieren que las gafas con filtro amarillo y rojo pueden ayudar a reducir la fatiga ocular y mejorar la calidad del sueño al bloquear la luz azul emitida por dispositivos electrónicos. Sin embargo, los expertos advierten que no son un reemplazo de buenos hábitos como descansar la vista y limitar el tiempo frente a las pantallas.\n\nBAJADA SANTULA: Incorporar gafas con filtro puede ser un paso adicional para cuidar tu visión, pero no olvides complementarlo con pausas regulares al usar pantallas, ajustar la iluminación en tu entorno y tener una buena higiene del sueño. La prevención es clave.\n\nREF. CULTURA: \"La vista es el sentido más importante que tenemos; cuidarla es un acto de amor propio.\" - N/A"
-    },
-    {
-        "titulo": "La IA puede detectar cicatrices de esclerosis múltiple en el cerebro que antes eran invisibles",
-        "link": "https://www.infobae.com/salud/2026/07/11/la-ia-puede-detectar-cicatrices-de-esclerosis-multiple-en-el-cerebro-que-antes-eran-invisibles/",
-        "medio": "Infobae Salud",
-        "idioma": "es",
-        "fecha": "11/07/2026",
-        "score": 40.0,
-        "provider": "openai",
-        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La detección temprana de la esclerosis múltiple puede mejorar significativamente la calidad de vida de los pacientes. La inteligencia artificial está revolucionando la forma en que diagnosticamos esta enfermedad, permitiendo identificar lesiones que antes pasaban desapercibidas.\n\nHOOK: \"¿Sabías que la inteligencia artificial puede ver lo que nuestros ojos no pueden?\"\n\nEL DATO: Un nuevo avance en IA permite identificar cicatrices en el cerebro provocadas por la esclerosis múltiple, que antes eran invisibles en las resonancias magnéticas. Esto podría llevar a diagnósticos más tempranos y tratamientos más eficaces.\n\nBAJADA SANTULA: Para aquellos que viven con esclerosis múltiple o tienen seres queridos con esta condición, entender que ahora hay herramientas que pueden detectar la enfermedad en sus primeras etapas es crucial. Un diagnóstico temprano puede cambiar el curso del tratamiento y mejorar la calidad de vida.\n\nREF. CULTURA: \"El hombre bicentenario\" - una historia que nos muestra cómo la tecnología puede transformar vidas y ofrecer nuevas esperanzas en el tratamiento de enfermedades."
-    },
-    {
-        "titulo": "17 aplicaciones para ligar, tener citas o encontrar tu media naranja",
-        "link": "https://www.xataka.com/basics/aplicaciones-para-ligar-tener-citas-encontrar-tu-media-naranja",
+        "titulo": "Heredar zapatos parece una gran idea para ahorrar. La biomecánica y los podólogos tienen muy claro que es un error",
+        "link": "https://www.xataka.com/medicina-y-salud/heredar-zapatos-parece-gran-idea-para-ahorrar-biomecanica-podologos-tienen-muy-claro-que-error",
         "medio": "Xataka",
         "idioma": "es",
-        "fecha": "11/07/2026",
+        "fecha": "12/07/2026",
+        "score": 80.0,
+        "provider": "openai",
+        "ficha": "ÁNGULO EDITORIAL: Heredar zapatos puede parecer una opción económica, pero puede poner en riesgo la salud podológica de los niños. Es fundamental entender que cada pie es único y necesita un calzado adecuado.\n\nHOOK: \"¿Heredar zapatos? ¡Cuidado! Podrías estar dañando los pies de tus hijos.\"\n\nEL DATO: Los zapatos usados se adaptan a la forma de caminar del primer niño, creando un desgaste que no se ajusta a la anatomía del siguiente. Esto puede causar problemas en el desarrollo podológico infantil.\n\nBAJADA SANTULA: Aunque parezca una buena idea para ahorrar, es crucial invertir en zapatos nuevos que se ajusten adecuadamente al pie de cada niño. La salud de sus pies hoy puede evitar problemas mayores en el futuro.\n\nREF. CULTURA: \"Cada paso cuenta\", como dice el proverbio, y es importante asegurarnos de que esos pasos se den sobre una base sólida y saludable."
+    },
+    {
+        "titulo": "Cómo saber si tengo estrés crónico y qué hacer para reducir sus efectos en la salud física y mental",
+        "link": "https://www.infobae.com/salud/2026/07/12/como-saber-si-tengo-estres-cronico-y-que-hacer-para-reducir-sus-efectos-en-la-salud-fisica-y-mental/",
+        "medio": "Infobae Salud",
+        "idioma": "es",
+        "fecha": "12/07/2026",
         "score": 40.0,
         "provider": "openai",
-        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: En un mundo donde las conexiones humanas son cada vez más digitales, entender cómo navegar en la búsqueda de pareja se vuelve crucial. Las aplicaciones de citas pueden ofrecer oportunidades, pero también conllevan riesgos. ¿Cómo podemos utilizarlas de manera efectiva y segura?\n\nHOOK: \"¿Estás listo para encontrar el amor en la era digital?\"\n\nEL DATO: Existen 17 aplicaciones de citas que van más allá de solo emparejarte, ofreciendo espacios para amistades y conexiones genuinas. Sin embargo, la primera impresión y el respeto son esenciales; ¡la apariencia no lo es todo!\n\nBAJADA SANTULA: Al usar apps de citas, recuerda que la comunicación honesta y el respeto pueden abrir puertas. No te apresures a compartir información personal y asegúrate de establecer una conexión de confianza antes de dar el siguiente paso.\n\nREF. CULTURA: \"Amor en tiempos de cólera\" de Gabriel García Márquez, una reflexión sobre la paciencia y la autenticidad en las relaciones."
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** El estrés crónico es una realidad que muchos enfrentamos en el día a día. Reconocer sus señales y aprender a manejarlo es fundamental para preservar nuestra salud física y mental. Hoy más que nunca, es crucial priorizar nuestro bienestar en un mundo que exige tanto.\n\n**HOOK:** ¿Te sientes cansado todo el tiempo? Podrías estar sufriendo de estrés crónico.\n\n**EL DATO:** Según especialistas, el estrés crónico se manifiesta a través de síntomas como insomnio, agotamiento constante y problemas de concentración. Si sientes que tu cuerpo está en una lucha continua, es hora de prestar atención.\n\n**BAJADA SANTULA:** Identificar estos signos es el primer paso. Implementar técnicas de relajación, como la meditación o el ejercicio regular, puede ser clave para reducir sus efectos. No subestimes la importancia de un buen descanso y de desconectar de las exigencias diarias.\n\n**REF. CULTURA:** \"El arte de la guerra\" de Sun Tzu menciona que conocer a tu enemigo es fundamental para vencerlo; en este caso, conocer el estrés y sus efectos es esencial para combatirlo."
     },
     {
-        "titulo": "La filosofía de Bill Gates: vivir una vida feliz y exitosa se reduce a tres consejos simples",
-        "link": "https://www.xataka.com/empresas-y-economia/filosofia-bill-gates-vivir-vida-feliz-exitosa-se-reduce-a-tres-consejos-simples-1",
+        "titulo": "La IA se ha convertido en la coartada perfecta para cualquier cosa: a las empresas les sirve tanto para recortar como para expandirse",
+        "link": "https://www.xataka.com/empresas-y-economia/ia-se-ha-convertido-coartada-perfecta-para-cualquier-cosa-a-empresas-les-sirve-para-recortar-como-para-expandirse",
         "medio": "Xataka",
         "idioma": "es",
-        "fecha": "11/07/2026",
+        "fecha": "12/07/2026",
         "score": 40.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La vida moderna nos bombardea con información y tareas, lo que a menudo nos aleja de lo que realmente importa. Bill Gates, uno de los líderes más influyentes del mundo, comparte su enfoque sobre cómo simplificar la vida para ser más feliz y productivo. Sus consejos son un recordatorio de que, en medio del caos, es esencial reflexionar y priorizar.\n\n**HOOK:** \"¿Quieres ser más feliz y exitoso? Bill Gates tiene tres consejos que cambiarán tu vida.\"\n\n**EL DATO:** Bill Gates sostiene que la clave para una vida plena radica en hacer las preguntas correctas, más que en buscar respuestas inmediatas. A lo largo de su carrera, ha aprendido que la calidad de nuestras preguntas define la calidad de nuestras soluciones.\n\n**BAJADA SANTULA:** En nuestro día a día, podemos aplicar esto al enfrentar desafíos en el trabajo o en relaciones personales. En lugar de apresurarnos a encontrar respuestas, tomemos un momento para analizar la situación y preguntarnos: \"¿Qué es lo que realmente necesito saber?\" Este pequeño cambio de perspectiva puede llevarnos a soluciones más efectivas y satisfactorias.\n\n**REF. CULTURA:** \"La búsqueda del conocimiento\" de Sócrates, quien enfatizó la importancia de hacer las preguntas adecuadas para alcanzar la sabiduría."
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La inteligencia artificial se está utilizando como una herramienta ambigua que permite a las empresas justificar despidos y reestructuraciones, mientras que al mismo tiempo promueve una narrativa de innovación y crecimiento. Esto es relevante hoy porque refleja cómo la tecnología puede ser un arma de doble filo en el entorno laboral.\n\nHOOK: \"¿La IA está salvando empleos o solo despidiéndolos?\"\n\nEL DATO: Recientemente, Asha Sharma, CEO de Xbox, anunció el despido de 1.600 empleados bajo la premisa de redirigir recursos hacia la inteligencia artificial, a pesar de que la compañía ha perdido 64 centavos por cada dólar invertido en desarrollos pequeños. Esto plantea la pregunta: ¿realmente la IA crea valor o solo sirve de excusa para recortar personal?\n\nBAJADA SANTULA: En tu día a día, esto significa que las decisiones empresariales sobre la IA pueden afectar tu estabilidad laboral. Es crucial estar informado y preparado ante cambios inesperados en la industria, ya que la tecnología puede ser utilizada para crear oportunidades, pero también para justificar la reducción de puestos de trabajo.\n\nREF. CULTURA: \"1984\" de George Orwell, donde el control de la información y la narrativa se utilizan para manipular la realidad."
     },
     {
-        "titulo": "App para smartphone utiliza la voz para predecir el asma y los brotes de EPOC",
-        "link": "https://www.infobae.com/salud/2026/07/11/app-para-smartphone-utiliza-la-voz-para-predecir-el-asma-y-los-brotes-de-epoc/",
+        "titulo": "Factores silenciosos que provocan la pérdida de músculo durante las pausas",
+        "link": "https://www.infobae.com/salud/2026/07/12/factores-silenciosos-que-provocan-la-perdida-de-musculo-durante-las-pausas/",
         "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "11/07/2026",
+        "fecha": "12/07/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La innovación tecnológica en salud permite un mejor manejo de enfermedades respiratorias. Con una app que utiliza la voz, se abre la puerta a un diagnóstico más rápido y accesible, crucial para quienes padecen asma o EPOC.\n\nHOOK: \"¿Sabías que tu voz puede predecir problemas respiratorios?\"\n\nEL DATO: Un nuevo estudio revela que una app para smartphones puede detectar signos de asma y brotes de EPOC analizando la voz del usuario. Esta tecnología permite identificar cambios en la respiración que podrían anticipar crisis antes de que ocurran.\n\nBAJADA SANTULA: Para aquellos que sufren de asma o EPOC, esta app puede ser un cambio de juego en la gestión de su salud. Al recibir alertas tempranas, pueden tomar medidas preventivas y evitar emergencias, mejorando así su calidad de vida.\n\nREF. CULTURA: \"La tecnología avanza, pero nuestra salud sigue siendo una prioridad\" - N/A"
+        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La pérdida de masa muscular no solo afecta el rendimiento físico, sino también la salud general. Entender estos factores puede ayudar a mantenernos fuertes y saludables, especialmente en momentos de inactividad.\n\nHOOK: \"¿Sabías que una pausa en tu rutina puede hacerte perder músculo sin que te des cuenta?\"\n\nEL DATO: Estudios muestran que entrenamientos de menor intensidad, cambios en la alimentación y un descanso inadecuado pueden llevar a una disminución significativa de la masa muscular. Esto ocurre porque el cuerpo necesita estímulos constantes para mantener y construir músculo.\n\nBAJADA SANTULA: Si has estado entrenando menos o has cambiado tus hábitos de comida y descanso, es clave que revises tu rutina. Asegúrate de mantener una alimentación equilibrada, ajustar la intensidad de tus entrenamientos y permitir un descanso adecuado para evitar el retroceso muscular.\n\nREF. CULTURA: \"El arte de la guerra\" de Sun Tzu, que nos enseña sobre la importancia de la estrategia y la preparación constante, se puede aplicar aquí: incluso en momentos de pausa, es esencial mantener el cuerpo en forma y preparado."
     },
     {
-        "titulo": "El COVID leve puede provocar problemas oculares ocultos a largo plazo",
-        "link": "https://www.infobae.com/salud/2026/07/11/el-covid-leve-puede-provocar-problemas-oculares-ocultos-a-largo-plazo/",
+        "titulo": "El consumo diario de bebidas energéticas puede amenazar la salud renal",
+        "link": "https://www.infobae.com/salud/2026/07/11/el-consumo-diario-de-bebidas-energeticas-puede-amenazar-la-salud-renal/",
         "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "11/07/2026",
+        "fecha": "12/07/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La experiencia del COVID-19 no termina con la recuperación. Muchos que padecieron síntomas leves pueden enfrentar problemas de salud a largo plazo, como complicaciones oculares. Es fundamental que todos estemos informados sobre estos riesgos ocultos.\n\nHOOK: \"¿Tuviste COVID leve? Podrías tener problemas oculares inesperados.\"\n\nEL DATO: Un estudio reciente revela que las personas que experimentaron COVID-19 leve pueden desarrollar condiciones oculares, como sequedad, irritación o incluso daño en la retina, meses después de la infección. Esto sucede porque el virus puede afectar la circulación y la inflamación en el cuerpo, incluyendo los ojos.\n\nBAJADA SANTULA: Si has tenido COVID-19, aunque de manera leve, es importante que estés atento a cualquier cambio en tu visión. Programar chequeos oculares regulares puede ser clave para detectar y tratar problemas a tiempo.\n\nREF. CULTURA: \"La vida es como un río, siempre fluye y cambia.\" - N/A"
+        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: El consumo habitual de bebidas energéticas puede parecer inofensivo, pero está afectando nuestra salud renal y, por ende, nuestra calidad de vida. Con la creciente tendencia de buscar energía rápida, es vital entender los riesgos asociados.\n\nHOOK: \"¿Te tomas una bebida energética cada mañana? Tu salud renal podría estar en peligro.\"\n\nEL DATO: Un estudio revela que las bebidas energéticas, por su alto contenido de estimulantes, sal y edulcorantes, pueden sobrecargar los riñones, afectar la hidratación y aumentar la presión arterial, lo que podría llevar a la formación de cálculos renales.\n\nBAJADA SANTULA: Si te sientes cansado y optas por una bebida energética para comenzar tu día, considera alternativas más saludables como un buen desayuno o un vaso de agua. Cuidar tus riñones es cuidar tu bienestar a largo plazo.\n\nREF. CULTURA: \"La salud es la mayor riqueza,\" una frase de Buda que nos recuerda la importancia de cuidar nuestro cuerpo y tomar decisiones informadas sobre lo que consumimos."
     },
     {
-        "titulo": "Los mayores saben lo agudos que son en cada momento, según un estudio",
-        "link": "https://www.infobae.com/salud/2026/07/11/los-mayores-saben-lo-agudos-que-son-en-cada-momento-segun-un-estudio/",
-        "medio": "Infobae Salud",
-        "idioma": "es",
-        "fecha": "11/07/2026",
-        "score": 20.0,
-        "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** A medida que envejecemos, nuestra percepción del tiempo y de las experiencias se agudiza. Este fenómeno tiene implicaciones profundas en cómo los adultos mayores viven y disfrutan de su día a día, lo que nos invita a reflexionar sobre la importancia de valorar cada momento.\n\n**HOOK:** ¡La sabiduría del tiempo se agudiza con la edad!\n\n**EL DATO:** Un estudio reciente revela que las personas mayores son más conscientes de los momentos significativos en sus vidas, lo que les permite disfrutar de una calidad de vida más plena. A medida que envejecemos, nuestra percepción del tiempo cambia, y aprendemos a apreciar más los momentos importantes.\n\n**BAJADA SANTULA:** Esto significa que, al interactuar con nuestros seres queridos mayores, debemos escuchar sus historias y experiencias. Su visión del tiempo puede enseñarnos a ser más presentes y apreciar los pequeños momentos que a menudo pasamos por alto en nuestra vida diaria.\n\n**REF. CULTURA:** \"Cien años de soledad\" de Gabriel García Márquez, donde el tiempo es un elemento central que influye en la vida de sus personajes, mostrando cómo cada momento cuenta."
-    },
-    {
-        "titulo": "Personas LGBTQ+ menos propensas a ser examinadas para detectar algunos cánceres comunes",
-        "link": "https://www.infobae.com/salud/2026/07/11/personas-lgbtq-menos-propensas-a-ser-examinadas-para-detectar-algunos-canceres-comunes/",
-        "medio": "Infobae Salud",
-        "idioma": "es",
-        "fecha": "11/07/2026",
-        "score": 20.0,
-        "provider": "openai",
-        "ficha": "ÁNGULO EDITORIAL: La salud de las personas LGBTQ+ es un tema que a menudo se pasa por alto, y la falta de exámenes preventivos puede tener consecuencias graves. Hoy, entender por qué estas comunidades están menos propensas a hacerse chequeos puede ayudarnos a mejorar su bienestar y fomentar una atención más inclusiva.\n\nHOOK: \"¿Sabías que las personas LGBTQ+ corren un mayor riesgo de cáncer por no hacerse exámenes?\"\n\nEL DATO: Un estudio revela que las personas LGBTQ+ son significativamente menos propensas a someterse a exámenes de detección de cáncer, como el de mama y el de próstata, en comparación con sus contrapartes heterosexuales. Este fenómeno se debe a factores como la discriminación, el miedo al estigma y la falta de acceso a servicios de salud adecuados.\n\nBAJADA SANTULA: Esta realidad nos invita a reflexionar sobre la importancia de crear espacios seguros en el sistema de salud. Si tienes amigos o familiares en la comunidad LGBTQ+, anímalos a hacerse chequeos regulares. La prevención es clave y todos merecen una atención médica digna y respetuosa.\n\nREF. CULTURA: \"La vida de los otros\" (2006) - Esta película nos recuerda la importancia de escuchar y entender las experiencias de quienes viven en circunstancias distintas a las nuestras."
-    },
-    {
-        "titulo": "Los alimentos que dos gastroenterólogas recomiendan para aliviar el estreñimiento",
-        "link": "https://www.infobae.com/salud/2026/07/10/los-alimentos-que-dos-gastroenterologas-recomiendan-para-aliviar-el-estrenimiento/",
-        "medio": "Infobae Salud",
-        "idioma": "es",
-        "fecha": "11/07/2026",
-        "score": 20.0,
-        "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: En un mundo donde la salud digestiva es fundamental para nuestro bienestar general, entender cómo los alimentos que consumimos pueden influir en nuestro tránsito intestinal es crucial. La falta de atención a este aspecto puede afectar nuestra calidad de vida, por lo que reconocer los alimentos que ayudan a aliviar el estreñimiento es una prioridad para todos.\n\nHOOK: \"¿Sufres de estreñimiento? ¡Estos alimentos pueden ser la solución!\"\n\nEL DATO: Según gastroenterólogas del Beth Israel Deaconess Medical Center y MNGI Digestive Health, incrementar el consumo de fibra, frutas y verduras, así como mantener una buena hidratación, son claves para mejorar el tránsito intestinal y aliviar el estreñimiento.\n\nBAJADA SANTULA: Si sientes que tu digestión no es la mejor, considera añadir más alimentos ricos en fibra a tu dieta diaria, como avena, legumbres y frutas. Además, no olvides beber suficiente agua. Escuchar a tu cuerpo y hacer pequeños cambios puede marcar una gran diferencia en tu bienestar.\n\nREF. CULTURA: \"La comida es medicina.\" - Hipócrates."
-    },
-    {
-        "titulo": "Ivar Kreuger, el millonario sueco que construyó un imperio financiero con cerillas y acabó quemado por sus deudas",
-        "link": "https://www.xataka.com/magnet/ivar-kreuger-millonario-sueco-que-construyo-imperio-financiero-cerillas-acabo-quemado-sus-deudas",
+        "titulo": "Lovecraft lo creó como una broma, pero el Necronomicon ha existido en muchas formas y, de hecho, ha vuelto a las librerías",
+        "link": "https://www.xataka.com/literatura-comics-y-juegos/lovecraft-creo-como-broma-necronomicon-ha-existido-muchas-formas-hecho-ha-vuelto-a-librerias",
         "medio": "Xataka",
         "idioma": "es",
-        "fecha": "11/07/2026",
+        "fecha": "12/07/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La historia de Ivar Kreuger es un recordatorio de cómo incluso las empresas más simples pueden ocultar complejas tramas de ambición y fraude. En un mundo donde el dinero y la fama son a menudo sinónimos de éxito, este relato nos invita a reflexionar sobre la fragilidad del poder financiero y las consecuencias de vivir más allá de nuestras posibilidades.\n\n**HOOK:** \"¿Puedes imaginar un imperio construido con cerillas que terminó en llamas por deudas?\"\n\n**EL DATO:** Ivar Kreuger, conocido como \"el rey de las cerillas\", logró construir un vasto imperio financiero en Europa durante la década de 1920, prestando dinero a gobiernos y famosos. Sin embargo, su éxito se basaba en un elaborado esquema de fraude que finalmente lo llevó a su caída y a un escándalo monumental en 1932, cuando fue encontrado muerto tras un disparo en el corazón.\n\n**BAJADA SANTULA:** La historia de Kreuger nos recuerda que las apariencias engañan. En nuestra vida cotidiana, es fácil dejarse llevar por el éxito superficial y las apariencias, sin considerar los riesgos ocultos. Este relato nos enseña la importancia de la transparencia y la sostenibilidad en nuestras finanzas personales y negocios.\n\n**REF. CULTURA:** \"El gran Gatsby\" de F. Scott Fitzgerald, que también explora la decadencia detrás del glamour y la búsqueda del sueño americano."
+        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: El Necronomicón, un libro que comenzó como una broma literaria, ha trascendido su origen y se ha convertido en un fenómeno cultural que refleja nuestra fascinación por lo desconocido y lo oculto. Hoy, su regreso a las librerías invita a cuestionar por qué seguimos buscando misterio y magia en un mundo tan racional.\n\nHOOK: \"¿Un libro que no existe ha creado sectas reales? ¡Descubre el misterio del Necronomicón!\"\n\nEL DATO: En 1922, H.P. Lovecraft introdujo el Necronomicón como una invención ficticia, pero hoy en día se han publicado múltiples ediciones, incluyendo una nueva en español de más de 600 páginas, que recopila todas sus menciones en la obra de Lovecraft y sus seguidores.\n\nBAJADA SANTULA: Aunque el Necronomicón es un producto de la imaginación, su persistencia en la cultura popular muestra cómo la humanidad busca respuestas en lo desconocido. Puede que no creamos en la magia negra, pero el interés por lo misterioso refleja nuestra curiosidad innata y el deseo de explorar lo que no podemos entender.\n\nREF. CULTURA: \"El nombre de la rosa\" de Umberto Eco, donde los libros y el conocimiento oculto juegan un papel central en una trama de misterio y descubrimiento."
     }
 ]
