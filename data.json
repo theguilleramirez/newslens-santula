@@ -1,82 +1,102 @@
 [
     {
-        "titulo": "Las vacaciones sin tiempo de descanso elevan el estrés al volver al trabajo, alertan los expertos",
-        "link": "https://www.infobae.com/salud/2026/07/31/las-vacaciones-sin-tiempo-de-descanso-elevan-el-estres-al-volver-al-trabajo-alertan-los-expertos/",
-        "medio": "Infobae Salud",
-        "idioma": "es",
-        "fecha": "31/07/2026",
-        "score": 40.0,
-        "provider": "openai",
-        "ficha": "ÁNGULO EDITORIAL: En un mundo donde el trabajo y la vida personal están cada vez más entrelazados, entender cómo unas vacaciones mal planificadas pueden afectar nuestro bienestar emocional y físico es crucial para una reintegración laboral saludable.\n\nHOOK: \"¿Vacaciones agotadoras? Tu regreso al trabajo podría ser un desastre.\"\n\nEL DATO: Estudios recientes muestran que las vacaciones sin tiempo de descanso generan un incremento en el estrés al volver al trabajo. La falta de momentos de relax impide la recuperación necesaria, causando no solo cansancio físico, sino también desgaste mental.\n\nBAJADA SANTULA: Es vital planear nuestras vacaciones de manera equilibrada. Reservar tiempo para descansar durante el viaje no solo mejora nuestra experiencia, sino que también nos permite regresar al trabajo con energía renovada y una mente clara.\n\nREF. CULTURA: \"El arte de la guerra\" de Sun Tzu, que enfatiza la importancia de la estrategia y la preparación. Así como en la guerra, en la vida también hay que saber cuándo descansar para poder luchar mejor."
-    },
-    {
-        "titulo": "5 tipos de alimentación avalados por la ciencia que pueden extender la vida",
-        "link": "https://www.infobae.com/salud/2026/07/31/5-tipos-de-alimentacion-avalados-por-la-ciencia-que-pueden-extender-la-vida/",
-        "medio": "Infobae Salud",
-        "idioma": "es",
-        "fecha": "31/07/2026",
-        "score": 40.0,
-        "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** Hoy más que nunca, la alimentación se ha convertido en una herramienta clave no solo para mantenernos saludables, sino para extender nuestra vida. Con la creciente preocupación por el bienestar, entender qué dietas realmente funcionan puede marcar la diferencia.\n\n**HOOK:** ¡Alimenta tu vida y suma años! ¿Sabías que lo que comes puede extender tu vida?\n\n**EL DATO:** Una investigación con más de 100,000 participantes identificó cinco tipos de alimentación, como la mediterránea y la DASH, que comparten un patrón común. Este patrón está respaldado por el Índice Alternativo de Alimentación Saludable 2010, que mide la calidad de la dieta y su relación con la longevidad.\n\n**BAJADA SANTULA:** Incorporar estos principios en tu día a día no solo mejorará tu salud, sino que también te ayudará a vivir más años. Comienza por incluir más frutas, verduras, granos enteros y grasas saludables en tus comidas. No se trata de hacer un cambio radical, sino de pequeñas decisiones diarias que suman.\n\n**REF. CULTURA:** \"Que tu alimento sea tu medicina\" - Hipócrates. Esta frase subraya la importancia de lo que comemos en nuestra salud y bienestar."
-    },
-    {
-        "titulo": "Si la pregunta es quién puede acceder a la jubilación anticipada a los 56 años, estas 11 enfermedades tienen la respuesta",
-        "link": "https://www.xataka.com/empresas-y-economia/pregunta-quien-puede-acceder-a-jubilacion-anticipada-a-56-anos-estas-11-enfermedades-tienen-respuesta",
+        "titulo": "\"Soy español, ¿a qué quieres que te gane?\": el ranking del paro juvenil en Europa, en un desolador gráfico",
+        "link": "https://www.xataka.com/empresas-y-economia/soy-espanol-a-que-quieres-que-te-gane-ranking-paro-juvenil-europa-desolador-grafico",
         "medio": "Xataka",
         "idioma": "es",
-        "fecha": "31/07/2026",
+        "fecha": "01/08/2026",
+        "score": 60.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** El desempleo juvenil en Europa no solo afecta a los jóvenes, sino que impacta en el futuro económico de toda la sociedad. ¿Cómo afecta esto a la toma de decisiones en nuestras vidas cotidianas y en la percepción de nuestra autonomía?\n\n**HOOK:** \"¡Imagínate un mundo donde 1 de cada 4 jóvenes no encuentra trabajo!\"\n\n**EL DATO:** En Europa, más de 2,8 millones de jóvenes menores de 25 años están buscando trabajo sin éxito. Mientras en Estonia, uno de cada cuatro jóvenes está desempleado, en Malta esa cifra es solo de uno de cada 16. Esto refleja profundas desigualdades en las oportunidades laborales.\n\n**BAJADA SANTULA:** La falta de trabajo juvenil no solo es una estadística fría; es una realidad que afecta la capacidad de los jóvenes para emanciparse, pagar sus estudios o incluso disfrutar de experiencias vitales como unas vacaciones. Las decisiones que se tomen hoy sobre educación y formación profesional influirán en el futuro de estos jóvenes y, por ende, en la economía de nuestros países.\n\n**REF. CULTURA:** \"Los Miserables\" de Victor Hugo, donde se refleja la lucha de los jóvenes por encontrar su lugar en una sociedad que a menudo les da la espalda."
+    },
+    {
+        "titulo": "Lo que come el padre antes de la concepción puede influir en la salud del bebé",
+        "link": "https://www.infobae.com/salud/2026/08/01/lo-que-come-el-padre-antes-de-la-concepcion-puede-influir-en-la-salud-del-bebe/",
+        "medio": "Infobae Salud",
+        "idioma": "es",
+        "fecha": "01/08/2026",
         "score": 40.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La posibilidad de acceder a la jubilación anticipada es un alivio para muchas personas que sufren enfermedades graves. Esta nueva medida, que afecta a 50.000 individuos, no solo les brinda un respiro financiero, sino que también les reconoce el derecho a una vida digna, incluso cuando la salud ya no se lo permite.\n\nHOOK: \"¿Sabías que puedes jubilarte a los 56 años si tienes una de estas 11 enfermedades?\"\n\nEL DATO: El Gobierno de España ha añadido 11 nuevas patologías a la lista que permite a los afectados jubilarse anticipadamente a los 56 años. Esto representa una oportunidad para unas 50.000 personas que, debido a sus condiciones de salud, no pueden continuar trabajando.\n\nBAJADA SANTULA: Esta medida puede parecer lejana, pero afecta a muchas familias que enfrentan la carga de enfermedades crónicas. Si conoces a alguien en esta situación, esta información puede ser crucial para que obtenga el apoyo que necesita y pueda planificar su futuro de manera más segura.\n\nREF. CULTURA: \"La vida es como una bicicleta, para mantener el equilibrio, debes seguir adelante.\" - Albert Einstein. Esto resuena con la importancia de encontrar nuevas formas de avanzar, incluso en circunstancias difíciles."
+        "ficha": "ÁNGULO EDITORIAL: La salud del bebé no solo depende de la madre; lo que el padre come antes de la concepción también tiene un impacto significativo. Esto es crucial para futuros padres que buscan asegurar el bienestar de su hijo desde el inicio.\n\nHOOK: \"¡Lo que comes hoy afecta la salud de tu bebé mañana!\"\n\nEL DATO: Estudios recientes indican que la dieta del padre antes de la concepción puede influir en la salud y el desarrollo del bebé. Nutrientes como el ácido fólico y el zinc en la alimentación masculina pueden afectar la calidad del esperma y, por ende, el desarrollo del embrión.\n\nBAJADA SANTULA: Si estás pensando en ser padre, presta atención a tu alimentación. Incluir alimentos ricos en vitaminas y minerales no solo mejora tu salud, sino que también puede marcar la diferencia en el futuro de tu hijo. Cada bocado cuenta.\n\nREF. CULTURA: \"Un hombre sabio construye su casa.\" – Proverbio. Esto resalta la importancia de la preparación y los cimientos que se ponen para un futuro saludable."
+    },
+    {
+        "titulo": "Rutina diaria clave para una buena salud, según un estudio",
+        "link": "https://www.infobae.com/salud/2026/08/01/rutina-diaria-clave-para-una-buena-salud-segun-un-estudio/",
+        "medio": "Infobae Salud",
+        "idioma": "es",
+        "fecha": "01/08/2026",
+        "score": 40.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La salud no es solo la ausencia de enfermedad, sino un estilo de vida. Conocer la rutina diaria que favorece nuestro bienestar es esencial en un mundo acelerado.\n\n**HOOK:** ¿Sabías que pequeños cambios en tu rutina pueden transformar tu salud?\n\n**EL DATO:** Un reciente estudio revela que la incorporación de hábitos simples, como dormir bien, hacer ejercicio regularmente y mantener una dieta equilibrada, se asocia con un 30% menos de riesgo de enfermedades crónicas.\n\n**BAJADA SANTULA:** Implementar una rutina diaria que incluya estas prácticas no solo mejora tu salud física, sino también tu bienestar emocional. Empieza por establecer horarios regulares para dormir y dedicar tiempo a actividades que disfrutes, como caminar o cocinar comidas saludables.\n\n**REF. CULTURA:** \"La salud es la verdadera riqueza, no las piezas de oro y plata.\" - Mahatma Gandhi."
+    },
+    {
+        "titulo": "Dormir bien, pero seguir cansado: las 10 causas que podrían estar afectando tu energía y cómo superarlas",
+        "link": "https://www.infobae.com/salud/2026/07/31/dormir-bien-pero-seguir-cansado-las-10-causas-que-podrian-estar-afectando-tu-energia-y-como-superarlas/",
+        "medio": "Infobae Salud",
+        "idioma": "es",
+        "fecha": "01/08/2026",
+        "score": 40.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La fatiga persistente puede afectar nuestra calidad de vida, incluso si creemos que estamos durmiendo lo suficiente. Conocer las causas menos evidentes puede ser el primer paso para mejorar nuestro bienestar diario.\n\n**HOOK:** \"¿Duermes bien pero aún te sientes cansado? ¡Esto te interesa!\"\n\n**EL DATO:** Existen múltiples factores que pueden influir en nuestra energía diaria más allá del sueño, como la deshidratación, deficiencias nutricionales o incluso el estrés emocional. Identificar y abordar estas causas puede marcar una gran diferencia.\n\n**BAJADA SANTULA:** A menudo, pensamos que una buena noche de sueño es suficiente para estar al 100%, pero si te sientes cansado, considera evaluar tu hidratación, tu dieta y tu estado emocional. Implementar cambios simples, como beber más agua o incluir más frutas y verduras en tu alimentación, puede revitalizarte.\n\n**REF. CULTURA:** \"El arte de la guerra\" de Sun Tzu: entender al enemigo (en este caso, la fatiga) es clave para ganar la batalla diaria de la energía."
+    },
+    {
+        "titulo": "\"A quien tiene se le dará más y tendrá en abundancia\": qué es el \"efecto Mateo\" que hace que el más rico sea cada vez más rico",
+        "link": "https://www.xataka.com/magnet/a-quien-tiene-se-le-dara-tendra-abundancia-que-efecto-mateo-que-hace-que-rico-sea-cada-vez-rico",
+        "medio": "Xataka",
+        "idioma": "es",
+        "fecha": "01/08/2026",
+        "score": 40.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** El \"efecto Mateo\" revela cómo la desigualdad económica se perpetúa en la sociedad. En un mundo donde el dinero parece atraer más dinero, entender este fenómeno es crucial para abordar la pobreza y promover la equidad.\n\n**HOOK:** \"¿Por qué los ricos se hacen aún más ricos? La respuesta está en un antiguo proverbio.\"\n\n**EL DATO:** El \"efecto Mateo\", nombrado así por un pasaje bíblico, explica que aquellos que ya tienen recursos se benefician de más oportunidades para acumular riqueza, mientras que los que carecen de recursos enfrentan mayores dificultades para mejorar su situación financiera.\n\n**BAJADA SANTULA:** En nuestra vida cotidiana, esto se traduce en que los que tienen acceso a educación, redes de contactos y capital inicial tienden a prosperar más rápidamente. Por eso, es fundamental trabajar en políticas que equilibren estas oportunidades y apoyen a quienes están en desventaja.\n\n**REF. CULTURA:** \"El origen de la desigualdad\" de Thomas Piketty, un libro que profundiza en cómo las estructuras económicas favorecen a los más ricos a lo largo del tiempo."
+    },
+    {
+        "titulo": "BMW va a despedir a 8.000 empleados en Alemania. La clave está en cuántos empleados necesita para ganar un millón de euros",
+        "link": "https://www.xataka.com/movilidad/bmw-va-a-despedir-a-8-000-empleados-alemania-clave-esta-cuantos-empleados-necesita-marca-para-ganar-millon-euros",
+        "medio": "Xataka",
+        "idioma": "es",
+        "fecha": "01/08/2026",
+        "score": 40.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La industria automovilística se enfrenta a una transformación radical. Los despidos en BMW no solo reflejan una estrategia de ajuste financiero, sino también el impacto de la competencia global, especialmente de las marcas chinas. Esto afecta no solo a los empleados de la empresa, sino a la economía local y al futuro del empleo en el sector.\n\n**HOOK:** \"¿Sabías que BMW despedirá a 8,000 empleados y no por falta de ventas?\"\n\n**EL DATO:** BMW, una de las marcas más emblemáticas de Alemania, ha anunciado que reducirá su plantilla en 8,000 trabajadores hasta 2027, principalmente en puestos administrativos. Esto es un reflejo de la presión competitiva que enfrenta de marcas chinas, y subraya la necesidad de eficientizar costos para seguir siendo rentables.\n\n**BAJADA SANTULA:** Este ajuste en BMW es un llamado de atención para todos. Las empresas, incluso las más fuertes, deben adaptarse a un entorno cambiante. Si trabajas en un sector en transformación, es crucial estar preparados para reconfiguraciones en el mercado laboral, ya sea mejorando tus habilidades o buscando nuevas oportunidades.\n\n**REF. CULTURA:** \"El lobo de Wall Street\" – la película ilustra la feroz competencia y la necesidad de adaptarse rápidamente a un entorno que cambia constantemente, reflejando cómo las empresas deben pivotar en momentos de crisis."
     },
     {
         "titulo": "How Americans assess health information amid cyclospora outbreak",
         "link": "https://www.pewresearch.org/newsletter/the-briefing/how-americans-assess-health-information-amid-cyclospora-outbreak/",
         "medio": "Pew Research",
         "idioma": "en",
-        "fecha": "31/07/2026",
+        "fecha": "01/08/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La desinformación sobre brotes de salud como el de la ciclospora puede afectar nuestra capacidad de tomar decisiones informadas sobre nuestra salud. Entender cómo se propaga esta información es crucial para protegernos y a nuestros seres queridos.\n\n**HOOK:** \"¿Sabías que la desinformación puede ser más contagiosa que el virus mismo?\"\n\n**EL DATO:** Un reciente estudio de Pew Research revela que durante el brote de ciclospora, muchas personas se ven atrapadas en narrativas contradictorias y teorías de conspiración, lo que dificulta que puedan evaluar correctamente la información de salud que reciben.\n\n**BAJADA SANTULA:** Es fundamental que, ante un brote de enfermedad, busquemos fuentes confiables y contrastemos la información. No dejemos que el miedo o la confusión nos guíen; invirtamos tiempo en informarnos correctamente para proteger nuestra salud.\n\n**REF. CULTURA:** \"La verdad siempre sale a la luz\" - Proverbio, recordándonos que la búsqueda de información veraz es nuestra mejor defensa frente a la desinformación."
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** En un mundo donde la información se difunde rápidamente, entender cómo evaluar la información sobre salud es crucial para tomar decisiones informadas. En medio de brotes como el de la ciclospora, discernir entre hechos y rumores puede marcar la diferencia en nuestra salud.\n\n**HOOK:** \"¿Cómo sabes si lo que lees sobre salud es cierto o solo un rumor?\"\n\n**EL DATO:** Un estudio de Pew Research revela que la mayoría de los estadounidenses confían en fuentes oficiales para obtener información sobre brotes de salud, pero una parte significativa también se deja llevar por teorías de conspiración que pueden desinformar y generar pánico.\n\n**BAJADA SANTULA:** En tu día a día, esto significa que debes ser crítico con la información que consumes. Antes de compartir una noticia sobre salud, verifica las fuentes y busca la opinión de expertos. La salud no solo es un asunto personal, también es un tema comunitario.\n\n**REF. CULTURA:** \"La verdad os hará libres\" - una frase que nos recuerda la importancia de buscar y compartir información veraz, especialmente en tiempos de crisis."
     },
     {
-        "titulo": "Por qué la mayoría de las mujeres no consume la fibra que necesita y cómo revertirlo",
-        "link": "https://www.infobae.com/salud/2026/07/31/por-que-la-mayoria-de-las-mujeres-no-consume-la-fibra-que-necesita-y-como-revertirlo/",
+        "titulo": "Los antecedentes familiares juegan un papel en el riesgo genético de cáncer de mama, según los investigadores",
+        "link": "https://www.infobae.com/salud/2026/08/01/los-antecedentes-familiares-juegan-un-papel-en-el-riesgo-genetico-de-cancer-de-mama-segun-los-investigadores/",
         "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "31/07/2026",
+        "fecha": "01/08/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La fibra es crucial para nuestra salud, pero muchas mujeres no alcanzan la cantidad recomendada. Entender por qué y cómo solucionarlo puede mejorar nuestra calidad de vida y bienestar.\n\n**HOOK:** ¡La mayoría de las mujeres no están comiendo suficiente fibra! ¿Sabías que esto puede afectar tu salud?\n\n**EL DATO:** Las guías alimentarias de EE. UU. indican que las mujeres deberían consumir 25 gramos de fibra al día, pero la ingesta promedio es de solo 17 gramos. Esto significa que muchas no están obteniendo los beneficios que la fibra ofrece, como una mejor digestión y control del peso.\n\n**BAJADA SANTULA:** Incorporar más fibra en tu dieta es simple. Puedes empezar añadiendo frutas, verduras, legumbres y granos enteros a tus comidas. Un pequeño cambio en tus hábitos alimenticios puede hacer una gran diferencia en tu salud.\n\n**REF. CULTURA:** \"La salud no lo es todo, pero sin salud, todo lo demás es nada.\" - Arthur Schopenhauer."
+        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La información genética sobre el cáncer de mama puede ser crucial para la prevención y detección temprana. Conocer nuestro historial familiar no solo es importante para nuestra salud, sino que puede salvar vidas.\n\nHOOK: \"¿Sabías que tu familia puede influir en tu riesgo de cáncer de mama?\"\n\nEL DATO: Investigadores han encontrado que los antecedentes familiares son un factor significativo en el riesgo genético de desarrollar cáncer de mama. Esto significa que si tienes familiares cercanos que han tenido la enfermedad, tu riesgo puede ser mayor.\n\nBAJADA SANTULA: Es vital que todos estemos atentos a nuestra historia familiar. Hablar sobre esto con nuestros seres queridos y realizar chequeos regulares puede marcar la diferencia en la detección temprana y las opciones de tratamiento.\n\nREF. CULTURA: \"La vida es un eco: lo que envías regresa\". Esta frase nos recuerda cómo nuestros antecedentes familiares pueden influir en nuestra salud presente y futura."
     },
     {
-        "titulo": "Dormir mal puede disparar la presión arterial: qué cambios ayudan a reducir el riesgo",
-        "link": "https://www.infobae.com/salud/2026/07/31/dormir-mal-puede-disparar-la-presion-arterial-que-cambios-ayudan-a-reducir-el-riesgo/",
+        "titulo": "Los niveles de nicotina están aumentando entre los adolescentes que vapean, advierte un nuevo estudio",
+        "link": "https://www.infobae.com/salud/2026/08/01/los-niveles-de-nicotina-estan-aumentando-entre-los-adolescentes-que-vapean-advierte-un-nuevo-estudio/",
         "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "31/07/2026",
+        "fecha": "01/08/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: Dormir mal no solo afecta nuestra energía diaria, sino que puede tener consecuencias graves para nuestra salud cardiovascular. Entender esto es crucial en un mundo donde el estrés y las malas rutinas de sueño son comunes.\n\nHOOK: \"¿Sabías que no dormir bien puede elevar tu presión arterial?\"\n\nEL DATO: Estudios recientes indican que las personas que tienen problemas frecuentes para conciliar el sueño tienen un riesgo mayor de desarrollar hipertensión, lo que aumenta la probabilidad de enfermedades del corazón.\n\nBAJADA SANTULA: Mejorar la calidad del sueño puede ser tan simple como establecer una rutina nocturna, limitar el uso de pantallas antes de dormir y crear un ambiente tranquilo. Pequeños cambios pueden hacer una gran diferencia en tu salud a largo plazo.\n\nREF. CULTURA: \"El sueño es el mejor meditador.\" - Dalai Lama."
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La creciente popularidad del vapeo entre los adolescentes nos obliga a reflexionar sobre sus consecuencias. Entender cómo los niveles de nicotina están aumentando en estos dispositivos es crucial para proteger la salud de nuestros jóvenes.\n\nHOOK: \"¿Sabías que los adolescentes que vapean están consumiendo más nicotina que nunca?\"\n\nEL DATO: Un nuevo estudio revela que los niveles de nicotina en los vapes han aumentado significativamente, lo que implica un mayor riesgo de adicción y problemas de salud a largo plazo para los adolescentes.\n\nBAJADA SANTULA: Esta situación nos invita a educar a nuestros hijos sobre los riesgos del vapeo, no solo para que tomen decisiones informadas, sino también para que comprendan que lo que parece inofensivo puede tener efectos graves en su salud.\n\nREF. CULTURA: \"El tabaco no es un juego\" – una frase que nos recuerda la seriedad de la adicción y el impacto que puede tener en las vidas de las personas, especialmente entre los jóvenes."
     },
     {
-        "titulo": "Cuántos minutos de caminata rápida reducen 72% el riesgo de demencia, según un estudio",
-        "link": "https://www.infobae.com/america/ciencia-america/2026/07/31/cuantos-minutos-de-caminata-rapida-reducen-72-el-riesgo-de-demencia-segun-un-estudio/",
+        "titulo": "La terapia con psilocibina ayuda a aliviar el TEPT severo en los veteranos, según un estudio piloto",
+        "link": "https://www.infobae.com/salud/2026/08/01/la-terapia-con-psilocibina-ayuda-a-aliviar-el-tept-severo-en-los-veteranos-segun-un-estudio-piloto/",
         "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "31/07/2026",
+        "fecha": "01/08/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La salud cerebral es un tema crucial en un mundo donde la longevidad va en aumento. Este estudio nos muestra que pequeños cambios en nuestra rutina diaria, como caminar rápido, pueden tener un impacto significativo en la prevención de enfermedades como la demencia. Es un recordatorio de que cuidar de nuestra mente puede ser tan sencillo como dar un paso más hacia el movimiento.\n\n**HOOK:** ¡Solo unos minutos de caminata rápida pueden reducir el riesgo de demencia en un 72%!\n\n**EL DATO:** Un estudio realizado con más de 66.000 personas en el Reino Unido demostró que la forma en que acumulamos ejercicio diario es tan importante como la cantidad. Caminar de manera rápida y constante puede ser clave para mantener nuestra salud cerebral.\n\n**BAJADA SANTULA:** Incorporar caminatas rápidas a tu rutina diaria no solo es un buen ejercicio, sino también una estrategia efectiva para cuidar tu salud mental a largo plazo. Si dedicas solo 10-15 minutos al día a caminar de forma más intensa, puedes estar dando un gran paso hacia la prevención de enfermedades neurodegenerativas.\n\n**REF. CULTURA:** \"Caminar es el mejor ejercicio, y la mente también se entrena en el camino.\" – N/A"
-    },
-    {
-        "titulo": "Montana’s plan to become an experimental medical hub just pushed forward",
-        "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
-        "medio": "MIT Tech Review",
-        "idioma": "en",
-        "fecha": "31/07/2026",
-        "score": 20.0,
-        "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** Montana se posiciona como un referente en la biotecnología al facilitar el acceso a tratamientos experimentales, lo que podría cambiar la forma en que las personas acceden a nuevas medicinas. Esto es relevante hoy porque la búsqueda de tratamientos innovadores es crucial para quienes enfrentan enfermedades sin cura.\n\n**HOOK:** \"¿Te imaginas poder acceder a tratamientos médicos innovadores antes de que estén aprobados?\"\n\n**EL DATO:** A partir de esta semana, Montana permite que cualquier empresa biotecnológica con un fármaco experimental pueda venderlo directamente a los consumidores, tras una revisión mínima. La aprobación puede darse tras pruebas en tan solo 10 personas saludables, y el costo para solicitar la revisión es de $12,500.\n\n**BAJADA SANTULA:** Esto significa que en el futuro cercano, podríamos tener acceso a tratamientos que hoy no están disponibles en el mercado. Sin embargo, también plantea preguntas sobre la seguridad y los riesgos de estos tratamientos, algo que todos debemos considerar antes de optar por ellos.\n\n**REF. CULTURA:** \"El jardín de los finzi-contini\" de Giorgio Bassani, que explora la búsqueda de la esperanza en tiempos inciertos, refleja cómo la innovación puede ofrecer nuevos caminos en situaciones desesperadas."
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La salud mental de los veteranos es un tema urgente y a menudo ignorado. La psilocibina, un compuesto encontrado en ciertos hongos, podría ser una nueva esperanza para aquellos que sufren de trastorno de estrés postraumático (TEPT). Es fundamental conocer estas alternativas para ofrecer mejor apoyo a quienes han servido en el ejército.\n\n**HOOK:** \"¿Puede un hongo cambiar la vida de los veteranos con TEPT?\"\n\n**EL DATO:** Un estudio piloto ha revelado que la terapia con psilocibina puede reducir significativamente los síntomas del TEPT severo en veteranos. Los participantes informaron mejoras notables en su estado emocional y bienestar general tras recibir esta terapia, sugiriendo que puede ser una opción viable en el tratamiento de esta condición.\n\n**BAJADA SANTULA:** Imagina que un ser querido ha vuelto de la guerra pero sigue luchando con recuerdos traumáticos. La psilocibina podría ofrecer una nueva forma de ayudar a sanar esas heridas invisibles, brindando una alternativa a los tratamientos convencionales que, a veces, no son suficientes.\n\n**REF. CULTURA:** \"Caminando entre las sombras\", una película que muestra las batallas internas de los veteranos y la necesidad de abordar su salud mental de manera integral."
     }
 ]
