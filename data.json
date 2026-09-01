@@ -1,102 +1,82 @@
 [
     {
-        "titulo": "Sueño y bienestar: qué cambio desde la tarde puede ayudar a descansar mejor",
-        "link": "https://www.infobae.com/salud/2026/08/31/sueno-y-bienestar-que-cambio-desde-la-tarde-puede-ayudar-a-descansar-mejor/",
+        "titulo": "Tendón de Aquiles: qué factores del entrenamiento y la salud metabólica pueden favorecer una lesión",
+        "link": "https://www.infobae.com/salud/2026/09/01/tendon-de-aquiles-que-factores-del-entrenamiento-y-la-salud-metabolica-pueden-favorecer-una-lesion/",
         "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "31/08/2026",
+        "fecha": "01/09/2026",
         "score": 60.0,
         "provider": "openai",
-        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La calidad del sueño es fundamental para nuestra salud mental y física. En un mundo lleno de estímulos constantes, entender cómo pequeños cambios en nuestra rutina vespertina pueden mejorar nuestro descanso es crucial para nuestra productividad y bienestar general.\n\nHOOK: ¿Sabías que una simple rutina puede transformar tu sueño?\n\nEL DATO: Estudios recientes indican que establecer horarios estables y reducir los estímulos en la tarde puede mejorar significativamente la calidad del sueño. Esto significa menos pantallas y más tranquilidad antes de dormir.\n\nBAJADA SANTULA: Si sueles quedarte pegado a la pantalla hasta tarde, intenta desconectar una hora antes de irte a la cama. Establece un horario regular para dormir y despiértate a la misma hora todos los días. Tu cuerpo y mente te lo agradecerán.\n\nREF. CULTURA: \"El arte de la felicidad\" de Dalai Lama, donde se enfatiza la importancia del bienestar mental, que incluye un sueño reparador."
+        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La salud de nuestro tendón de Aquiles está más conectada a nuestros hábitos diarios y nutricionales de lo que pensamos. Saber esto puede ayudarnos a prevenir lesiones y mantenernos activos.\n\nHOOK: ¿Sabías que tu dieta puede afectar la salud de tu tendón de Aquiles?\n\nEL DATO: Estudio revela que factores como el entrenamiento inadecuado, altos niveles de glucosa y colesterol pueden aumentar el riesgo de lesiones en el tendón de Aquiles. Mantener estos niveles en rangos saludables es clave para protegerlo.\n\nBAJADA SANTULA: Si eres amante del deporte o simplemente quieres evitar lesiones en tu vida diaria, prestar atención a tu alimentación y a cómo entrenas es esencial. Un tendón fuerte no solo te permite moverte con libertad, sino que también asegura un estilo de vida activo y saludable.\n\nREF. CULTURA: \"El hombre en busca de sentido\" de Viktor Frankl, que nos recuerda la importancia de cuidar nuestro cuerpo y mente para encontrar un propósito en la vida."
     },
     {
-        "titulo": "Caminar y bailar, dos hábitos que la ciencia vincula con un cerebro más activo",
-        "link": "https://www.infobae.com/salud/2026/08/31/caminar-y-bailar-dos-habitos-que-la-ciencia-vincula-con-un-cerebro-mas-activo/",
-        "medio": "Infobae Salud",
-        "idioma": "es",
-        "fecha": "31/08/2026",
-        "score": 60.0,
-        "provider": "openai",
-        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: Mantenerse activo no solo beneficia el cuerpo, sino también la mente. En un mundo donde el estrés y la falta de actividad son comunes, entender cómo hábitos simples como caminar y bailar pueden mejorar nuestra salud mental es crucial para todos.\n\nHOOK: \"¿Sabías que caminar y bailar pueden hacer que tu cerebro funcione mejor?\"\n\nEL DATO: Estudios recientes muestran que la actividad física regular, como caminar y bailar, está relacionada con un aumento en la actividad cerebral. Esto se traduce en mejor desempeño mental y una mayor calidad de vida.\n\nBAJADA SANTULA: Incorporar estos hábitos en tu rutina diaria no requiere mucho tiempo. Un paseo diario o dedicar unos minutos a bailar en casa puede ser un cambio simple que impacte positivamente tu salud mental y bienestar.\n\nREF. CULTURA: \"La danza es el lenguaje oculto del alma.\" - Martha Graham."
-    },
-    {
-        "titulo": "¿La palta ayuda a controlar el peso? La ciencia revela cómo sus grasas saludables y fibra mejoran tu salud metabólica",
-        "link": "https://www.infobae.com/salud/2026/08/31/la-palta-ayuda-a-controlar-el-peso-la-ciencia-revela-como-sus-grasas-saludables-y-fibra-mejoran-tu-salud-metabolica/",
-        "medio": "Infobae Salud",
-        "idioma": "es",
-        "fecha": "31/08/2026",
-        "score": 40.0,
-        "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La palta no solo es deliciosa, sino que también puede ser un aliado en el control del peso y la salud metabólica. En un mundo donde la alimentación es clave para nuestro bienestar, entender cómo ciertos alimentos pueden influir en nuestra salud es fundamental.\n\n**HOOK:** \"¿Sabías que la palta puede ser tu mejor amiga para controlar el peso?\"\n\n**EL DATO:** La palta está llena de grasas saludables y fibra, lo que no solo mejora tu perfil de colesterol y presión arterial, sino que también te ayuda a sentirte saciado por más tiempo. Esto puede ser clave para quienes buscan mantener un peso saludable.\n\n**BAJADA SANTULA:** Incorporar palta en tu dieta no solo es un placer para el paladar, sino que puede ser una estrategia efectiva para mejorar tu salud. Ya sea en un desayuno, un almuerzo o una cena, un poco de palta puede marcar la diferencia en cómo te sientes y en tu bienestar general.\n\n**REF. CULTURA:** N/A"
-    },
-    {
-        "titulo": "Cansancio al despertar: qué dicen los expertos sobre los hábitos que perjudican la energía matinal",
-        "link": "https://www.infobae.com/salud/2026/08/31/cansancio-al-despertar-que-dicen-los-expertos-sobre-los-habitos-que-perjudican-la-energia-matinal/",
-        "medio": "Infobae Salud",
-        "idioma": "es",
-        "fecha": "31/08/2026",
-        "score": 40.0,
-        "provider": "openai",
-        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La calidad de nuestro descanso impacta directamente en nuestra energía diaria. Comprender qué hábitos afectan nuestro sueño nos puede ayudar a mejorar nuestra productividad y bienestar general.\n\nHOOK: \"¿Te despiertas cansado? Aquí está la razón y la solución.\"\n\nEL DATO: Expertos destacan que hábitos como el uso excesivo de pantallas antes de dormir, el consumo de cafeína en la tarde y la falta de una rutina de sueño consistente son factores que pueden arruinar nuestra energía matutina. Dormir mal no solo afecta nuestro ánimo, sino también nuestra capacidad de concentración y desempeño en el día a día.\n\nBAJADA SANTULA: Para mejorar nuestra energía al despertar, es fundamental establecer una rutina de sueño: apagando dispositivos al menos una hora antes de dormir, evitando la cafeína por la tarde y creando un ambiente propicio para el descanso. Estos simples cambios pueden transformar nuestras mañanas y, en consecuencia, nuestro día.\n\nREF. CULTURA: \"Despertar\" de la película \"Alicia a través del espejo\", donde se explora la importancia de la percepción y el estado mental en la realidad."
-    },
-    {
-        "titulo": "Cuatro hábitos digestivos que los gastroenterólogos recomiendan abandonar para cuidar la salud intestinal",
-        "link": "https://www.infobae.com/salud/2026/08/31/cuatro-habitos-digestivos-que-los-gastroenterologos-recomiendan-abandonar-para-cuidar-la-salud-intestinal/",
-        "medio": "Infobae Salud",
-        "idioma": "es",
-        "fecha": "31/08/2026",
-        "score": 40.0,
-        "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La salud intestinal es fundamental para nuestro bienestar general. Abandonar ciertos hábitos puede mejorar nuestra calidad de vida, algo que todos buscamos en nuestro día a día.\n\n**HOOK:** ¿Sabías que pequeños cambios en tus hábitos pueden transformar tu salud intestinal?\n\n**EL DATO:** Estudios muestran que dejar de lado hábitos como comer apresuradamente, consumir en exceso alimentos procesados, no hidratarse adecuadamente y saltarse las comidas, es clave para mantener un sistema digestivo saludable.\n\n**BAJADA SANTULA:** En la rutina diaria, tomarnos el tiempo para comer, elegir alimentos frescos y asegurarnos de beber suficiente agua son pasos sencillos que pueden marcar una gran diferencia. ¿Te has puesto a pensar en tus hábitos alimenticios?\n\n**REF. CULTURA:** \"La salud no lo es todo, pero sin salud, todo lo demás es nada.\" - Arthur Schopenhauer."
-    },
-    {
-        "titulo": "Llevamos años programando nuestras casas inteligentes. LG tiene otra idea: contarles lo que queremos y que ellas se apañen",
-        "link": "https://www.xataka.com/robotica-e-ia/llevamos-anos-programando-nuestras-casas-inteligentes-lg-tiene-otra-idea-contarles-que-queremos-que-ellas-se-apanen",
+        "titulo": "Durante años, la dieta mediterránea ha librado una batalla a vida y muerte contra los ultraprocesados. Ahora la está perdiendo",
+        "link": "https://www.xataka.com/ecologia-y-naturaleza/durante-anos-dieta-mediterranea-ha-librado-batalla-a-vida-muerte-ultraprocesados-ahora-esta-perdiendo",
         "medio": "Xataka",
         "idioma": "es",
-        "fecha": "31/08/2026",
+        "fecha": "01/09/2026",
         "score": 40.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La evolución de la tecnología de hogares inteligentes está cambiando nuestra relación con el hogar. En lugar de programar todo manualmente, ahora podemos simplemente expresar lo que queremos y dejar que la IA lo resuelva. Esto no solo ahorra tiempo, sino que también puede hacer nuestra vida más cómoda y eficiente.\n\n**HOOK:** ¿Imaginas decirle a tu casa lo que quieres y que ella se encargue de todo?\n\n**EL DATO:** LG ha presentado ThinQ Claw, un agente de IA que entiende tus necesidades y preferencias para gestionar tu hogar inteligente de forma autónoma. En lugar de configurar escenas y horarios, solo le dices lo que deseas, y la inteligencia artificial se encarga del resto.\n\n**BAJADA SANTULA:** Esto significa que ya no tienes que ser un experto en tecnología para disfrutar de un hogar inteligente. Con ThinQ Claw, cualquier persona puede hacer su vida más fácil y aprovechar al máximo la tecnología sin complicaciones. Imagina llegar a casa y que todo esté preparado según tus hábitos, sin tener que programar nada.\n\n**REF. CULTURA:** \"El asistente de un genio\" - un guiño a la idea de que la tecnología puede simplificar nuestras vidas, como el genio que cumple deseos en cuentos clásicos."
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La dieta mediterránea, símbolo de salud y bienestar, está en riesgo ante el avance de los ultraprocesados. Esto es importante porque nuestra salud y la de nuestras familias dependen de las decisiones alimentarias que tomamos a diario. Reflexionar sobre lo que consumimos puede ser clave para nuestro bienestar.\n\n**HOOK:** \"¿Sabías que la dieta mediterránea está perdiendo la batalla contra los ultraprocesados?\"\n\n**EL DATO:** En 1990, los ultraprocesados representaban solo el 11% de las calorías que compraban los españoles. En 2010, esa cifra se disparó al 31,7%. Además, el 80,4% de todos los azúcares añadidos provienen de estos productos. Esto nos muestra una tendencia preocupante: cada vez más, nuestra alimentación se aleja de opciones saludables.\n\n**BAJADA SANTULA:** En nuestra vida cotidiana, esto significa que debemos ser más conscientes de lo que elegimos para comer. Optar por alimentos frescos y menos procesados puede ser un cambio pequeño pero significativo en nuestra salud y bienestar. Pregúntate: ¿realmente sabes qué hay en tu plato?\n\n**REF. CULTURA:** \"La comida es nuestra conexión con la tierra y con quienes nos rodean.\" – N/A"
     },
     {
         "titulo": "Why Americans use AI chatbots for health",
         "link": "https://www.pewresearch.org/newsletter/internet-science-and-tech/why-americans-use-ai-chatbots-for-health/",
         "medio": "Pew Research",
         "idioma": "en",
-        "fecha": "31/08/2026",
+        "fecha": "01/09/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: En un mundo donde la tecnología avanza rápidamente, entender el uso de chatbots de IA en la salud es crucial. ¿Por qué los estadounidenses recurren a ellos? Porque la salud es un tema prioritario y la confianza en la tecnología está cambiando.\n\nHOOK: \"¿Sabías que muchos estadounidenses prefieren hablar con un chatbot sobre su salud antes que con un médico?\"\n\nEL DATO: Según un estudio de Pew Research, más del 30% de los estadounidenses utilizan chatbots de IA para obtener información sobre su salud, buscando respuestas rápidas y accesibles. Esto refleja una creciente desconfianza en la atención médica tradicional y una búsqueda de alternativas más eficientes.\n\nBAJADA SANTULA: En nuestro día a día, esto significa que muchas personas están eligiendo la comodidad y rapidez de la tecnología para lidiar con sus preocupaciones de salud. Es fundamental entender cómo esto puede afectar la calidad de la atención médica y la relación con los profesionales de salud.\n\nREF. CULTURA: \"La máquina que cambió el mundo\" de James Womack, que trata sobre cómo la tecnología transforma industrias, puede ilustrar cómo la IA está remodelando el sector salud."
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** En un mundo donde la tecnología avanza a pasos agigantados, saber cómo y por qué utilizamos chatbots de inteligencia artificial para la salud es crucial. Esto no solo refleja nuestras preocupaciones sobre la privacidad y la eficacia en el cuidado médico, sino que también plantea preguntas sobre cómo queremos interactuar con la tecnología en un ámbito tan personal como es nuestra salud.\n\n**HOOK:** \"¿Por qué cada vez más estadounidenses confían en chatbots de salud?\"\n\n**EL DATO:** Un estudio de Pew Research revela que muchos estadounidenses utilizan chatbots de inteligencia artificial para buscar información de salud. Aunque la mayoría busca conveniencia, también hay un creciente escepticismo sobre la precisión y la privacidad de estos servicios.\n\n**BAJADA SANTULA:** En nuestra vida diaria, esto significa que si alguna vez has pensado en usar un chatbot para resolver dudas sobre tu salud, tal vez deberías considerar no solo la rapidez de la respuesta, sino también la calidad y la seguridad de la información que recibes. Cuestionar lo que nos dice la tecnología es esencial para tomar decisiones informadas.\n\n**REF. CULTURA:** \"El hombre bicentenario\" de Isaac Asimov, donde se explora la relación entre humanos y máquinas, invita a reflexionar sobre la confianza que depositamos en la tecnología."
     },
     {
-        "titulo": "¿Labios agrietados y doloridos? Los hábitos comunes que empeoran su estado y los remedios caseros para devolverles la suavidad",
-        "link": "https://www.infobae.com/salud/2026/08/31/labios-agrietados-y-doloridos-los-habitos-comunes-que-empeoran-su-estado-y-los-remedios-caseros-para-devolverles-la-suavidad/",
+        "titulo": "El alimento que mejora la presión, la resistencia y hasta el cerebro según la ciencia",
+        "link": "https://www.infobae.com/salud/2026/09/01/el-alimento-que-mejora-la-presion-la-resistencia-y-hasta-el-cerebro-segun-la-ciencia/",
         "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "31/08/2026",
+        "fecha": "01/09/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La salud de nuestros labios es un reflejo de nuestros hábitos diarios. Entender cómo pequeñas acciones pueden causar incomodidad nos ayuda a cuidarnos mejor y a sentirnos más confiados en nuestra piel.\n\nHOOK: \"¿Tus labios están agrietados? Descubre lo que podrías estar haciendo mal.\"\n\nEL DATO: Los labios agrietados suelen ser consecuencia de hábitos comunes como lamerse los labios, no hidratarse adecuadamente o exponerse demasiado al sol. Sin embargo, existen remedios caseros simples, como el uso de aceite de coco o miel, que pueden devolverles su suavidad.\n\nBAJADA SANTULA: Presta atención a tus rutinas diarias. Cambiar pequeños hábitos, como beber más agua y usar bálsamo labial natural, puede marcar la diferencia. Así, no solo mejorarás la salud de tus labios, sino también tu bienestar general.\n\nREF. CULTURA: \"La belleza está en los detalles\", una frase que nos recuerda que cuidar de nosotros mismos es esencial para sentirnos bien."
+        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: En un mundo donde la salud y el bienestar son prioridades, conocer qué alimentos pueden beneficiar nuestra presión arterial y rendimiento físico es crucial para tomar decisiones informadas sobre nuestra dieta y estilo de vida.\n\nHOOK: \"¿Sabías que hay un alimento que puede mejorar tu presión arterial y tu rendimiento físico?\"\n\nEL DATO: Investigaciones recientes indican que ciertos compuestos presentes en alimentos específicos pueden mejorar la circulación, aumentar la resistencia durante el ejercicio y potenciar funciones cerebrales, contribuyendo así a una mejor salud general.\n\nBAJADA SANTULA: Integrar este alimento en tu dieta diaria puede ser un cambio sencillo pero significativo. Ya sea como parte del desayuno o un snack saludable, pequeños ajustes pueden llevar a grandes beneficios para tu bienestar.\n\nREF. CULTURA: \"Que tu alimento sea tu medicina\" - Hipócrates. Esta frase histórica resalta la importancia de lo que comemos en nuestra salud."
     },
     {
-        "titulo": "El ejercicio activa una vía cerebral que puede ayudar a frenar el deterioro cognitivo",
-        "link": "https://www.infobae.com/salud/ciencia/2026/08/31/el-ejercicio-activa-una-via-cerebral-que-puede-ayudar-a-frenar-el-deterioro-cognitivo/",
+        "titulo": "Cómo puede impactar en el organismo dejar de tomar la pastilla anticonceptiva, según expertos",
+        "link": "https://www.infobae.com/salud/2026/09/01/como-puede-impactar-en-el-organismo-dejar-de-tomar-la-pastilla-anticonceptiva-segun-expertos/",
         "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "31/08/2026",
+        "fecha": "01/09/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: El deterioro cognitivo es una preocupación creciente en nuestra sociedad, especialmente a medida que envejecemos. Comprender cómo el ejercicio puede activar mecanismos cerebrales que protegen nuestra mente es crucial para mantener una buena calidad de vida.\n\nHOOK: \"¿Sabías que moverte puede proteger tu cerebro? ¡Aquí te contamos cómo!\"\n\nEL DATO: Un estudio reciente ha descubierto que el ejercicio activa a los astrocitos, células del cerebro que responden a las señales del músculo. Esta activación promueve la neurogénesis, es decir, la creación de nuevas neuronas, lo que puede ayudar a frenar el deterioro cognitivo.\n\nBAJADA SANTULA: Incorporar actividad física en tu rutina diaria no solo beneficia tu cuerpo, sino que también puede ser un aliado fundamental para mantener tu mente en forma. Un paseo, una sesión de yoga o incluso bailar pueden ser formas efectivas de cuidar tu salud cerebral.\n\nREF. CULTURA: \"Cuerpo y mente en armonía\" - N/A"
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: Dejar de tomar la pastilla anticonceptiva puede tener un impacto significativo en la salud física y emocional de las mujeres. Comprender estos cambios es crucial para tomar decisiones informadas sobre el propio cuerpo, especialmente en un momento donde la salud reproductiva es un tema relevante y personal.\n\nHOOK: \"¿Qué sucede en tu cuerpo cuando dejas la pastilla anticonceptiva?\"\n\nEL DATO: Un estudio del BMJ que incluyó a casi 18,000 mujeres revela que dejar la pastilla anticonceptiva puede desencadenar cambios físicos como variaciones en el ciclo menstrual, cambios de peso y fluctuaciones en el estado de ánimo. Sin embargo, cada mujer puede experimentar esto de manera diferente.\n\nBAJADA SANTULA: Es esencial que al considerar dejar la pastilla anticonceptiva, se consulte a un profesional de la salud. Cada cuerpo es único y entender cómo podría reaccionar el tuyo puede ayudarte a manejar mejor el proceso y a tomar decisiones que se alineen con tus necesidades y estilo de vida.\n\nREF. CULTURA: \"El cuerpo habla, pero a veces necesitamos aprender a escuchar.\" - N/A"
     },
     {
-        "titulo": "Infarto en mujeres: cuál es el síntoma frecuente que puede confundirse con estrés o agotamiento",
-        "link": "https://www.infobae.com/salud/2026/08/31/infarto-en-mujeres-cual-es-el-sintoma-frecuente-que-puede-confundirse-con-estres-o-agotamiento/",
+        "titulo": "Venas marcadas en las manos: por qué aparecen y qué las vuelve más visibles",
+        "link": "https://www.infobae.com/salud/2026/09/01/venas-marcadas-en-las-manos-por-que-aparecen-y-que-las-vuelve-mas-visibles/",
         "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "31/08/2026",
+        "fecha": "01/09/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La salud de las mujeres a menudo se subestima y los síntomas de problemas cardíacos pueden ser confundidos con estrés o agotamiento. Conocer estas señales puede marcar la diferencia entre la vida y la muerte.\n\nHOOK: \"¿Sabías que un simple síntoma puede ser la clave para detectar un infarto en mujeres?\"\n\nEL DATO: Un estudio revela que muchas mujeres experimentan síntomas como fatiga extrema o malestar que son confundidos con agotamiento. Es crucial identificar estos síntomas para buscar atención médica a tiempo.\n\nBAJADA SANTULA: Si te sientes inusualmente cansada o con molestias en la parte superior del cuerpo, no lo ignores. Escucha a tu cuerpo y busca ayuda profesional; tu salud es lo primero.\n\nREF. CULTURA: \"A veces, el héroe no es quien grita en la batalla, sino quien escucha su cuerpo en silencio.\" (N/A)"
+        "ficha": "ÁNGULO EDITORIAL: La visibilidad de las venas en las manos no solo es un tema estético, sino que también puede ser un indicador de tu estado de salud y nivel de actividad física. Entender por qué aparecen puede ser clave para cuidar de nuestro cuerpo hoy.\n\nHOOK: \"¿Tus venas se ven más marcadas? Esto puede ser más importante de lo que crees.\"\n\nEL DATO: Las venas visible en las manos son comunes en personas delgadas o muy activas. Esto ocurre porque la grasa subcutánea es menor, lo que hace que las venas se asomen más. Además, factores como la hidratación y la temperatura corporal pueden influir en su apariencia.\n\nBAJADA SANTULA: Si notas que tus venas están más marcadas, tal vez sea el momento de evaluar tu nivel de actividad física y tu hidratación. No se trata solo de una cuestión de estética; podría ser una señal de que tu cuerpo está trabajando más de lo habitual. Escucha a tu cuerpo y cuida de él.\n\nREF. CULTURA: \"Cuida tu cuerpo, es el único lugar que tienes para vivir.\" - Jim Rohn."
+    },
+    {
+        "titulo": "Más allá del color de las verduras: qué son los fitonutrientes y cuáles son sus beneficios",
+        "link": "https://www.infobae.com/salud/2026/09/01/mas-alla-del-color-de-las-verduras-que-son-los-fitonutrientes-y-cuales-son-sus-beneficios/",
+        "medio": "Infobae Salud",
+        "idioma": "es",
+        "fecha": "01/09/2026",
+        "score": 20.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** Hoy en día, la alimentación va más allá de contar calorías; entender los fitonutrientes en nuestras verduras puede ser clave para mejorar nuestra salud y prevenir enfermedades. Esto no solo impacta en nuestra dieta, sino también en nuestra calidad de vida.\n\n**HOOK:** ¿Sabías que el color de tus verduras es solo la punta del iceberg?\n\n**EL DATO:** Los fitonutrientes son compuestos naturales que se encuentran en las plantas y que tienen propiedades antioxidantes y antiinflamatorias. Estos componentes no solo aportan color, sino que también ayudan a fortalecer el sistema inmunológico y a reducir el riesgo de enfermedades crónicas.\n\n**BAJADA SANTULA:** Incorporar una variedad de verduras ricas en fitonutrientes en tu dieta diaria puede ser tan simple como añadir espinacas a tu ensalada o elegir zanahorias de diferentes colores. Cada color representa diferentes beneficios para tu salud, así que ¡haz que tu plato sea un arcoíris!\n\n**REF. CULTURA:** \"Que tu alimento sea tu medicina\" – Hipócrates."
+    },
+    {
+        "titulo": "España pensaba invertir 1.000 millones de euros en las carreteras españolas. Ese plan ha saltado por los aires",
+        "link": "https://www.xataka.com/movilidad/espana-pensaba-invertir-1-000-millones-euros-carreteras-espanolas-ese-plan-ha-saltado-aires",
+        "medio": "Xataka",
+        "idioma": "es",
+        "fecha": "01/09/2026",
+        "score": 20.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La inversión en infraestructura vial no solo afecta la calidad de las carreteras, sino también la seguridad y la economía de las comunidades. La falta de fondos pone en riesgo la movilidad y el desarrollo local, temas que importan a cada ciudadano en su día a día.\n\n**HOOK:** \"¿Sabías que España está a punto de perder mil millones para arreglar sus carreteras?\"\n\n**EL DATO:** España necesita invertir 13.000 millones de euros en sus carreteras, pero este año solo planeaba destinar 1.000 millones. Con un déficit tan grande, la calidad de las vías y la seguridad de los conductores están en peligro.\n\n**BAJADA SANTULA:** Si no se invierte adecuadamente en el mantenimiento de las carreteras, todos podríamos sufrir las consecuencias: más accidentes, mayor tiempo de viaje y un impacto negativo en la economía local. Cada vez que tomas el coche, la infraestructura que usas afecta tu vida diaria.\n\n**REF. CULTURA:** \"La carretera es un espejo de nuestra sociedad\", como diría el autor de \"El camino\" de Miguel Delibes, recordándonos que las decisiones de hoy influyen en el futuro de todos."
     }
 ]
