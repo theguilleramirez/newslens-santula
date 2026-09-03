@@ -1,102 +1,92 @@
 [
     {
-        "titulo": "13 causas detrás de la sed persistente y cuándo es una señal de alarma",
-        "link": "https://www.infobae.com/salud/2026/09/02/13-causas-detras-de-la-sed-persistente-y-cuando-es-una-senal-de-alarma/",
-        "medio": "Infobae Salud",
-        "idioma": "es",
-        "fecha": "02/09/2026",
-        "score": 40.0,
-        "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La sed persistente puede parecer un simple inconveniente, pero puede ser un indicador de problemas de salud más serios. Entender sus causas es esencial para cuidar de nuestra salud y tomar decisiones informadas.\n\n**HOOK:** \"¿Te sientes sediento todo el tiempo? ¡Podría ser más que deshidratación!\"\n\n**EL DATO:** La sed constante puede ser señal de diversas condiciones, desde diabetes hasta estrés crónico. Estas alteraciones en el equilibrio de líquidos del cuerpo requieren atención médica, ya que pueden indicar problemas que van más allá de la simple falta de agua.\n\n**BAJADA SANTULA:** No ignores esa sed incesante. Si te sientes más sediento de lo habitual, es un buen momento para visitar al médico. No se trata solo de tomar más agua, sino de cuidar tu salud en general. Escuchar a tu cuerpo es fundamental.\n\n**REF. CULTURA:** \"La salud es la verdadera riqueza.\" - Mahatma Gandhi."
-    },
-    {
-        "titulo": "4 ejercicios de agilidad para sumar al gimnasio y entrenar todo el cuerpo",
-        "link": "https://www.infobae.com/salud/2026/09/02/4-ejercicios-de-agilidad-para-sumar-al-gimnasio-y-entrenar-todo-el-cuerpo/",
-        "medio": "Infobae Salud",
-        "idioma": "es",
-        "fecha": "02/09/2026",
-        "score": 40.0,
-        "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La agilidad no solo se trata de velocidad, sino de cómo respondemos a situaciones cambiantes. Estos ejercicios pueden mejorar nuestra coordinación y reacción, habilidades que son esenciales no solo en el deporte, sino en la vida diaria.\n\n**HOOK:** \"¿Quieres mejorar tu agilidad y tomar mejores decisiones bajo presión?\"\n\n**EL DATO:** Un estudio revela que los ejercicios de agilidad, que incluyen desplazamientos y técnicas de apoyo, ayudan a mejorar el control corporal y la coordinación. Esto no solo es crucial para atletas, sino que también se traduce en un mejor desempeño en actividades cotidianas.\n\n**BAJADA SANTULA:** Incorporar ejercicios de agilidad en tu rutina de gimnasio puede transformar tu forma de moverte en el día a día. Desde evitar tropezar en la calle hasta reaccionar más rápido en situaciones inesperadas, estos ejercicios te preparan para cualquier desafío.\n\n**REF. CULTURA:** \"La mente es como un paracaídas, solo funciona si se abre.\" - Albert Einstein."
-    },
-    {
-        "titulo": "Probablemente el sueño se pasará por alto en el regreso a clases, según una encuesta",
-        "link": "https://www.infobae.com/salud/2026/09/02/probablemente-el-sueno-se-pasara-por-alto-en-el-regreso-a-clases-segun-una-encuesta/",
-        "medio": "Infobae Salud",
-        "idioma": "es",
-        "fecha": "02/09/2026",
-        "score": 40.0,
-        "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: En el regreso a clases, muchos padres se enfocan en los materiales escolares y la rutina académica, pero el sueño es un elemento crítico que puede ser pasado por alto y que afecta directamente el rendimiento y bienestar de los estudiantes.\n\nHOOK: \"¿Sabías que el sueño puede ser el héroe olvidado de tu regreso a clases?\"\n\nEL DATO: Una reciente encuesta revela que muchos padres no priorizan el sueño de sus hijos al volver a la rutina escolar, a pesar de que una buena calidad de sueño es esencial para la concentración y el aprendizaje.\n\nBAJADA SANTULA: Establecer horarios de sueño regulares y crear un ambiente propicio para descansar puede marcar la diferencia en el rendimiento escolar y la salud emocional de los estudiantes. Valorar el sueño tanto como los útiles escolares es fundamental.\n\nREF. CULTURA: \"Dormir bien es el primer paso para tener un día productivo\" - Proverbio que subraya la importancia del descanso en nuestras vidas."
-    },
-    {
-        "titulo": "Cuando la corriente del Golfo se despegue de Hatteras empezará la cuenta atrás: 25 años hasta que Europa cambie de clima",
-        "link": "https://www.xataka.com/ecologia-y-naturaleza/cuando-corriente-golfo-se-despegue-hatteras-empezara-cuenta-atras-25-anos-que-europa-cambie-clima",
+        "titulo": "Francia arrancó 12.000 kilómetros de setos porque estorbaban a los tractores. Décadas después descubrió que frenaban algo mucho peor",
+        "link": "https://www.xataka.com/ecologia-y-naturaleza/durante-decadas-francia-arranco-12-000-kilometros-setos-para-agrandar-campos-entonces-descubrio-servian-cuando-llovia",
         "medio": "Xataka",
         "idioma": "es",
-        "fecha": "02/09/2026",
+        "fecha": "03/09/2026",
         "score": 40.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La inminente separación de la Corriente del Golfo podría desencadenar un cambio climático drástico en Europa. Comprender este fenómeno es esencial, ya que impactará nuestras vidas, desde la agricultura hasta el clima en el que vivimos.\n\n**HOOK:** \"¿Sabías que un cambio en el océano podría transformar el clima de Europa en solo 25 años?\"\n\n**EL DATO:** La circulación termohalina, conocida como AMOC, es como el sistema circulatorio del océano. Regula las temperaturas y el clima en Europa. Si la AMOC se separa de la costa de Hatteras, podríamos ver cambios climáticos severos en Europa en cuestión de décadas.\n\n**BAJADA SANTULA:** Esto no es solo un problema para los científicos; nos afecta a todos. Cambios en la temperatura pueden afectar la producción de alimentos, provocar más desastres naturales y alterar nuestro día a día. Es crucial que estemos informados y preparados para estos cambios.\n\n**REF. CULTURA:** \"El día después de mañana\" - una película que ilustra cómo el cambio climático puede alterar drásticamente nuestro entorno en un corto período de tiempo."
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La modernización agrícola ha transformado nuestras tierras, pero en el camino hemos ignorado el valor de los ecosistemas naturales. La historia de los setos en Francia nos recuerda la importancia de la biodiversidad y su papel en la sostenibilidad de la agricultura. Hoy, más que nunca, necesitamos reflexionar sobre cómo nuestras decisiones impactan el medio ambiente y nuestra salud.\n\n**HOOK:** ¿Sabías que eliminar setos agrícolas podría haber sido un grave error? ¡Te contamos por qué!\n\n**EL DATO:** Durante la modernización agrícola en la segunda mitad del siglo XX, Francia eliminó el 70% de sus setos, creyendo que solo estorbaban a los tractores. Sin embargo, investigaciones recientes muestran que estos setos eran cruciales para frenar la erosión, promover la infiltración de agua y proteger los ríos de la contaminación por nitratos y pesticidas.\n\n**BAJADA SANTULA:** En nuestra vida cotidiana, podemos aprender de esta experiencia. Cada vez que se destruye un ecosistema natural en nombre del progreso, estamos sacrificando beneficios vitales para nuestra salud y el medio ambiente. Es crucial que, como sociedad, valoremos y preservemos lo que queda de nuestra biodiversidad, desde los pequeños jardines hasta los grandes ecosistemas.\n\n**REF. CULTURA:** \"La naturaleza no es un lugar para visitar. Es hogar.\" - Gary Snyder."
     },
     {
-        "titulo": "A medida que envejece, una nueva industria está tomando forma en China: el alquiler de \"hijos subcontratados\"",
-        "link": "https://www.xataka.com/magnet/a-medida-que-envejece-nueva-industria-esta-tomando-forma-china-alquiler-hijos-subcontratados",
+        "titulo": "HUAWEI WATCH GT 7 Series llega con un montón de novedades, 70 euros de descuento y auriculares de regalo",
+        "link": "https://www.xataka.com/seleccion/huawei-watch-gt-7-series-llega-monton-novedades-70-euros-descuento-auriculares-regalo",
         "medio": "Xataka",
         "idioma": "es",
-        "fecha": "02/09/2026",
+        "fecha": "03/09/2026",
         "score": 40.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: En un mundo donde la población envejece y las familias se fragmentan, surge una solución poco convencional en China: alquilar \"hijos\" para brindar compañía a los ancianos. Este fenómeno refleja la transformación de las relaciones familiares y el trabajo en la sociedad contemporánea.\n\nHOOK: \"¿Te imaginas alquilar compañía para tus padres? Esto ya está pasando en China.\"\n\nEL DATO: En China, el creciente número de ancianos que viven solos ha dado lugar a la aparición de 'hijos subcontratados', jóvenes que ofrecen compañía y apoyo a cambio de una tarifa. Este nuevo modelo de trabajo plantea un debate sobre la calidad de atención y el valor de las relaciones humanas.\n\nBAJADA SANTULA: En un contexto donde muchas familias no pueden estar presentes para cuidar de sus mayores, esta tendencia nos invita a reflexionar sobre cómo nos relacionamos con nuestros seres queridos. ¿Es suficiente el dinero para llenar el vacío emocional que deja la distancia?\n\nREF. CULTURA: \"A veces, la soledad puede ser más pesada que el trabajo físico\", una frase que podría resumir la esencia de este fenómeno y la búsqueda de conexión humana en un mundo cada vez más individualista."
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** En un mundo donde la tecnología avanza a pasos agigantados, elegir el dispositivo adecuado puede ser abrumador. El nuevo HUAWEI WATCH GT 7 Series no solo ofrece funcionalidad avanzada, sino que también se presenta con una promoción que puede hacer que la decisión de compra sea más accesible para todos. \n\n**HOOK:** \"¡Un reloj inteligente que no solo te da la hora, sino que también cuida de tu salud y tu bolsillo!\"\n\n**EL DATO:** La nueva serie HUAWEI WATCH GT 7 incluye dos modelos, uno perfecto para el uso diario y otro Pro para quienes buscan funcionalidades avanzadas. Además, tienen una promoción de lanzamiento que ofrece 70 euros de descuento y auriculares de regalo, haciendo que la tecnología de calidad sea más accesible.\n\n**BAJADA SANTULA:** Si estás pensando en mejorar tu estilo de vida o simplemente quieres un compañero que te ayude a monitorear tu salud, este reloj puede ser la opción ideal. Con la oferta actual, no solo obtienes un dispositivo innovador, sino que también ahorras dinero y recibes un extra. Es el momento perfecto para dar el salto a la tecnología portátil.\n\n**REF. CULTURA:** \"El tiempo es oro\" - Una frase que resuena con la importancia de aprovechar cada momento, y qué mejor manera de hacerlo que con un reloj que te ayude a gestionar tu tiempo y salud."
     },
     {
-        "titulo": "Cómo compensar la falta de sueño y cuánto tiempo puede llevar recuperar las horas perdidas",
-        "link": "https://www.infobae.com/salud/2026/09/02/como-compensar-la-falta-de-sueno-y-cuanto-tiempo-puede-llevar-recuperar-las-horas-perdidas/",
+        "titulo": "El ajo y sus secretos: cómo cambian sus beneficios según la forma de prepararlo",
+        "link": "https://www.infobae.com/salud/2026/09/03/el-ajo-y-sus-secretos-como-cambian-sus-beneficios-segun-la-forma-de-prepararlo/",
         "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "02/09/2026",
+        "fecha": "03/09/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La falta de sueño no solo afecta nuestro bienestar físico, sino también nuestra salud mental y productividad. Entender cómo compensar estas horas perdidas es esencial para mejorar nuestra calidad de vida hoy.\n\nHOOK: ¿Sabías que recuperar el sueño perdido no es tan fácil como parece?\n\nEL DATO: Cuando acumulamos noches de descanso insuficiente, nuestro cuerpo sufre cambios en la química cerebral que afectan nuestra memoria, concentración y estado de ánimo. Expertos sugieren que puede tomar hasta una semana recuperar el sueño perdido.\n\nBAJADA SANTULA: Si has pasado noches en vela, no desesperes. Establecer una rutina de sueño, evitar pantallas antes de dormir y practicar la relajación puede ayudarte a restablecer tu ritmo interno y mejorar tu bienestar diario.\n\nREF. CULTURA: \"Dormir es para los débiles\" - un mantra que muchas veces escuchamos, pero que está lejos de la realidad; la ciencia respalda que el sueño es vital para un rendimiento óptimo."
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: El ajo es un ingrediente común en nuestras cocinas, pero ¿sabías que la forma en que lo prepares puede alterar drásticamente sus beneficios para la salud? Conocer esto puede ayudarte a maximizar su potencial y mejorar tu bienestar.\n\nHOOK: \"El ajo puede ser un superhéroe de la salud... ¡si lo usas correctamente!\"\n\nEL DATO: El ajo contiene casi 200 sustancias bioactivas que aportan beneficios a la salud. Sin embargo, cocinarlo puede desactivar muchos de esos compuestos, reduciendo su eficacia. Consumirlo crudo o ligeramente triturado permite que esos nutrientes se liberen y actúen en nuestro organismo.\n\nBAJADA SANTULA: Para aprovechar al máximo el ajo, prueba añadirlo crudo a tus ensaladas o como condimento en platos ya cocidos. Así, no solo mejorarás el sabor de tus comidas, sino que también potenciarás su valor nutricional.\n\nREF. CULTURA: \"El ajo es un remedio tan antiguo como la medicina misma\", frase que nos recuerda la sabiduría popular sobre sus propiedades curativas."
     },
     {
-        "titulo": "Se prevé que los casos de diabetes tipo 1 aumenten un 30% en todo el mundo para 2049",
-        "link": "https://www.infobae.com/salud/2026/09/02/se-preve-que-los-casos-de-diabetes-tipo-1-aumenten-un-30-en-todo-el-mundo-para-2049/",
+        "titulo": "Los beneficios del yogur para el colesterol y la salud cardiovascular, según una experta de Harvard",
+        "link": "https://www.infobae.com/salud/2026/09/03/los-beneficios-del-yogur-para-el-colesterol-y-la-salud-cardiovascular-segun-una-experta-de-harvard/",
         "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "02/09/2026",
+        "fecha": "03/09/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La diabetes tipo 1 es una enfermedad que afecta no solo a quienes la padecen, sino también a sus familias y comunidades. Comprender su aumento proyectado es crucial para preparar recursos y apoyo en el futuro.\n\n**HOOK:** ¡La diabetes tipo 1 podría aumentar un 30% en las próximas décadas!\n\n**EL DATO:** Según proyecciones recientes, se espera que los casos de diabetes tipo 1 en todo el mundo aumenten un 30% para el año 2049, lo que implica que más personas enfrentarán esta condición crónica que requiere atención constante.\n\n**BAJADA SANTULA:** Este aumento no solo afecta a los pacientes, sino también a los sistemas de salud y a la economía. Es vital que se implementen medidas preventivas y educativas hoy para preparar a la sociedad ante este desafío.\n\n**REF. CULTURA:** \"El paciente es el verdadero experto en su enfermedad.\" - N/A"
+        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La salud cardiovascular es una preocupación creciente en nuestra vida diaria. Comprender cómo ciertos alimentos, como el yogur, pueden impactar positivamente nuestros niveles de colesterol es esencial para tomar decisiones informadas sobre nuestra dieta.\n\nHOOK: \"¿Sabías que el yogur puede ser tu aliado contra el colesterol?\"\n\nEL DATO: Según la investigadora Kerry L. Ivey de Harvard, el yogur no solo es importante por su contenido de grasa, sino por su conjunto de nutrientes que pueden mejorar la salud cardiovascular y ayudar a mantener niveles saludables de colesterol.\n\nBAJADA SANTULA: Incorporar yogur en tu dieta diaria puede ser una forma deliciosa de cuidar tu corazón. Piensa en un desayuno equilibrado, un snack saludable o incluso un postre, todo mientras beneficias tu salud.\n\nREF. CULTURA: N/A"
     },
     {
-        "titulo": "Estafa de la foto efímera de WhatsApp: qué es y cómo evitar que te extorsionen con ella",
-        "link": "https://www.xataka.com/basics/estafa-foto-efimera-whatsapp",
+        "titulo": "DJI lanza la serie ROMO 2: tecnología de drones, IA avanzada y un brazo robótico extensible para el hogar",
+        "link": "https://www.xataka.com/seleccion/dji-lanza-serie-romo-2-tecnologia-drones-ia-avanzada-brazo-robotico-extensible-para-hogar",
         "medio": "Xataka",
         "idioma": "es",
-        "fecha": "02/09/2026",
+        "fecha": "03/09/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: Hoy en día, la comunicación digital está llena de riesgos, y una de las amenazas más recientes es esta estafa de fotos efímeras en WhatsApp. Entender cómo funciona puede ser la clave para proteger nuestra privacidad y evitar caer en trampas que afectan no solo nuestra economía, sino también nuestra reputación.\n\nHOOK: ¡Cuidado! Una foto efímera podría costarte más de lo que imaginas.\n\nEL DATO: La nueva estafa en WhatsApp consiste en recibir un mensaje de un número desconocido que contiene una foto efímera. Al abrirla, te enfrentas a contenido íntimo o comprometedor que no te pertenece. Esto es solo un cebo para extorsionarte. Si el estafador ve que has abierto la imagen, comienza la presión para que pagues y no compartan este contenido.\n\nBAJADA SANTULA: En la vida cotidiana, es fundamental ser escéptico sobre los mensajes que recibimos de números que no conocemos. Si te enfrentas a una situación similar, lo mejor es no abrir la foto y bloquear al remitente. Además, si sientes que podrías ser víctima de extorsión, reporta el incidente a las autoridades.\n\nREF. CULTURA: N/A"
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La tecnología avanza rápidamente hacia la automatización del hogar, y entender cómo estos dispositivos pueden mejorar nuestra vida diaria es crucial. La serie ROMO 2 de DJI no solo representa un avance en la limpieza doméstica, sino que también refleja una tendencia más amplia hacia la integración de la inteligencia artificial en nuestras rutinas.\n\n**HOOK:** ¡Imagina un robot que se adapta a tu hogar y limpia sin que levantes un dedo!\n\n**EL DATO:** La nueva serie ROMO 2 de DJI utiliza inteligencia artificial para reconocer y diferenciar entre suciedad seca y líquidos. Esto significa que puede ajustar su potencia de succión según el tipo de superficie, ¡todo mientras evita obstáculos tan pequeños como 2 mm!\n\n**BAJADA SANTULA:** Con los ROMO 2, la limpieza del hogar se vuelve más eficiente y menos frustrante. Ya no tendrás que preocuparte por los derrames o la suciedad en alfombras; este robot se adapta en tiempo real, permitiéndote disfrutar de más tiempo libre para lo que realmente importa.\n\n**REF. CULTURA:** \"La tecnología es solo una herramienta. En términos de hacer que las cosas funcionen, la gente es la que realmente marca la diferencia.\" - Tom Clancy."
     },
     {
-        "titulo": "Tras años sin rival, Ryanair ya tiene uno a su altura en España. Se llama Wizz Air y su secreto está en un avión muy concreto",
-        "link": "https://www.xataka.com/movilidad/anos-rival-ryanair-tiene-uno-a-su-altura-espana-se-llama-wizz-air-su-secreto-esta-avion-muy-concreto",
+        "titulo": "Volkswagen ha encontrado una solución en su drástico plan de recortes, según la prensa alemana: cerrar Seat antes de 2030",
+        "link": "https://www.xataka.com/movilidad/volkswagen-ha-encontrado-solucion-su-drastico-plan-recortes-prensa-alemana-cerrar-seat-antes-2030",
         "medio": "Xataka",
         "idioma": "es",
-        "fecha": "02/09/2026",
+        "fecha": "03/09/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La llegada de Wizz Air al mercado español representa una nueva era en las aerolíneas de bajo coste, lo que podría beneficiar a los viajeros con más opciones y precios competitivos. En un momento donde la movilidad es esencial, entender esta competencia puede influir en nuestras decisiones de viaje.\n\nHOOK: \"¿Está Ryanair a punto de perder su corona en España?\"\n\nEL DATO: Ryanair ha dominado el mercado de vuelos de bajo coste en España, pero Wizz Air está aumentando su presencia de forma agresiva, planeando crecer un 39% para 2026 y expandirse a 21 aeropuertos con 200 rutas.\n\nBAJADA SANTULA: Esta competencia no solo significa más opciones para los viajeros, sino también la posibilidad de conseguir tarifas más económicas. Si bien Ryanair ha sido el rey del low cost, Wizz Air está aquí para ofrecer alternativas que podrían cambiar nuestra forma de viajar.\n\nREF. CULTURA: \"El juego del calamar\" - Así como los competidores emergentes en la serie luchan por sobrevivir, Wizz Air está desafiando a un gigante en el sector aéreo."
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La decisión de cerrar Seat antes de 2030 no solo afecta a una marca, sino a miles de trabajadores y sus familias. Esta situación es un reflejo de los cambios en la industria automotriz y la necesidad de adaptación ante un futuro incierto. ¿Cómo impacta esto en la economía local y en la cultura del automovilismo en España?\n\n**HOOK:** \"¿El fin de Seat? Una marca icónica podría desaparecer en menos de 10 años.\"\n\n**EL DATO:** Según el medio alemán WirtschaftsWoche, Volkswagen planea cerrar Seat antes de 2029 para redirigir sus recursos hacia Cupra, dejando en el aire miles de empleos y el legado de una marca que ha sido parte de la identidad española.\n\n**BAJADA SANTULA:** Para muchos, Seat representa más que un simple coche; es un símbolo de orgullo nacional y de una era en la industria automotriz. Con esta posible desaparición, se abre un debate sobre el futuro del empleo en el sector, la innovación y cómo las marcas deben adaptarse a un mundo que exige sostenibilidad.\n\n**REF. CULTURA:** \"La historia de la tortuga y la liebre\": la tortuga, que avanza con paciencia y adaptación, puede que sea el modelo a seguir en un mercado en constante cambio, donde la velocidad de la innovación no siempre garantiza el éxito."
     },
     {
-        "titulo": "Reino Unido quiso cobrar más impuestos a los ricos. Ha acabado quedándose sin buena parte de ellos",
-        "link": "https://www.xataka.com/empresas-y-economia/reino-unido-quiso-cobrar-impuestos-a-ricos-ha-acabado-quedandose-buena-parte-ellos",
+        "titulo": "¡Últimas horas para participar en el sorteo de un Sandisk Extreme Fit USB-C de 1 TB! Solo para miembros de Xataka Xtra",
+        "link": "https://www.xataka.com/xataka-xtra/ultimas-horas-para-participar-sorteo-sandisk-extreme-fit-usb-c-1-tb-solo-para-miembros-xataka-xtra",
         "medio": "Xataka",
         "idioma": "es",
-        "fecha": "02/09/2026",
+        "fecha": "03/09/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La creciente brecha de riqueza entre los más ricos y el resto de la población es un tema candente. En un contexto donde muchos gobiernos buscan aumentar impuestos a los millonarios, el éxodo de estos hacia lugares con menores cargas fiscales plantea interrogantes sobre la efectividad de estas políticas y cómo afectan a las economías locales.\n\nHOOK: \"¿Sabías que los ricos están huyendo de los impuestos? ¡Esto podría cambiar tu economía!\"\n\nEL DATO: En el Reino Unido, a pesar de la intención de aumentar impuestos a los más ricos, muchos han decidido marcharse en busca de mejores condiciones fiscales. Esto ha generado una concentración de riqueza sin precedentes en manos de una pequeña élite, mientras que los salarios de la mayoría se estancan.\n\nBAJADA SANTULA: Esta situación nos afecta a todos: menos impuestos para los ricos podrían significar menos recursos para servicios públicos, educación y salud. Es un recordatorio de que las decisiones fiscales tienen un impacto directo en nuestra calidad de vida, y que la desigualdad económica puede seguir creciendo si no se toman medidas efectivas.\n\nREF. CULTURA: \"El Gran Gatsby\" de F. Scott Fitzgerald, que ilustra la disparidad entre los que tienen y los que no, y cómo la búsqueda de riqueza puede llevar a la desilusión."
+        "ficha": "ÁNGULO EDITORIAL: La tecnología avanza a pasos agigantados y participar en sorteos de productos innovadores puede ser una oportunidad única para estar a la vanguardia. ¿Por qué no aprovechar una oferta exclusiva para miembros que podría facilitar tu vida digital?\n\nHOOK: ¡Última llamada para ganar un USB-C de 1TB!\n\nEL DATO: El Sandisk Extreme Fit USB-C de 1TB, valorado en 249,99 euros, es actualmente uno de los dispositivos más compactos y potentes para almacenar datos. Su tamaño pequeño no sacrifica su capacidad, lo que lo convierte en una herramienta ideal para quienes necesitan movilidad y eficiencia.\n\nBAJADA SANTULA: Si eres un amante de la tecnología, participar en sorteos como este no solo te da la oportunidad de obtener un producto de alta calidad, sino que también te conecta con una comunidad que comparte tus intereses. Además, es una manera de acceder a descuentos y beneficios exclusivos que pueden enriquecer tu experiencia digital.\n\nREF. CULTURA: \"La tecnología es solo una herramienta. En términos de hacer que la gente trabaje junta y se motive, la clave es la comunicación.\" - Steve Jobs."
+    },
+    {
+        "titulo": "Smart Toilets Are Already Using AI to Analyze Your Poop",
+        "link": "https://www.wired.com/story/smart-toilets-using-ai-to-analyze-your-poop/",
+        "medio": "Wired Science",
+        "idioma": "en",
+        "fecha": "03/09/2026",
+        "score": 20.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** En un mundo donde la salud intestinal es clave para el bienestar general, la tecnología de los inodoros inteligentes promete revolucionar nuestro cuidado personal. Sin embargo, ¿realmente vale la pena? \n\n**HOOK:** ¡Tu inodoro podría saber más sobre tu salud que tú mismo!\n\n**EL DATO:** Los inodoros inteligentes, que utilizan inteligencia artificial para analizar tus heces, prometen ayudar a monitorear tu salud intestinal. Sin embargo, los expertos advierten que las ventajas son mínimas para la mayoría de las personas.\n\n**BAJADA SANTULA:** Aunque la idea de que un inodoro pueda detectar problemas de salud suena atractiva, es importante recordar que estas tecnologías aún están en sus primeras etapas y pueden no ofrecer información útil o accesible para todos. La mejor inversión en salud intestinal sigue siendo una dieta equilibrada y chequeos médicos regulares.\n\n**REF. CULTURA:** N/A"
+    },
+    {
+        "titulo": "The Download: rethinking child safety and fossil-fueled farming",
+        "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+        "medio": "MIT Tech Review",
+        "idioma": "en",
+        "fecha": "03/09/2026",
+        "score": 20.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La seguridad infantil en la era digital es una preocupación creciente para los padres. Con el aumento de los riesgos en línea, es crucial entender cómo las aplicaciones de monitoreo pueden ser efectivas, pero también limitadas en su enfoque.\n\nHOOK: \"¿Estamos protegiendo a nuestros hijos o invadiendo su privacidad?\"\n\nEL DATO: Un reciente estudio revela que los padres en EE.UU. están recurriendo cada vez más a aplicaciones que monitorean las actividades digitales de sus hijos, pero estas herramientas pueden no ser la solución definitiva para garantizar su seguridad en línea.\n\nBAJADA SANTULA: Es importante que los padres encuentren un equilibrio entre proteger a sus hijos y respetar su privacidad. La comunicación abierta sobre los riesgos digitales y la educación sobre el uso responsable de la tecnología son claves para una crianza segura en esta era digital.\n\nREF. CULTURA: \"1984\" de George Orwell, donde se explora la vigilancia y el control, nos invita a reflexionar sobre el límite entre la protección y la invasión."
     }
 ]
