@@ -1,92 +1,102 @@
 [
     {
-        "titulo": "¿Se puede optimizar la fertilidad? Qué dice la ciencia sobre hábitos, suplementos y mitos en redes",
-        "link": "https://www.infobae.com/salud/2026/09/20/se-puede-optimizar-la-fertilidad-que-dice-la-ciencia-sobre-habitos-suplementos-y-mitos-en-redes/",
-        "medio": "Infobae Salud",
-        "idioma": "es",
-        "fecha": "20/09/2026",
-        "score": 60.0,
-        "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La fertilidad no es solo cuestión de suerte; es el resultado de hábitos y decisiones diarias. Conocer cómo optimizar nuestra salud reproductiva puede hacer la diferencia en el camino hacia la maternidad o paternidad.\n\n**HOOK:** \"¿Sabías que lo que comes puede influir en tu capacidad para ser padre o madre?\"\n\n**EL DATO:** La ciencia ha demostrado que factores como la alimentación, el estilo de vida y el contexto metabólico tienen un impacto significativo en la calidad de los gametos. Por ejemplo, una dieta rica en antioxidantes y nutrientes esenciales puede mejorar la salud reproductiva.\n\n**BAJADA SANTULA:** Antes de buscar un embarazo, considera hacer ajustes en tu dieta y estilo de vida. Incorporar alimentos saludables y evitar hábitos nocivos puede ser un primer paso hacia la optimización de tu fertilidad. Recuerda que cada pequeño cambio cuenta.\n\n**REF. CULTURA:** \"La vida es una serie de decisiones\", dijo el filósofo griego Heráclito. Elegir bien hoy puede abrir nuevas puertas para el futuro."
-    },
-    {
-        "titulo": "Ucrania lleva cuatro años cazando rusos con drones. Ahora ha convertido el desierto de África en un nuevo frente de la guerra",
-        "link": "https://www.xataka.com/magnet/ucrania-lleva-cuatro-anos-cazando-rusos-drones-ahora-ha-convertido-desierto-africa-nuevo-frente-guerra",
+        "titulo": "En China, la IA está causando una revolución en el mercado de trabajo: siete millones de \"empresas de una sola persona\"",
+        "link": "https://www.xataka.com/robotica-e-ia/presion-laboral-era-abrumadora-ahora-estoy-mejor-ia-esta-ayudando-a-jovenes-chinos-a-emprender-solos",
         "medio": "Xataka",
         "idioma": "es",
-        "fecha": "20/09/2026",
+        "fecha": "21/09/2026",
+        "score": 80.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La revolución impulsada por la inteligencia artificial en China está transformando el panorama laboral, ofreciendo a jóvenes emprendedores la posibilidad de crear empresas individuales en un contexto de dificultad laboral. Este fenómeno no solo refleja un cambio en la forma de trabajar, sino también una nueva mentalidad ante el empleo.\n\n**HOOK:** \"¡Siete millones de empresas individuales en China! ¿La razón? La inteligencia artificial.\"\n\n**EL DATO:** En 2025, China registró más de siete millones de empresas de una sola persona, un aumento del 42% en comparación con el año anterior. Aunque no todas utilizan IA, muchas de ellas están aprovechando herramientas que permiten realizar tareas complejas de manera independiente, desde programación hasta atención al cliente.\n\n**BAJADA SANTULA:** Para muchos jóvenes, comenzar su propio negocio se ha convertido en una salida ante la escasez de empleo y el agobio de la cultura laboral tradicional. La IA no solo facilita este proceso, sino que democratiza el acceso a habilidades antes exclusivas de equipos completos, permitiendo que cualquier persona pueda convertirse en su propio jefe.\n\n**REF. CULTURA:** N/A"
+    },
+    {
+        "titulo": "La salud de los huesos después de los 30 años: ejercicio, nutrición y otros factores que pueden protegerlos",
+        "link": "https://www.infobae.com/salud/2026/09/21/la-salud-de-los-huesos-despues-de-los-30-anos-ejercicio-nutricion-y-otros-factores-que-pueden-protegerlos/",
+        "medio": "Infobae Salud",
+        "idioma": "es",
+        "fecha": "21/09/2026",
         "score": 40.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** En un mundo interconectado, la guerra se extiende más allá de las fronteras, y el conflicto en Ucrania ha encontrado nuevas formas de influir en otras regiones. Esto nos recuerda que las decisiones geopolíticas tienen un impacto global, afectando nuestra seguridad y economía local.\n\n**HOOK:** \"Los drones de Ucrania ahora están volando en el desierto africano. ¿Por qué debería importarte?\"\n\n**EL DATO:** Ucrania ha utilizado drones para localizar y atacar fuerzas rusas durante cuatro años. Ahora, con especialistas desplegados en África, están entrenando a rebeldes en Mali para combatir a las fuerzas malienses y rusas. Esto muestra cómo las tácticas de guerra modernas están evolucionando y expandiéndose a nuevos frentes.\n\n**BAJADA SANTULA:** Esta situación nos recuerda que, aunque estemos lejos de los conflictos, lo que sucede en una parte del mundo puede tener repercusiones en nuestra vida diaria, desde la economía hasta la seguridad nacional. La guerra moderna no se limita a un solo lugar; su impacto puede llegar a nuestras puertas.\n\n**REF. CULTURA:** \"El arte de la guerra\" de Sun Tzu, que nos enseña que la estrategia es clave en cualquier conflicto, independientemente de dónde se libra."
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La salud ósea es fundamental para nuestra calidad de vida a medida que envejecemos. Conocer cómo proteger nuestros huesos después de los 30 es crucial para prevenir problemas futuros, permitiéndonos mantener nuestra movilidad y bienestar general.\n\n**HOOK:** \"¿Sabías que tus huesos empiezan a debilitarse después de los 30? ¡Descubre cómo combatirlo!\"\n\n**EL DATO:** A partir de los 30 años, la masa ósea comienza a disminuir, y factores como la menopausia, enfermedades y hábitos poco saludables pueden acelerar este proceso. Mantenerse activo y llevar una dieta rica en calcio y vitamina D son esenciales para fortalecer los huesos.\n\n**BAJADA SANTULA:** Integrar ejercicios de fuerza y una alimentación balanceada en nuestra rutina diaria puede marcar una gran diferencia. No se trata solo de evitar fracturas en el futuro, sino de disfrutar de una vida activa y plena ahora.\n\n**REF. CULTURA:** \"El viejo y el mar\" de Ernest Hemingway, donde se refleja la lucha constante por la supervivencia y el cuidado de uno mismo, resonando con la importancia de cuidar lo que tenemos, en este caso, nuestros huesos."
     },
     {
-        "titulo": "9 colaciones saludables para fortalecer la flora bacteriana y prevenir la inflamación",
-        "link": "https://www.infobae.com/salud/2026/09/19/9-colaciones-saludables-para-fortalecer-la-flora-bacteriana-y-prevenir-la-inflamacion/",
+        "titulo": "La cúrcuma se asocia con posibles beneficios para la salud intestinal, según una nutricionista",
+        "link": "https://www.infobae.com/salud/2026/09/21/la-curcuma-se-asocia-con-posibles-beneficios-para-la-salud-intestinal-segun-una-nutricionista/",
         "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "20/09/2026",
-        "score": 20.0,
+        "fecha": "21/09/2026",
+        "score": 40.0,
         "provider": "openai",
-        "ficha": "ÁNGULO EDITORIAL: La salud intestinal es fundamental para el bienestar general y puede influir en nuestra energía, estado de ánimo y sistema inmunológico. Con un estilo de vida ajetreado, es crucial conocer opciones de colaciones que no solo sean sabrosas, sino que también beneficien nuestra salud a largo plazo.\n\nHOOK: \"¿Sabías que lo que comes entre comidas puede mejorar tu salud intestinal?\"\n\nEL DATO: Un informe reciente de Vogue destaca 9 colaciones saludables que combinan proteínas y fibras solubles. Estos alimentos enteros ayudan a fortalecer la flora bacteriana del intestino y a prevenir la inflamación, lo que es clave para una buena digestión y bienestar general.\n\nBAJADA SANTULA: Incluir colaciones como yogur con frutas, nueces o palitos de zanahoria con hummus en tu día a día no solo satisface el hambre, sino que también protege tu colon. Hacer pequeños cambios en tus hábitos alimenticios puede tener un gran impacto en tu salud.\n\nREF. CULTURA: \"La salud es riqueza\" - Mahatma Gandhi. Esto resuena con la idea de que cuidar nuestro cuerpo a través de la alimentación es una inversión en nuestro futuro bienestar."
+        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La cúrcuma, un ingrediente común en nuestras cocinas, puede ser un aliado inesperado para la salud intestinal. Comprender su impacto nos permite tomar decisiones más informadas sobre nuestra alimentación y bienestar.\n\nHOOK: \"¿Sabías que la cúrcuma podría ser la clave para mejorar tu salud intestinal?\"\n\nEL DATO: La curcumina, el compuesto activo de la cúrcuma, puede ayudar a reducir la inflamación en el intestino, fomentar el crecimiento de bacterias beneficiosas y estimular la producción de bilis. Esto puede contribuir a una mejor digestión, pero no reemplaza tratamientos médicos ni hábitos alimentarios saludables.\n\nBAJADA SANTULA: Incorporar cúrcuma en tu dieta cotidiana puede ser un pequeño paso hacia una mejor salud intestinal, ya sea en un batido, en un curry o simplemente espolvoreada sobre tus comidas. Sin embargo, siempre es importante recordar que la alimentación balanceada y la consulta médica son fundamentales.\n\nREF. CULTURA: \"La cocina es el corazón del hogar\" - Proverbio popular. Esto nos recuerda que lo que elegimos cocinar y consumir puede tener un impacto significativo en nuestra salud."
     },
     {
-        "titulo": "Qué comer de postre antes de dormir para conciliar el sueño y prevenir los despertares por hambre",
-        "link": "https://www.infobae.com/salud/2026/09/19/que-comer-de-postre-antes-de-dormir-para-conciliar-el-sueno-y-prevenir-los-despertares-por-hambre/",
+        "titulo": "¿Un reloj inteligente puede detectar señales de ansiedad? Qué dice la ciencia",
+        "link": "https://www.infobae.com/salud/2026/09/21/un-reloj-inteligente-puede-detectar-senales-de-ansiedad-que-dice-la-ciencia/",
         "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "20/09/2026",
-        "score": 20.0,
+        "fecha": "21/09/2026",
+        "score": 40.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La alimentación antes de dormir puede influir significativamente en la calidad del sueño. Conocer qué postres elegir puede ayudarte a descansar mejor y a evitar esos molestos despertares nocturnos.\n\nHOOK: \"¿Sabías que tu postre favorito puede mejorar tu sueño?\"\n\nEL DATO: Un estudio revela que combinar carbohidratos complejos con proteínas de digestión lenta no solo estabiliza la glucosa en sangre, sino que también estimula la producción natural de melatonina, la hormona que regula el sueño.\n\nBAJADA SANTULA: Si alguna vez te has despertado por hambre en medio de la noche, considera un postre que incluya, por ejemplo, yogur con avena. No solo saciarás tu antojo, sino que también ayudarás a tu cuerpo a prepararse para un sueño reparador.\n\nREF. CULTURA: \"Dormir es el nuevo sexy\", una frase que nos recuerda que cuidar nuestro descanso es tan importante como cualquier otro aspecto de nuestra vida."
+        "ficha": "ÁNGULO EDITORIAL: En un mundo donde la salud mental es cada vez más prioritaria, entender cómo la tecnología wearable puede ayudarnos a identificar señales de ansiedad es crucial para quienes buscan mejorar su bienestar emocional.\n\nHOOK: \"¿Tu reloj inteligente puede ser tu mejor aliado contra la ansiedad?\"\n\nEL DATO: Un estudio reciente ha demostrado que los relojes inteligentes pueden captar cambios en nuestros hábitos, como el sueño y la frecuencia cardíaca, que podrían anticipar episodios de ansiedad. Sin embargo, la tecnología tiene sus límites y no puede sustituir a una evaluación profesional.\n\nBAJADA SANTULA: Si bien estos dispositivos pueden ofrecer alertas tempranas sobre nuestra salud mental, es esencial no depender únicamente de ellos. La detección temprana es importante, pero consultar con un especialista sigue siendo fundamental para abordar la ansiedad de manera efectiva.\n\nREF. CULTURA: \"La mente es como un paracaídas: solo funciona si la tienes abierta.\" – Frank Zappa."
     },
     {
-        "titulo": "Los beneficios nutricionales de las semillas de calabaza y la cantidad que recomiendan los especialistas",
-        "link": "https://www.infobae.com/salud/2026/09/19/los-beneficios-nutricionales-de-las-semillas-de-calabaza-y-la-cantidad-que-recomiendan-los-especialistas/",
-        "medio": "Infobae Salud",
-        "idioma": "es",
-        "fecha": "20/09/2026",
-        "score": 20.0,
-        "provider": "openai",
-        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: Las semillas de calabaza son un superalimento que puede mejorar nuestra salud cardiovascular. Conocer sus beneficios y las dosis recomendadas es clave para integrar este alimento a nuestra dieta diaria y cuidar de nuestro bienestar.\n\nHOOK: \"¿Sabías que unas simples semillas pueden transformar tu salud?\"\n\nEL DATO: Las semillas de calabaza son ricas en magnesio, fitoesteroles y grasas saludables. Estos nutrientes ayudan a regular el colesterol y la presión arterial, siempre que se consuman en la cantidad adecuada.\n\nBAJADA SANTULA: Incorporar semillas de calabaza en tu alimentación es fácil: agrégalas a tus ensaladas, yogures o batidos. Un puñado al día puede marcar la diferencia en tu salud, ayudándote a mantener tu corazón en forma.\n\nREF. CULTURA: \"La salud es la verdadera riqueza\" - Mahatma Gandhi."
-    },
-    {
-        "titulo": "Estrés cotidiano: seis recursos breves para hacer una pausa y recuperar el foco",
-        "link": "https://www.infobae.com/salud/2026/09/19/estres-cotidiano-seis-recursos-breves-para-hacer-una-pausa-y-recuperar-el-foco/",
-        "medio": "Infobae Salud",
-        "idioma": "es",
-        "fecha": "20/09/2026",
-        "score": 20.0,
-        "provider": "openai",
-        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: El estrés cotidiano afecta nuestra productividad y bienestar emocional. Conocer y aplicar técnicas simples para hacer pausas puede transformar nuestro día a día, ayudándonos a recuperar el enfoque y mejorar nuestra calidad de vida.\n\nHOOK: \"¿Te sientes abrumado? ¡Es hora de hacer una pausa!\"\n\nEL DATO: Estudios muestran que pequeñas pausas durante el día, como moverse, practicar ejercicios sensoriales o conectar con otros, pueden reducir significativamente el estrés y mejorar nuestra concentración. Estos recursos son accesibles y pueden ser implementados en cualquier momento.\n\nBAJADA SANTULA: Imagina que estás en medio de una jornada laboral agotadora. Tomarte solo cinco minutos para hacer estiramientos, respirar profundamente o conversar con un colega puede ser la clave para recuperar tu energía y claridad mental. No subestimes el poder de una pausa.\n\nREF. CULTURA: \"La vida es lo que sucede mientras estás ocupado haciendo otros planes.\" - John Lennon."
-    },
-    {
-        "titulo": "Hacer turismo en un país y terminar visitando sus supermercados: la extraña fascinación de explorar otras cadenas",
-        "link": "https://www.xataka.com/magnet/cada-vez-viajeros-se-obsesionan-tipo-turismo-cuando-salen-su-pais-safaris-supermercado",
+        "titulo": "Samsung Galaxy Z Flip8, análisis: ser un buen móvil plegable ya empieza a dejar de ser suficiente",
+        "link": "https://www.xataka.com/analisis/samsung-galaxy-z-flip8-analisis-caracteristicas-precio-especificaciones",
         "medio": "Xataka",
         "idioma": "es",
-        "fecha": "20/09/2026",
-        "score": 20.0,
+        "fecha": "21/09/2026",
+        "score": 40.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** A medida que el turismo evoluciona, los viajeros buscan experiencias auténticas que conecten con la cultura local. Visitar supermercados se ha convertido en una forma de entender la vida cotidiana de un país, lo que puede parecer trivial, pero refleja un interés profundo por conocer el lugar más allá de los destinos turísticos tradicionales.\n\n**HOOK:** \"¿Sabías que explorar supermercados puede ser la nueva forma de turismo?\"\n\n**EL DATO:** En Japón, los turistas no solo buscan el Monte Fuji, sino que también se sienten atraídos por capturar su imagen junto a tiendas locales como Lawson. Este fenómeno, conocido como \"turismo de supermercados\", está en auge y representa una manera de sumergirse en la cultura local a través de productos cotidianos.\n\n**BAJADA SANTULA:** La próxima vez que viajes, considera incluir una visita a un supermercado local en tu itinerario. No solo podrás probar productos únicos, sino que también te permitirás vivir la experiencia cotidiana de los residentes. A veces, las mejores historias de un lugar se encuentran en sus pasillos.\n\n**REF. CULTURA:** \"El Viaje de Chihiro\" de Hayao Miyazaki, donde se explora la cultura y la cotidianidad japonesa a través de un viaje fantástico."
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** En un mundo donde la innovación constante es la norma, la repetición de características en productos tecnológicos puede generar decepción. Hoy, exploramos por qué la familiaridad en el Samsung Galaxy Z Flip8 no es suficiente para destacar en un mercado cada vez más competitivo.\n\n**HOOK:** \"¿El nuevo Galaxy Z Flip8 es solo un clon del 7? ¡Te contamos por qué esto podría ser un problema!\"\n\n**EL DATO:** El Samsung Galaxy Z Flip8 es, en esencia, una versión muy similar al Z Flip7. Las mejoras son mínimas y se centran en detalles que no impactan significativamente la experiencia del usuario. Esto plantea la pregunta: ¿es suficiente ser un buen móvil plegable en un mercado que demanda más?\n\n**BAJADA SANTULA:** Para el consumidor promedio, esto significa que, si ya tienes un Galaxy Z Flip7, tal vez no valga la pena actualizarte. La familiaridad puede ser cómoda, pero en tecnología, la falta de innovación puede hacer que te quedes atrás. Evaluar si realmente necesitas el último modelo es esencial para tomar decisiones de compra más inteligentes.\n\n**REF. CULTURA:** \"La Matrix\" - a veces, seguir en la misma realidad puede parecer cómodo, pero ¿no deberíamos aspirar a algo más innovador?"
     },
     {
-        "titulo": "Google ya permite a cualquier agente de IA que controle tu casa: así funciona Home MCP",
-        "link": "https://www.xataka.com/robotica-e-ia/google-permite-a-cualquier-agente-ia-que-controle-tu-casa-asi-funciona-home-mcp",
-        "medio": "Xataka",
+        "titulo": "Un estudio asegura que salir de vacaciones seguido mejora la calidad de vida",
+        "link": "https://www.infobae.com/salud/2026/09/21/un-estudio-asegura-que-salir-de-vacaciones-seguido-mejora-la-calidad-de-vida/",
+        "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "20/09/2026",
+        "fecha": "21/09/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** Hoy en día, la tecnología se entrelaza cada vez más con nuestra vida diaria. La posibilidad de que agentes de IA controlen nuestros hogares plantea preguntas sobre la privacidad y la conveniencia. ¿Estamos listos para entregar el control a la inteligencia artificial?\n\n**HOOK:** \"¿Te imaginas que una IA controle cada rincón de tu hogar? ¡Ya es posible!\"\n\n**EL DATO:** Google ha lanzado una integración que permite a cualquier agente de IA, como Claude o Hermes, controlar dispositivos de tu hogar. Esto se logra a través del protocolo MCP, que conecta estos modelos de IA a tus dispositivos, facilitando su gestión.\n\n**BAJADA SANTULA:** Esto significa que, en lugar de depender solo del Asistente de Google, puedes utilizar otras inteligencias artificiales para gestionar tus dispositivos conectados. Si ya estás utilizando alguna IA para simplificar tareas, ahora puede ayudarte a mantener tu hogar más cómodo y seguro. Pero, ¿realmente queremos que una máquina tenga acceso a nuestra vida privada?\n\n**REF. CULTURA:** \"2001: Odisea en el espacio\" - La película plantea la relación entre humanos y máquinas, cuestionando hasta dónde debemos permitir que la tecnología controle nuestras vidas."
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La vida cotidiana suele ser estresante y monótona. Este estudio revela que tomarse un tiempo para viajar, incluso brevemente, puede ser la clave para mejorar nuestra calidad de vida y bienestar emocional. En un mundo donde el estrés es común, entender el impacto positivo de las vacaciones es crucial para nuestra salud mental.\n\nHOOK: \"¿Sabías que tomarte unas vacaciones puede cambiar tu vida para siempre?\"\n\nEL DATO: Un estudio de la Universidad de Sunshine Coast encontró que salir de vacaciones de manera regular genera un ciclo positivo que incrementa la felicidad y la resiliencia psicológica, mejorando nuestro bienestar general de forma duradera.\n\nBAJADA SANTULA: No se trata solo de un lujo; tomarte un tiempo para viajar, aunque sea por poco tiempo, puede ser una inversión en tu salud mental. Planificar escapadas frecuentes podría ser la estrategia que necesitas para combatir el estrés diario y elevar tu calidad de vida.\n\nREF. CULTURA: \"La vida es un viaje, no un destino.\" - Ralph Waldo Emerson."
     },
     {
-        "titulo": "Cambiar de compañía de Internet cuando tienes la casa domotizada es un jaleo. Resulta que sólo hay que 'hackear' el nuevo router",
-        "link": "https://www.xataka.com/domotica-1/cambiar-compania-internet-cuando-tienes-casa-domotizada-jaleo-resulta-que-solo-hay-que-hackear-nuevo-router",
-        "medio": "Xataka",
+        "titulo": "5 síntomas de enfermedad cardíaca que las mujeres pueden confundir con estrés, indigestión o menopausia",
+        "link": "https://www.infobae.com/salud/2026/09/21/5-sintomas-de-enfermedad-cardiaca-que-las-mujeres-pueden-confundir-con-estres-indigestion-o-menopausia/",
+        "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "20/09/2026",
+        "fecha": "21/09/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** Cambiar de proveedor de Internet puede ser un verdadero dolor de cabeza si tu hogar está lleno de dispositivos inteligentes. Este tema es relevante hoy porque muchos están invirtiendo en tecnología para hacer sus vidas más cómodas, y sentirse atrapados con un mal servicio es frustrante.\n\n**HOOK:** \"¿Te imaginas tener que reconfigurar tu casa inteligente cada vez que cambias de Internet?\"\n\n**EL DATO:** La mayoría de los dispositivos inteligentes requieren que los reinicies y los configures de nuevo si cambias la conexión Wi-Fi, un proceso que puede llevar horas y generar frustración. Esto sucede porque, aunque tienen muchas opciones de personalización, la conexión a la red no es una de ellas.\n\n**BAJADA SANTULA:** Si ya has pasado tiempo configurando tus dispositivos para que funcionen a tu manera, el último lugar donde quieres estar es atado a un proveedor que no te satisface. Antes de cambiar, investiga si puedes \"hackear\" el nuevo router o si hay opciones que te permitan hacer el cambio sin perder tus configuraciones.\n\n**REF. CULTURA:** \"La vida es como una bicicleta, para mantener el equilibrio, debes seguir adelante.\" - Albert Einstein. Esto se aplica a nuestra vida tecnológica: a veces, el cambio es necesario para avanzar, pero puede requerir un esfuerzo adicional para adaptarse."
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** A menudo, las mujeres pueden ignorar síntomas críticos de enfermedad cardíaca, atribuyéndolos a estrés, indigestión o cambios hormonales. Reconocer estas señales es fundamental para la salud y bienestar, ya que una detección temprana puede salvar vidas.\n\n**HOOK:** \"¿Sabías que algunos síntomas cardíacos en mujeres se confunden con estrés? ¡No los ignores!\"\n\n**EL DATO:** Según una especialista, síntomas como fatiga extrema, dolor en la mandíbula o dificultad para respirar pueden ser señales de un problema cardíaco, no solo de estrés o menopausia. Las mujeres tienden a presentar síntomas diferentes a los hombres, lo que hace que estos sean más difíciles de identificar.\n\n**BAJADA SANTULA:** Es vital que, si sientes algo inusual en tu cuerpo, no lo asumas como un simple malestar. Escuchar a tu cuerpo y consultar a un médico puede marcar la diferencia. La prevención es clave: un chequeo a tiempo puede salvarte.\n\n**REF. CULTURA:** \"El extraño caso del Dr. Jekyll y Mr. Hyde\" de Robert Louis Stevenson, que ilustra cómo las apariencias pueden engañar y cómo lo que parece normal puede ocultar problemas subyacentes."
+    },
+    {
+        "titulo": "Cómo mejorar el tránsito intestinal: qué dice la evidencia sobre la fibra, los fermentados y los probióticos",
+        "link": "https://www.infobae.com/salud/2026/09/21/como-mejorar-el-transito-intestinal-el-rol-de-la-fibra-y-los-mitos-sobre-los-probioticos/",
+        "medio": "Infobae Salud",
+        "idioma": "es",
+        "fecha": "21/09/2026",
+        "score": 20.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: Mejorar el tránsito intestinal es esencial para nuestra salud general. Hoy, más que nunca, entender cómo la fibra, los alimentos fermentados y los probióticos impactan nuestro bienestar puede ser la clave para sentirnos mejor a diario.\n\nHOOK: \"¿Sabías que lo que comes puede cambiar tu digestión para siempre?\"\n\nEL DATO: Estudios de los Institutos Nacionales de Salud de EE.UU. y Mayo Clinic revelan que aumentar la fibra poco a poco mejora el tránsito intestinal. Además, un metaanálisis de 16 ensayos aclara que un alimento fermentado no es lo mismo que un probiótico, aunque ambos son importantes.\n\nBAJADA SANTULA: Incorporar fibra en tu dieta de forma gradual puede hacer la diferencia en cómo te sientes. Piensa en añadir avena al desayuno o incluir más verduras en tus comidas. Recuerda, no todos los alimentos fermentados son probióticos, así que infórmate sobre lo que comes.\n\nREF. CULTURA: \"La comida es medicina\" - Hipócrates."
+    },
+    {
+        "titulo": "Los conciertos de Shakira en el concierto improvisado de Madrid están siendo un éxito. Los vecinos de la zona opinan lo contrario",
+        "link": "https://www.xataka.com/magnet/conciertos-shakira-concierto-improvisado-madrid-estan-siendo-exito-vecinos-zona-opinan-contrario",
+        "medio": "Xataka",
+        "idioma": "es",
+        "fecha": "21/09/2026",
+        "score": 20.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** En un mundo donde la música y el entretenimiento pueden generar grandes beneficios económicos, ¿qué pasa con el bienestar de los vecinos? La historia de los conciertos de Shakira en Madrid nos muestra el choque entre la alegría de los fans y las quejas de quienes viven cerca.\n\n**HOOK:** \"¿Vale la pena la música si ahoga a los vecinos?\"\n\n**EL DATO:** Madrid ha visto un impacto económico de hasta 340 millones de euros y la creación de 11.000 empleos directos gracias a eventos como los conciertos de Shakira. Sin embargo, los residentes enfrentan problemas de atascos, contaminación y ruidos que superan los límites legales.\n\n**BAJADA SANTULA:** Mientras 600.000 fanáticos se emocionan por ver a Shakira, muchos vecinos se sienten atrapados en un torbellino de ruido y molestias. Es un recordatorio de que el avance económico no siempre va de la mano con la calidad de vida de quienes viven en las cercanías.\n\n**REF. CULTURA:** \"El gran Gatsby\" de F. Scott Fitzgerald, donde el deslumbrante espectáculo de la riqueza oculta las realidades duras de quienes viven a su sombra."
+    },
+    {
+        "titulo": "Lin Tsung-chi fundó una empresa de herrajes para muebles. Entonces llegó la IA y se convirtió en el hombre más rico de Taiwán",
+        "link": "https://www.xataka.com/empresas-y-economia/como-llovieran-lingotes-oro-cielo-ia-esta-generando-millonarios-lugar-inesperado",
+        "medio": "Xataka",
+        "idioma": "es",
+        "fecha": "21/09/2026",
+        "score": 20.0,
+        "provider": "openai",
+        "ficha": "ÁNGULO EDITORIAL: En un mundo donde la inteligencia artificial está transformando industrias, la historia de Lin Tsung-chi muestra que la innovación y la adaptabilidad pueden llevar a cualquier negocio a nuevas alturas. Esto le importa a cualquiera que quiera entender cómo las pequeñas decisiones pueden tener grandes repercusiones en el éxito.\n\nHOOK: \"¿Quién diría que un cajón de cocina podría hacerte rico?\"\n\nEL DATO: Lin Tsung-chi, fundador de King Slide, una empresa de herrajes para muebles, vio cómo su negocio se transformó radicalmente gracias a la inteligencia artificial. A pesar de sus humildes inicios, su capacidad para adaptarse a las nuevas tecnologías lo llevó a convertirse en el hombre más rico de Taiwán.\n\nBAJADA SANTULA: La historia de Lin nos enseña que no hay negocio demasiado pequeño para ser impactado por la tecnología. En la vida cotidiana, esto se traduce en la importancia de estar abierto a la innovación, sin importar la industria en la que estemos. Tu emprendimiento también puede beneficiarse de la IA si estás dispuesto a aprender y adaptarte.\n\nREF. CULTURA: \"El hombre que plantó árboles\" de Jean Giono, que habla de cómo pequeñas acciones pueden llevar a grandes cambios a lo largo del tiempo."
     }
 ]
