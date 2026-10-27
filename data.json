@@ -1,92 +1,102 @@
 [
     {
-        "titulo": "Cuánto tiempo deben durar las siestas para que sean reparadoras",
-        "link": "https://www.infobae.com/salud/2026/10/26/cuanto-tiempo-deben-durar-las-siestas-para-que-sean-reparadoras/",
+        "titulo": "Qué papel cumplen los alimentos integrales en la prevención de infartos y accidentes cerebrovasculares",
+        "link": "https://www.infobae.com/salud/2026/10/27/que-papel-cumplen-los-alimentos-integrales-en-la-prevencion-de-infartos-y-accidentes-cerebrovasculares/",
         "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "26/10/2026",
+        "fecha": "27/10/2026",
         "score": 40.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: Las siestas pueden ser la clave para mejorar tu productividad y bienestar diario. Comprender su duración y cómo integrarlas en tu rutina puede marcar la diferencia entre un día agotador y uno lleno de energía.\n\nHOOK: \"¿Sabías que una siesta bien hecha puede cambiar tu día por completo?\"\n\nEL DATO: Estudios sugieren que una siesta de 20 a 30 minutos es ideal para mejorar el estado de alerta y el rendimiento, sin interferir con el sueño nocturno. Si es más larga, puedes entrar en un ciclo de sueño profundo y despertar más cansado.\n\nBAJADA SANTULA: En nuestra vida agitada, encontrar esos breves momentos de descanso puede ser crucial. Si trabajas en una oficina o estudias, programar una siesta corta puede ayudarte a ser más productivo y estar más enfocado.\n\nREF. CULTURA: \"El arte de la siesta\" de José Luis Sampedro, un libro que destaca la importancia de descansar para vivir plenamente."
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La alimentación integral no solo es una tendencia, es una herramienta clave para cuidar nuestro corazón. En un mundo donde el estrés y la comida rápida predominan, entender cómo lo que comemos afecta nuestra salud cardiovascular es crucial para tomar decisiones informadas.\n\nHOOK: \"¿Sabías que lo que comes puede salvarte la vida?\"\n\nEL DATO: Un cardiólogo revela que una dieta rica en alimentos integrales puede reducir la presión arterial, disminuir el colesterol y combatir la inflamación, factores críticos en la prevención de infartos y accidentes cerebrovasculares.\n\nBAJADA SANTULA: Incorporar más alimentos integrales en tu dieta diaria, como frutas, verduras y granos enteros, puede ser un cambio pequeño pero poderoso. Optar por estos productos en lugar de los procesados es una forma efectiva de cuidar tu corazón y verte beneficiado a largo plazo.\n\nREF. CULTURA: \"Que tu alimento sea tu medicina\" - Hipócrates."
     },
     {
-        "titulo": "Anthropic acaba de dar uno de los pasos más importantes de la industria de la IA: abrir sus cuentas para salir a bolsa",
-        "link": "https://www.xataka.com/empresas-y-economia/anthropic-acaba-dar-uno-pasos-importantes-industria-ia-abrir-sus-cuentas-para-salir-a-bolsa",
+        "titulo": "Jaca lleva tres años peleando por una UVI móvil con médico las 24 horas. Por fin ha ganado la batalla",
+        "link": "https://www.xataka.com/magnet/jaca-lleva-tres-anos-peleando-uvi-movil-medico-24-horas-fin-ha-ganado-batalla",
         "medio": "Xataka",
         "idioma": "es",
-        "fecha": "26/10/2026",
+        "fecha": "27/10/2026",
         "score": 40.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La industria de la inteligencia artificial está en constante evolución y su acceso al mercado bursátil puede cambiar las reglas del juego. ¿Por qué debería importarte? Porque el futuro de la tecnología que utilizamos a diario podría estar en manos de empresas que están dispuestas a mostrar su verdadero estado financiero. \n\n**HOOK:** \"La inteligencia artificial no solo está cambiando el mundo, ¡ahora también va a la bolsa!\"\n\n**EL DATO:** Anthropic ha presentado su solicitud para salir a bolsa, revelando que generó 16.300 millones en ingresos en la primera mitad de 2026, pero también tuvo pérdidas de 80.700 millones. Esto significa que, aunque hay un crecimiento, el camino hacia la rentabilidad es complicado.\n\n**BAJADA SANTULA:** Lo que significa esto para ti es que las empresas de IA están en una encrucijada. Si logran estabilizarse y ser rentables, podrías ver mejoras en los productos y servicios que utilizas, pero si continúan teniendo pérdidas, esto podría afectar su desarrollo y soporte a largo plazo.\n\n**REF. CULTURA:** \"El lobo de Wall Street\" - una película que ilustra cómo el mundo de las finanzas puede ser tanto prometedor como arriesgado, reflejando la dualidad del crecimiento y las pérdidas en el ámbito empresarial."
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La lucha de una comunidad por mejorar su acceso a la salud es un reflejo del poder de la unión. La historia de Jaca nos recuerda que la sanidad no es un lujo, sino un derecho que debe ser garantizado para todos, especialmente en áreas vulnerables.\n\n**HOOK:** \"¡La salud no se negocia! Jaca recupera su UVI móvil con médico las 24 horas.\"\n\n**EL DATO:** En Jaca, tras tres años de movilización, los vecinos lograron que la UVI móvil volviera a contar con un médico las 24 horas. Antes, este servicio esencial estaba limitado a las horas diurnas, lo que comprometía la atención en emergencias nocturnas.\n\n**BAJADA SANTULA:** Esta victoria no solo mejora la atención médica en Jaca, sino que también sirve como un ejemplo de cómo la persistencia y la organización comunitaria pueden cambiar realidades. En tiempos donde la sanidad parece desatendida en áreas rurales, acciones como estas son vitales para asegurar que todos tengan acceso a atención adecuada.\n\n**REF. CULTURA:** \"La lucha por la justicia\" de Martin Luther King nos recuerda que la perseverancia ante la adversidad puede llevar a cambios significativos en la sociedad."
     },
     {
-        "titulo": "Netflix ingresa más que nunca, pero vende pocos anuncios. La consecuencia son mil despidos y dos directivos históricos en la calle",
-        "link": "https://www.xataka.com/streaming/netflix-ingresa-que-nunca-vende-pocos-anuncios-consecuencia-mil-despidos-dos-directivos-historicos-calle",
-        "medio": "Xataka",
-        "idioma": "es",
-        "fecha": "26/10/2026",
-        "score": 40.0,
-        "provider": "openai",
-        "ficha": "ÁNGULO EDITORIAL: La situación de Netflix refleja la incertidumbre en el mundo de la publicidad digital, un campo que afecta tanto a grandes empresas como a pequeños emprendedores. La caída en las expectativas de ingresos por publicidad puede ser un indicio de cambios en cómo consumimos y financiamos contenido, lo que debería preocupar a todos los que dependen de esta industria.\n\nHOOK: \"¿Netflix está en peligro? ¡Mil despidos y promesas incumplidas!\"\n\nEL DATO: Netflix ha reportado un aumento de ingresos del 11,8% en el tercer trimestre, alcanzando 12.870 millones de dólares, pero ha reducido sus expectativas de ingresos publicitarios de 3.000 millones a 2.700 millones para 2026. Esto ha llevado a un descenso del 6% en sus acciones, lo que sugiere un futuro incierto para la plataforma.\n\nBAJADA SANTULA: Si trabajas en marketing, publicidad o cualquier sector relacionado con los medios, es vital estar atento a estos cambios. La disminución de ingresos por publicidad en una plataforma líder como Netflix puede impactar cómo se distribuyen los presupuestos y las estrategias de publicidad en toda la industria. Este es un momento para reevaluar enfoques y adaptarse a un panorama en constante cambio.\n\nREF. CULTURA: \"El Gran Gatsby\" de F. Scott Fitzgerald, donde las promesas de riqueza y éxito a menudo se desvanecen ante la dura realidad, nos recuerda que el brillo de los números puede ocultar problemas más profundos."
-    },
-    {
-        "titulo": "Qué beneficios tiene el café descafeinado para la salud, según estudios científicos",
-        "link": "https://www.infobae.com/salud/2026/10/26/que-beneficios-tiene-el-cafe-descafeinado-para-la-salud-segun-estudios-cientificos/",
+        "titulo": "Cómo organizar el consumo de fibra antes de correr para prevenir la hinchazón, los calambres y las urgencias intestinales",
+        "link": "https://www.infobae.com/salud/2026/10/27/como-organizar-el-consumo-de-fibra-antes-de-correr-para-prevenir-la-hinchazon-los-calambres-y-las-urgencias-intestinales/",
         "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "26/10/2026",
+        "fecha": "27/10/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** Hoy en día, muchos optan por el café descafeinado no solo por el sabor, sino también por sus potenciales beneficios para la salud. Comprender estos beneficios puede ayudarnos a tomar decisiones más informadas sobre nuestra dieta y bienestar.\n\n**HOOK:** ¿Sabías que el café descafeinado puede ser bueno para tu salud?\n\n**EL DATO:** Estudios de Harvard han revelado que los compuestos vegetales en el café descafeinado pueden estar relacionados con mejoras en el metabolismo y la salud cardiovascular. Sin embargo, es importante recordar que estos resultados no garantizan la prevención de enfermedades en individuos.\n\n**BAJADA SANTULA:** Si disfrutas del café pero te preocupa la cafeína, el descafeinado podría ser una alternativa que te permita disfrutar de su sabor y, al mismo tiempo, potencialmente beneficiarte de algunas propiedades saludables. Pero siempre es clave combinarlo con un estilo de vida equilibrado.\n\n**REF. CULTURA:** \"El café es un abrazo en una taza.\" - N/A"
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La nutrición adecuada es clave para disfrutar de una carrera sin molestias. Aprender a organizar el consumo de fibra puede marcar la diferencia entre una experiencia placentera y una llena de incomodidades.\n\n**HOOK:** \"¡Evita los calambres y las urgencias intestinales antes de correr!\"\n\n**EL DATO:** Expertas en nutrición deportiva sugieren que consumir fibra en el momento adecuado y en las cantidades adecuadas puede prevenir problemas digestivos durante la carrera. Lo recomendable es ajustar la ingesta de fibra a al menos 2-3 horas antes de la actividad para permitir que el cuerpo procese los alimentos.\n\n**BAJADA SANTULA:** Si eres corredor, planifica tus comidas. Opta por alimentos altos en fibra, como frutas y verduras, pero hazlo con tiempo. Un buen consejo es dejar un espacio de 2-3 horas entre tu comida y la carrera para que tu cuerpo esté listo y evitar incomodidades en el camino.\n\n**REF. CULTURA:** \"La carrera es un viaje, no un destino.\" - N/A"
     },
     {
-        "titulo": "Alergias matutinas: los hábitos nocturnos que convierten el dormitorio en un foco de alérgenos",
-        "link": "https://www.infobae.com/salud/2026/10/26/alergias-matutinas-los-habitos-nocturnos-que-convierten-el-dormitorio-en-un-foco-de-alergenos/",
+        "titulo": "“Si se levanta la emergencia sanitaria, podrían ir a la quiebra unas 6.000 empresas”, advirtió el presidente de la Unión Argentina de Salud",
+        "link": "https://www.infobae.com/salud/2026/10/27/si-se-levanta-la-emergencia-sanitaria-podrian-ir-a-la-quiebra-unas-6000-empresas-advirtio-el-presidente-de-la-union-argentina-de-salud/",
         "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "26/10/2026",
+        "fecha": "27/10/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: Las alergias matutinas afectan a muchas personas, pero entender cómo nuestros hábitos nocturnos influyen en esto puede mejorar significativamente nuestra calidad de vida. Conocer estas dinámicas es esencial para quienes buscan un despertar más saludable.\n\nHOOK: ¿Despertas con congestión? ¡Tus hábitos nocturnos podrían ser la causa!\n\nEL DATO: Según inmunólogos, los alérgenos como el polvo y los ácaros se acumulan en el dormitorio mientras dormimos, provocando congestión y estornudos al despertar. Simplemente cambiar la ropa de cama con frecuencia y mantener el espacio limpio puede ayudar a reducir estos síntomas.\n\nBAJADA SANTULA: Si sufres de alergias al despertar, comienza a revisar tus hábitos nocturnos. Cambiar las sábanas semanalmente y evitar el uso de almohadas viejas puede hacer una gran diferencia en cómo te sientes al iniciar el día.\n\nREF. CULTURA: \"La salud no lo es todo, pero sin salud, todo lo demás es nada.\" - Arthur Schopenhauer."
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La posible finalización de la emergencia sanitaria no solo es un tema de salud pública, sino que también podría significar el colapso de miles de empresas que prestan servicios esenciales. Esto afecta a toda la sociedad, ya que la salud es un derecho fundamental que todos necesitamos proteger.\n\nHOOK: \"¡Atención! La salud de miles de empresas y millones de argentinos está en juego.\"\n\nEL DATO: Según el presidente de la Unión Argentina de Salud, Hugo Magonza, si se levanta la emergencia sanitaria, unas 6.000 empresas podrían enfrentar la quiebra. Esto se debe a la disminución de aportes y al aumento de costos que presionan a clínicas, obras sociales y prepagas.\n\nBAJADA SANTULA: Si estas empresas colapsan, no solo perderemos servicios de salud, sino que también se verán afectados los empleos de miles de trabajadores y el acceso a tratamientos para la población. Es importante que estemos informados y apoyemos políticas que garanticen la sostenibilidad de estos prestadores.\n\nREF. CULTURA: “La salud es un estado de completo bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades.” - Organización Mundial de la Salud."
     },
     {
-        "titulo": "Elon Musk prometió una película de 'La Odisea' generada con IA y Grok acaba de publicar sus primeros siete minutos",
-        "link": "https://www.xataka.com/robotica-e-ia/elon-musk-prometio-pelicula-odisea-generada-ia-grok-acaba-publicar-sus-primeros-siete-minutos",
+        "titulo": "Marci Webber mató a su hija durante un brote psicótico, fue absuelta y lleva 16 años internada: un juez decidirá en noviembre si puede salir",
+        "link": "https://www.infobae.com/estados-unidos/2026/10/27/marci-webber-mato-a-su-hija-durante-un-brote-psicotico-fue-absuelta-y-lleva-16-anos-internada-un-juez-decidira-en-noviembre-si-puede-salir/",
+        "medio": "Infobae Salud",
+        "idioma": "es",
+        "fecha": "27/10/2026",
+        "score": 20.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La salud mental es un tema que afecta a millones de personas y puede llevar a situaciones extremas. La historia de Marci Webber pone de relieve la importancia de un tratamiento adecuado y de las consecuencias de los brotes psicóticos. ¿Qué pasa cuando el sistema falla y las personas sufren?\n\n**HOOK:** \"¿Qué sucede cuando la medicación se convierte en un peligro?\"\n\n**EL DATO:** Marci Webber, una veterana del Ejército, fue absuelta tras matar a su hija durante un brote psicótico, lo que plantea la pregunta: ¿cómo puede un sistema de salud mental fallar tan estrepitosamente? A menudo, los tratamientos inadecuados pueden llevar a consecuencias devastadoras.\n\n**BAJADA SANTULA:** Esta situación nos invita a reflexionar sobre la atención que brindamos a las personas con problemas de salud mental. ¿Estamos haciendo lo suficiente para asegurar que reciban el apoyo adecuado? Cada historia es un recordatorio de que la salud mental debe ser una prioridad en nuestras vidas y políticas públicas.\n\n**REF. CULTURA:** \"El jardín de los Finzi-Contini\" de Giorgio Bassani, una obra que explora cómo la vida de una familia es destruida por circunstancias fuera de su control, lo que resuena con la experiencia de quienes enfrentan trastornos mentales."
+    },
+    {
+        "titulo": "Drenaje linfático con gua sha y rodillos, qué dice la ciencia sobre la tendencia viral de bienestar?",
+        "link": "https://www.infobae.com/salud/2026/10/27/drenaje-linfatico-con-gua-sha-y-rodillos-que-dice-la-ciencia-sobre-la-tendencia-viral-de-bienestar/",
+        "medio": "Infobae Salud",
+        "idioma": "es",
+        "fecha": "27/10/2026",
+        "score": 20.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La creciente popularidad del drenaje linfático con gua sha y rodillos ha captado la atención de millones, pero es fundamental entender si realmente aporta los beneficios que promete. En un mundo donde la salud y el bienestar son prioridades, es crucial cuestionar las tendencias que consumimos y buscar información basada en evidencia.\n\nHOOK: \"¿El gua sha realmente desintoxica tu cuerpo? ¡La ciencia tiene algo que decir!\"\n\nEL DATO: Estudios recientes indican que, aunque el drenaje linfático puede ayudar a reducir la hinchazón, la efectividad de herramientas como el gua sha y los rodillos no está respaldada por pruebas científicas sólidas. Muchas de las afirmaciones sobre sus beneficios, como la desintoxicación, carecen de fundamento.\n\nBAJADA SANTULA: Es esencial que antes de adoptar nuevas tendencias de bienestar, evaluemos la evidencia detrás de ellas. En lugar de depender de modas pasajeras, considera consultar a profesionales de la salud que ofrezcan enfoques basados en ciencia y personalización para tus necesidades de bienestar.\n\nREF. CULTURA: N/A"
+    },
+    {
+        "titulo": "De infecciones a trastornos del sueño: qué factores podrían explicar algunas enfermedades crónicas, según un experto",
+        "link": "https://www.infobae.com/salud/2026/10/27/de-infecciones-a-trastornos-del-sueno-que-factores-podrian-explicar-algunas-enfermedades-cronicas-segun-un-experto/",
+        "medio": "Infobae Salud",
+        "idioma": "es",
+        "fecha": "27/10/2026",
+        "score": 20.0,
+        "provider": "openai",
+        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: Hoy en día, muchas personas sufren de enfermedades crónicas sin entender las causas subyacentes. Comprender cómo factores como infecciones o trastornos del sueño influyen en nuestra salud puede ser clave para mejorar nuestra calidad de vida.\n\nHOOK: ¿Sabías que lo que te enferma puede ser más complejo de lo que imaginas?\n\nEL DATO: Richard Horowitz, un internista reconocido, ha identificado 16 factores que pueden contribuir a enfermedades crónicas como la Lyme, la fatiga crónica y trastornos autoinmunes. Estos factores van desde infecciones hasta problemas de sueño, lo que sugiere que nuestra salud es el resultado de múltiples elementos interconectados.\n\nBAJADA SANTULA: Es fundamental prestar atención a nuestro bienestar integral. No se trata solo de combatir síntomas, sino de entender el contexto completo de nuestra salud. Si sientes que algo no anda bien, considera estos factores y busca un enfoque más holístico en tu atención médica.\n\nREF. CULTURA: \"La salud no es solo la ausencia de enfermedad, sino un estado de completo bienestar físico, mental y social.\" - Organización Mundial de la Salud."
+    },
+    {
+        "titulo": "Qué bebida recomienda una nutricionista por la mañana para cuidar los riñones y mantener una buena hidratación",
+        "link": "https://www.infobae.com/salud/2026/10/27/que-bebida-recomienda-una-nutricionista-por-la-manana-para-cuidar-los-rinones-y-mantener-una-buena-hidratacion/",
+        "medio": "Infobae Salud",
+        "idioma": "es",
+        "fecha": "27/10/2026",
+        "score": 20.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La salud renal es fundamental para nuestro bienestar general. Con el aumento de enfermedades crónicas, entender cómo pequeñas decisiones diarias, como lo que bebemos por la mañana, puede marcar una gran diferencia en nuestra salud a largo plazo.\n\nHOOK: \"¿Sabías que la bebida que elijas por la mañana puede cuidar tus riñones?\"\n\nEL DATO: Según la nutricionista Brittany Lubeck, una simple bebida como el agua puede ser suficiente para mantener una buena hidratación y cuidar los riñones, especialmente si no hay problemas de salud preexistentes.\n\nBAJADA SANTULA: En nuestra rutina diaria, a menudo complicamos las cosas. A veces, lo más sencillo, como beber agua al despertar, es lo que realmente necesita nuestro cuerpo para funcionar mejor y proteger nuestros órganos vitales.\n\nREF. CULTURA: “La salud no lo es todo, pero sin salud, todo lo demás es nada.” - Arthur Schopenhauer."
+    },
+    {
+        "titulo": "Revisión vincula el TDAH con un aumento de la mortalidad por diversas causas",
+        "link": "https://www.infobae.com/salud/2026/10/27/revision-vincula-el-tdah-con-un-aumento-de-la-mortalidad-por-diversas-causas/",
+        "medio": "Infobae Salud",
+        "idioma": "es",
+        "fecha": "27/10/2026",
+        "score": 20.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La reciente revisión sobre el TDAH y su vinculación con un aumento en la mortalidad nos recuerda la importancia de abordar este trastorno no solo desde la perspectiva terapéutica, sino también desde la prevención y el apoyo integral. Esto es relevante hoy porque muchos pueden subestimar la gravedad del TDAH y su impacto en la salud a largo plazo.\n\n**HOOK:** \"¿Sabías que el TDAH podría acortar tu vida? ¡Esto es lo que debes saber!\"\n\n**EL DATO:** Un nuevo análisis sugiere que las personas con Trastorno por Déficit de Atención e Hiperactividad (TDAH) tienen un riesgo elevado de mortalidad por diversas causas. Esto incluye no solo problemas de salud mental, sino también condiciones físicas que pueden ser exacerbadas por el TDAH si no se manejan adecuadamente.\n\n**BAJADA SANTULA:** Es crucial que tanto la sociedad como los profesionales de la salud reconozcan la seriedad del TDAH. Si conoces a alguien con este diagnóstico, anímalo a buscar apoyo y tratamiento adecuado. La detección temprana y el manejo efectivo pueden marcar la diferencia en la calidad y longevidad de vida.\n\n**REF. CULTURA:** N/A"
+    },
+    {
+        "titulo": "Mbappé se ríe de un meme donde le comparan con Mao Zedong y China veta la emisión de LaLiga dentro del país",
+        "link": "https://www.xataka.com/magnet/kylian-zedong-mbappe-broma-que-acaba-vetar-a-liga-china-ha-roto-acuerdos-comerciales-delantero",
         "medio": "Xataka",
         "idioma": "es",
-        "fecha": "26/10/2026",
+        "fecha": "27/10/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La revolución de la inteligencia artificial está transformando la industria del cine. ¿Qué significa esto para el futuro del arte y la creatividad? La promesa de películas generadas por IA, como la de 'La Odisea' anunciada por Elon Musk, nos invita a reflexionar sobre el papel de la tecnología en nuestra cultura y en la narrativa humana.\n\n**HOOK:** \"¿Podría una máquina crear la próxima gran obra maestra del cine?\"\n\n**EL DATO:** Desde la llegada de ChatGPT, la inteligencia artificial ha avanzado tanto que ahora puede escribir guiones, crear storyboards y hasta generar efectos visuales. Esto no solo cambia cómo se producen las películas, sino que redefine el concepto de creatividad.\n\n**BAJADA SANTULA:** Imagina que en el futuro, las historias que vemos en el cine no solo son escritas por guionistas humanos, sino también por algoritmos. Esto podría democratizar la creación artística, pero también plantea preguntas sobre la autenticidad y la conexión emocional en el arte. ¿Estamos listos para aceptar que una IA pueda contar nuestras historias?\n\n**REF. CULTURA:** \"Blade Runner\", una película que plantea interrogantes sobre la humanidad y la inteligencia artificial, nos invita a cuestionar la esencia de la creatividad y la identidad en un mundo donde la tecnología avanza a pasos agigantados."
-    },
-    {
-        "titulo": "Mark Zuckerberg amenazó con abandonar California por lo elevado de los impuestos. La propia Meta tuvo que negociar con él que se quedara",
-        "link": "https://www.xataka.com/empresas-y-economia/mark-zuckerberg-amenazo-abandonar-california-elevado-impuestos-propia-meta-tuvo-que-negociar-que-se-quedara",
-        "medio": "Xataka",
-        "idioma": "es",
-        "fecha": "26/10/2026",
-        "score": 20.0,
-        "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La migración de millonarios de Silicon Valley a Florida refleja una inquietud creciente sobre la tributación de las grandes fortunas y cómo estas decisiones pueden afectar a la economía local y los servicios públicos en California. Esto nos importa porque el futuro de la innovación y el desarrollo tecnológico en la región podría estar en juego.\n\nHOOK: \"¿Los millonarios se van? ¡Descubre por qué Mark Zuckerberg podría abandonar California!\"\n\nEL DATO: Un nuevo impuesto en California, que podría aplicar un 5% sobre las grandes fortunas, ha llevado a magnates como Zuckerberg a considerar mudarse a estados con fiscalidades más favorables, como Florida, donde muchos ya han establecido sus mansiones.\n\nBAJADA SANTULA: Este movimiento no solo afecta a los ricos. Si los millonarios deciden irse, podría repercutir en la economía de California, afectando la inversión en tecnología, empleos y, en última instancia, en el bienestar de todos los ciudadanos. Es un recordatorio de que la política fiscal puede tener un impacto directo en nuestras vidas.\n\nREF. CULTURA: \"El lobo de Wall Street\" - La película refleja cómo la ambición y la evasión fiscal pueden llevar a decisiones drásticas, aunque en un contexto diferente, ilustra la relación entre riqueza, poder y responsabilidad social."
-    },
-    {
-        "titulo": "España tiene todo un corredor ferroviario completamente abandonado y ya hay quien quiere recuperarlo con 35.000 traviesas recicladas",
-        "link": "https://www.xataka.com/movilidad/espana-tiene-todo-corredor-ferroviario-completamente-abandonado-hay-quien-quiere-recuperarlo-35-000-traviesas-recicladas",
-        "medio": "Xataka",
-        "idioma": "es",
-        "fecha": "26/10/2026",
-        "score": 20.0,
-        "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La recuperación de un corredor ferroviario abandonado no solo puede reactivar la economía local, sino que también representa una oportunidad para el uso sostenible de recursos y el ahorro en gastos públicos. En tiempos donde la sostenibilidad es clave, este caso es un llamado a la acción para no perder lo que ya tenemos.\n\nHOOK: \"¿Sabías que tenemos un tren olvidado que podría revivir la economía de una región?\"\n\nEL DATO: En España, 35.000 traviesas de un corredor ferroviario están siendo destruidas, mientras que un grupo pide su reciclaje para reactivar la línea de Astorga - La Bañeza. Esta línea podría ser clave para el transporte de mercancías y revitalizar la economía local, pero el dinero público se está malgastando al destruir recursos que podrían ser reutilizados.\n\nBAJADA SANTULA: Imagina que en tu ciudad hay una infraestructura abandonada que, si se recupera, podría generar empleo y mejorar el transporte. ¿Te gustaría ver cómo algo que consideramos \"viejo\" puede convertirse en un motor de desarrollo? La historia del corredor ferroviario de Astorga es una invitación a reflexionar sobre el valor de lo que ya tenemos y cómo podemos revitalizarlo.\n\nREF. CULTURA: \"El tren de las 3:10\" - Una película que muestra cómo un simple ferrocarril puede cambiar el destino de una comunidad."
-    },
-    {
-        "titulo": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
-        "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
-        "medio": "Wired Science",
-        "idioma": "en",
-        "fecha": "26/10/2026",
-        "score": 20.0,
-        "provider": "openai",
-        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La inteligencia artificial está transformando la biología, permitiendo que investigadores y personas comunes comprendan cómo pequeñas alteraciones en el ADN pueden afectar nuestra salud. Esto podría revolucionar el diagnóstico y tratamiento de enfermedades.\n\nHOOK: \"¿Te imaginas poder hablar con tu ADN? ¡Ahora es posible!\"\n\nEL DATO: Hugging Face ha lanzado un modelo de IA de código abierto que traduce el lenguaje del ADN, ayudando a investigadores a descifrar cómo las variaciones genéticas influyen en la actividad de los genes y nuestra salud.\n\nBAJADA SANTULA: Este avance no solo es útil para científicos; también puede empoderar a personas a entender mejor su salud y las implicaciones de su genética en su vida diaria.\n\nREF. CULTURA: N/A"
+        "ficha": "ÁNGULO EDITORIAL: La reciente controversia entre Kylian Mbappé y LaLiga resalta cómo las dinámicas culturales y el contexto internacional pueden afectar decisiones comerciales y la percepción pública. En un mundo globalizado, entender estas interacciones es crucial para cualquier persona interesada en el deporte y la economía.\n\nHOOK: \"¿Puede un meme cambiar el rumbo de LaLiga en China?\"\n\nEL DATO: Mbappé, al reírse de un meme que lo compara con Mao Zedong, provocó la reacción de las autoridades chinas, quienes decidieron vetar la emisión de LaLiga en el país. Esto muestra cómo un simple comentario puede tener repercusiones masivas en los negocios y la popularidad de una liga deportiva en mercados importantes como el chino.\n\nBAJADA SANTULA: En nuestra vida diaria, nuestras palabras y acciones pueden tener un impacto inesperado en nuestro entorno. Un comentario aparentemente inocente, ya sea en redes sociales o en una conversación, puede influir en relaciones laborales o percepciones sociales. Ser conscientes del contexto cultural es fundamental para navegar en cualquier ámbito.\n\nREF. CULTURA: \"El efecto mariposa\" - la idea de que pequeños eventos pueden desencadenar grandes cambios, ejemplificado en la trama de esta famosa teoría y en muchas películas que exploran cómo decisiones simples pueden tener consecuencias inesperadas."
     }
 ]
