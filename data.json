@@ -1,102 +1,92 @@
 [
     {
-        "titulo": "Cuál es el hábito matutino que muchos se pasan por alto y tiene un efecto en la salud del corazón",
-        "link": "https://www.infobae.com/salud/2026/10/28/cual-es-el-habito-matutino-que-muchos-se-pasan-por-alto-y-tiene-un-efecto-en-la-salud-del-corazon/",
+        "titulo": "Una ingeniera de Amazon preguntó a ChatGPT cómo dejar su medicación de epilepsia. La IA le diseñó un calendario de 25 días que ha terminado en tragedia",
+        "link": "https://www.xataka.com/robotica-e-ia/ingeniera-amazon-pregunto-a-chatgpt-como-dejar-su-medicacion-epilepsia-ia-le-diseno-calendario-25-dias-que-ha-terminado-tragedia",
+        "medio": "Xataka",
+        "idioma": "es",
+        "fecha": "29/10/2026",
+        "score": 60.0,
+        "provider": "openai",
+        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La historia de Bowen Wan resalta el peligro de depender de la inteligencia artificial para decisiones críticas de salud. En un mundo donde la tecnología avanza rápidamente, es esencial cuestionar la información que recibimos y su impacto en nuestras vidas.\n\nHOOK: \"¿Puede una IA decidir sobre tu salud? La respuesta podría ser mortal.\"\n\nEL DATO: Bowen Wan, una ingeniera de Amazon con epilepsia grave, confió en ChatGPT para dejar su medicación, resultando en un trágico desenlace. La IA le propuso un plan de 25 días que ignoró los riesgos de su condición, llevándola a una situación crítica y, finalmente, a su muerte.\n\nBAJADA SANTULA: Este caso nos recuerda que la tecnología, aunque útil, no puede reemplazar el juicio humano y la asesoría médica. Siempre es crucial consultar a profesionales de la salud antes de hacer cambios en tratamientos médicos. La vida de una persona no debe depender de algoritmos.\n\nREF. CULTURA: \"La verdad duele\", una frase que refleja cómo la búsqueda de respuestas rápidas a veces puede llevar a consecuencias devastadoras."
+    },
+    {
+        "titulo": "Una empresa está creando el Tesla de las excavadoras: IA física y hasta arriba de sensores para levantar los centros de datos",
+        "link": "https://www.xataka.com/empresas-y-economia/empresa-esta-creando-tesla-excavadoras-ia-fisica-arriba-sensores-para-levantar-centros-datos",
+        "medio": "Xataka",
+        "idioma": "es",
+        "fecha": "29/10/2026",
+        "score": 40.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La automatización y la inteligencia artificial están transformando el sector de la construcción, lo que podría solucionar la falta de mano de obra en un mundo con una pirámide demográfica invertida. Esto no solo impacta la industria, sino también el futuro laboral de muchas personas.\n\nHOOK: \"¿El futuro de las excavadoras está en manos de la inteligencia artificial?\"\n\nEL DATO: Bedrock Robotics, una startup de San Francisco, ha recaudado 600 millones de dólares para desarrollar excavadoras autónomas que utilizan inteligencia artificial y sensores avanzados. Esto promete revolucionar la forma en que se excavan terrenos para infraestructuras, haciéndolo más eficiente y menos dependiente de trabajadores humanos.\n\nBAJADA SANTULA: Imagina un mundo donde las máquinas pueden realizar trabajos pesados sin intervención humana. Esto no solo podría hacer que los proyectos de construcción sean más rápidos y seguros, sino que también podría liberar a las personas para que se enfoquen en tareas más creativas y estratégicas. Sin embargo, también plantea preguntas sobre el futuro del empleo en la industria.\n\nREF. CULTURA: \"La máquina del tiempo\" de H.G. Wells, donde la tecnología transforma la sociedad de maneras impredecibles."
+    },
+    {
+        "titulo": "\"Es una cuestión de salud mental\": cada vez más padres están pagando hasta 260 euros la noche a niñeras nocturnas",
+        "link": "https://www.xataka.com/magnet/cuestion-salud-mental-cada-vez-padres-estan-pagando-260-euros-noche-a-nineras-nocturnas",
+        "medio": "Xataka",
+        "idioma": "es",
+        "fecha": "29/10/2026",
+        "score": 40.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La salud mental de los padres es crucial en los primeros días de un nuevo bebé. Pagar por niñeras nocturnas no solo busca facilitar el cuidado del recién nacido, sino también preservar el bienestar emocional de los padres durante una etapa tan desafiante. Hoy en día, el autocuidado se ha convertido en una prioridad que afecta directamente a la dinámica familiar.\n\n**HOOK:** \"¿Te imaginas pagar para dormir mejor? ¡Esto es lo que están haciendo muchos padres hoy!\"\n\n**EL DATO:** En Italia, algunos padres están invirtiendo hasta 260 euros por noche en niñeras nocturnas, conocidas como 'night nannies'. Estas profesionales se encargan de cuidar a los recién nacidos mientras los padres descansan, ayudando a reducir el estrés y la fatiga en una etapa crítica de la crianza.\n\n**BAJADA SANTULA:** La llegada de un bebé es un momento mágico, pero también puede ser agotador. Al contratar a una niñera nocturna, los padres no solo compran horas de sueño, sino que también están invirtiendo en su salud mental. Este enfoque puede mejorar la calidad de vida familiar, permitiendo que ambos progenitores se encuentren más descansados y preparados para afrontar los desafíos de la paternidad.\n\n**REF. CULTURA:** \"La vida es como una bicicleta: para mantener el equilibrio, debes seguir adelante.\" - Albert Einstein. Esto resuena en la idea de que cuidar de uno mismo es fundamental para poder cuidar de otros."
+    },
+    {
+        "titulo": "Raquel Ayllón, controladora ferroviaria y portavoz de SCF: \"El CRC de Atocha tiene una cantidad de trabajo inhumana. No se podía ni ir al baño\"",
+        "link": "https://www.xataka.com/movilidad/raquel-ayllon-controladora-portavoz-scf-crc-atocha-tiene-cantidad-trabajo-inhumana-no-se-podia-ir-al-bano",
+        "medio": "Xataka",
+        "idioma": "es",
+        "fecha": "29/10/2026",
+        "score": 40.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La seguridad en el transporte es un tema que nos afecta a todos. Cuando los trabajadores de un centro de control enfrentan condiciones laborales extremas, el riesgo de accidentes aumenta, poniendo en peligro vidas. Hoy, la voz de los controladores ferroviarios nos recuerda la importancia de priorizar el bienestar en el trabajo para garantizar la seguridad de todos.\n\nHOOK: \"La seguridad en el tren no puede depender de condiciones inhumanas.\"\n\nEL DATO: El 28 de octubre, un choque entre dos trenes en la línea AVE Madrid-Sevilla se debió a una decisión tomada en un centro de control sobrecargado de trabajo. Los operadores, agobiados por la falta de recursos y protocolos incumplidos, dieron una orden que resultó en un grave accidente.\n\nBAJADA SANTULA: Imagina estar en un lugar donde no puedes ni ir al baño porque la carga de trabajo es tan alta. Esa es la realidad de muchos controladores ferroviarios. Su bienestar y condiciones laborales son esenciales no solo para ellos, sino para la seguridad de todos los pasajeros que confían en el sistema ferroviario.\n\nREF. CULTURA: \"El trabajo en equipo es esencial en situaciones de crisis\", frase que resuena en cualquier entorno laboral, pero que en el caso de los controladores ferroviarios, puede marcar la diferencia entre la vida y la muerte."
+    },
+    {
+        "titulo": "Americans Are Open to AI in Healthcare, but Want Humans Making Final Calls",
+        "link": "https://www.pewresearch.org/science/2026/10/29/americans-are-open-to-ai-in-healthcare-but-want-humans-making-final-calls/",
+        "medio": "Pew Research",
+        "idioma": "en",
+        "fecha": "29/10/2026",
+        "score": 20.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: En un mundo donde la tecnología avanza rápidamente, los pacientes quieren asegurarse de que la atención médica siga siendo humana. Esto es relevante hoy porque nos recuerda la importancia de la empatía y el juicio humano en la salud.\n\nHOOK: \"¿Quieres que una máquina decida sobre tu salud? La mayoría de los estadounidenses dice que no.\"\n\nEL DATO: Un estudio de Pew Research revela que el 47% de los estadounidenses cree que la inteligencia artificial perjudicará la relación entre pacientes y médicos, mientras que solo el 10% piensa que la mejorará. \n\nBAJADA SANTULA: En la práctica, esto significa que, aunque la IA puede ayudar en tareas administrativas y diagnósticos, la confianza del paciente sigue centrada en el médico. La atención médica no es solo datos, es también conexión humana.\n\nREF. CULTURA: \"La máquina del tiempo\" de H.G. Wells, donde la tecnología y la humanidad chocan, nos recuerda que el progreso no debe sacrificar lo esencial: la relación humana."
+    },
+    {
+        "titulo": "“Repetir algo durante 21 días es una racha”: por qué Mel Robbins cuestiona un mito muy difundido sobre los hábitos y qué propone",
+        "link": "https://www.infobae.com/salud/2026/10/29/repetir-algo-durante-21-dias-es-una-racha-por-que-mel-robbins-cuestiona-un-mito-muy-difundido-sobre-los-habitos-y-que-propone/",
         "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "28/10/2026",
-        "score": 40.0,
+        "fecha": "29/10/2026",
+        "score": 20.0,
         "provider": "openai",
-        "ficha": "ÁNGULO EDITORIAL: La salud del corazón es fundamental para una vida larga y activa. Sin embargo, hay hábitos simples que muchas personas ignoran en su rutina matutina y que pueden tener un impacto significativo en su bienestar cardiovascular. Hoy más que nunca, entender estos hábitos puede ser la clave para tomar decisiones más saludables.\n\nHOOK: ¡Tu mañana podría estar afectando tu corazón más de lo que crees!\n\nEL DATO: Según cardiólogos, un hábito matutino específico puede iniciar una cadena de decisiones alimentarias que aumentan el riesgo de enfermedades cardiovasculares, la principal causa de muerte en el mundo. Ignorar un desayuno balanceado, por ejemplo, puede llevar a elecciones poco saludables más tarde en el día.\n\nBAJADA SANTULA: Establecer una rutina matutina que incluya un desayuno nutritivo no solo mejora tu energía, sino que también protege tu corazón. Priorizar alimentos ricos en fibra y bajos en azúcares puede ser la diferencia entre un día saludable y uno lleno de antojos poco saludables.\n\nREF. CULTURA: \"El desayuno es la comida más importante del día\" - N/A."
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** En un mundo donde la procrastinación y la falta de motivación parecen ser la norma, entender cómo se forman los hábitos puede ser la clave para desencadenar cambios positivos en nuestras vidas. Hoy más que nunca, necesitamos estrategias prácticas para pasar a la acción y no quedarnos atrapados en la espera de un \"momento perfecto\".\n\n**HOOK:** \"Esperar a sentir ganas puede ser tu mayor enemigo en el cambio.\"\n\n**EL DATO:** Mel Robbins desafía el mito de que se necesitan 21 días para formar un hábito. Según ella, la clave no es esperar a tener ganas, sino tomar acción inmediata. Si no actúas, el cambio se retrasa indefinidamente.\n\n**BAJADA SANTULA:** En la vida cotidiana, muchos de nosotros hemos dejado que la falta de motivación nos impida hacer lo que realmente queremos. En lugar de esperar a sentir que estamos listos, podemos empezar a tomar pequeñas acciones ahora mismo. Si quieres ejercitarte, no esperes al lunes; comienza con 5 minutos hoy. La acción genera impulso.\n\n**REF. CULTURA:** \"El viaje de mil millas comienza con un solo paso.\" - Lao Tzu."
     },
     {
-        "titulo": "5 hábitos que un neurólogo de 80 años practica y recomienda para cuidar la salud cerebral",
-        "link": "https://www.infobae.com/salud/2026/10/28/5-habitos-que-un-neurologo-de-80-anos-practica-y-recomienda-para-cuidar-la-salud-cerebral/",
+        "titulo": "Picos de glucosa después de comer: por qué no siempre son motivo de alarma",
+        "link": "https://www.infobae.com/salud/2026/10/29/picos-de-glucosa-despues-de-comer-por-que-no-siempre-son-motivo-de-alarma/",
         "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "28/10/2026",
-        "score": 40.0,
+        "fecha": "29/10/2026",
+        "score": 20.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La salud cerebral es clave para mantener una vida plena y activa a medida que envejecemos. Aprender de expertos con décadas de experiencia puede ayudarnos a adoptar hábitos que realmente funcionan y que podemos aplicar en nuestra vida diaria.\n\nHOOK: \"¿Qué hace un neurólogo de 80 años para mantener su mente afilada?\"\n\nEL DATO: Ron Petersen, un neurólogo de la Clínica Mayo, recomienda cinco hábitos que ha practicado durante años: mantener una dieta equilibrada, hacer ejercicio regularmente, socializar, seguir aprendiendo constantemente y dormir lo suficiente. Estas acciones han demostrado ser efectivas para prevenir el deterioro cognitivo.\n\nBAJADA SANTULA: No espere a ser mayor para cuidar su cerebro. Incorporar pequeñas acciones diarias, como salir a caminar, leer un libro o simplemente conversar con amigos, puede marcar la diferencia a largo plazo en su salud mental.\n\nREF. CULTURA: \"El poder de la mente\" de Daniel Kahneman, que explora cómo nuestras decisiones y hábitos influyen en nuestra vida, encaja perfectamente con la importancia de cuidar nuestra salud cerebral."
+        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La preocupación por los picos de glucosa después de las comidas ha crecido, pero entender cómo funciona nuestro metabolismo puede ayudarnos a tomar decisiones más informadas sobre nuestra salud. Esto es relevante hoy porque el bienestar no se trata solo de seguir modas, sino de comprender nuestro cuerpo.\n\nHOOK: \"¿Deberías alarmarte por los picos de glucosa tras comer? La respuesta puede sorprenderte.\"\n\nEL DATO: Los picos de glucosa son una respuesta normal del cuerpo al consumo de carbohidratos. Según expertos, estas fluctuaciones no siempre indican un problema de salud, y el cuerpo tiene mecanismos para regular los niveles de azúcar en sangre.\n\nBAJADA SANTULA: En lugar de seguir dietas restrictivas basadas en miedo, es fundamental escuchar a nuestro cuerpo y aprender sobre cómo nuestros hábitos alimenticios afectan nuestra glucosa. Optar por carbohidratos complejos y equilibrar las comidas puede ser una estrategia más efectiva.\n\nREF. CULTURA: \"El cuerpo humano es una máquina increíble, y entender su funcionamiento es el primer paso hacia el bienestar.\"  - N/A"
     },
     {
-        "titulo": "Amazon renueva sus altavoces Echo: IA local, router eero integrado y un despertador para la mesita de noche",
-        "link": "https://www.xataka.com/seleccion/amazon-renueva-sus-altavoces-echo-ia-local-router-eero-integrado-despertador-para-mesita-noche",
-        "medio": "Xataka",
-        "idioma": "es",
-        "fecha": "28/10/2026",
-        "score": 40.0,
-        "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La evolución de los dispositivos inteligentes está transformando nuestra interacción diaria en el hogar. Entender estas innovaciones nos permite aprovechar al máximo la tecnología que facilita nuestra vida cotidiana y conecta nuestros espacios de forma más eficiente.\n\n**HOOK:** \"¿Tu hogar está listo para la revolución de la inteligencia artificial?\"\n\n**EL DATO:** Amazon ha lanzado una nueva línea de altavoces Echo que incluyen un procesador más potente y funciones de inteligencia artificial que operan localmente. Esto significa que ahora pueden procesar comandos más rápido y de manera más eficiente, sin depender tanto de la nube. Además, se integran con tecnologías de conectividad, eliminando la necesidad de dispositivos adicionales.\n\n**BAJADA SANTULA:** Imagina despertar cada mañana con un altavoz que no solo te despierta, sino que también ajusta la temperatura de tu hogar, enciende las luces y te da un resumen del tráfico en tu camino al trabajo, todo con solo pedirlo. Estos dispositivos están diseñados para hacer nuestra vida más cómoda y conectada.\n\n**REF. CULTURA:** \"El Hombre Bicentenario\" de Isaac Asimov, que explora la relación entre humanos y máquinas, anticipando un futuro donde la tecnología no solo asiste, sino que también integra y mejora nuestras vidas."
-    },
-    {
-        "titulo": "\"Nos hemos quedado sin identidad\": los programadores tienen otro frente con la IA: su salud mental",
-        "link": "https://www.xataka.com/robotica-e-ia/nos-hemos-quedado-identidad-programadores-tienen-otro-frente-ia-su-salud-mental",
-        "medio": "Xataka",
-        "idioma": "es",
-        "fecha": "28/10/2026",
-        "score": 40.0,
-        "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La inteligencia artificial está revolucionando la industria tecnológica, pero este avance trae consigo un costo emocional significativo para los programadores. Hoy más que nunca, es crucial entender cómo la IA puede afectar nuestra identidad y bienestar mental en el trabajo.\n\nHOOK: \"La IA no solo roba empleos, también está robando nuestra identidad.\"\n\nEL DATO: Varios programadores han compartido cómo la IA está impactando su salud mental. Muchos sienten que sus años de esfuerzo y aprendizaje se desvanecen, dejando un vacío de identidad profesional y provocando ansiedad sobre el futuro laboral.\n\nBAJADA SANTULA: Para los que están en la industria tecnológica, es importante reconocer que el avance de la IA no solo afecta la naturaleza de su trabajo, sino también su sentido de pertenencia y valor personal. Reflexionar sobre esto puede ser un primer paso para reconectar con nuestra identidad profesional, buscando nuevas formas de aprender y adaptarnos.\n\nREF. CULTURA: \"La vida es un río en constante cambio\" - Heráclito. Esto nos recuerda que la adaptación es parte de la esencia humana, incluso frente a los desafíos que nos presenta la tecnología."
-    },
-    {
-        "titulo": "Apple renueva su iMac con el chip M6: que cambia frente al M4, qué se mantiene y cuál conviene comprar",
-        "link": "https://www.xataka.com/seleccion/apple-renueva-su-imac-chip-m6-que-cambia-frente-al-m4-que-se-mantiene-cual-conviene-comprar",
-        "medio": "Xataka",
-        "idioma": "es",
-        "fecha": "28/10/2026",
-        "score": 40.0,
-        "provider": "openai",
-        "ficha": "ÁNGULO EDITORIAL: La evolución de la tecnología de los ordenadores no solo afecta a los entusiastas de la informática, sino que impacta en la vida diaria de todos. Con el nuevo iMac M6, es crucial entender si las mejoras justifican la inversión o si el modelo anterior sigue siendo una opción viable para quienes buscan calidad sin romper el banco.\n\nHOOK: \"¿Vale la pena actualizar tu iMac o el M4 sigue siendo suficiente?\"\n\nEL DATO: El nuevo iMac 2026 con chip M6 promete un rendimiento superior gracias a su inteligencia artificial local y potencia bruta. Sin embargo, el iMac M4 sigue siendo una opción robusta y más económica, ofreciendo buena capacidad para tareas cotidianas.\n\nBAJADA SANTULA: Si trabajas desde casa o simplemente necesitas un ordenador fiable para tus actividades diarias, evaluar si necesitas la última tecnología o si puedes optar por el modelo anterior puede ahorrarte una suma considerable. El M4 todavía cuenta con un rendimiento sólido para la mayoría de los usuarios.\n\nREF. CULTURA: \"La tecnología avanza rápidamente, pero a veces lo antiguo se vuelve clásico.\" - N/A"
-    },
-    {
-        "titulo": "El impacto de la disbiosis intestinal en el sistema inmunitario y su posible relación con las enfermedades crónicas",
-        "link": "https://www.infobae.com/salud/2026/10/28/el-impacto-de-la-disbiosis-intestinal-en-el-sistema-inmunitario-y-su-posible-relacion-con-las-enfermedades-cronicas/",
+        "titulo": "La proteína gana espacio en la dieta, pero las necesidades varían según cada persona",
+        "link": "https://www.infobae.com/salud/2026/10/29/la-proteina-gana-espacio-en-la-dieta-pero-las-necesidades-varian-segun-cada-persona/",
         "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "28/10/2026",
+        "fecha": "29/10/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La salud intestinal no solo afecta nuestro sistema digestivo, sino que también juega un papel crucial en nuestro sistema inmunitario. Comprender esto es vital, ya que un desequilibrio en nuestra microbiota puede predisponernos a enfermedades crónicas, algo que nos puede afectar a todos.\n\nHOOK: \"¿Sabías que tu intestino puede estar afectando tu salud en formas que ni imaginas?\"\n\nEL DATO: La disbiosis intestinal, un desequilibrio en la microbiota, puede provocar inflamaciones en el cuerpo, lo que se ha vinculado a diversas enfermedades crónicas. Esto significa que cuidar nuestra salud digestiva es clave para mantener nuestro sistema inmunitario en óptimas condiciones.\n\nBAJADA SANTULA: En nuestra vida cotidiana, podemos mejorar nuestra salud intestinal incorporando alimentos ricos en probióticos, como el yogur o el chucrut, y evitando el exceso de azúcares y alimentos procesados. Así, no solo cuidamos de nuestra digestión, sino también de nuestro bienestar general.\n\nREF. CULTURA: \"La salud es la verdadera riqueza\", Mahatma Gandhi."
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La proteína es un nutriente esencial que no solo afecta nuestra salud física, sino que también puede influir en nuestro bienestar emocional y energético. Conocer nuestras necesidades específicas puede llevarnos a tomar decisiones más informadas sobre nuestra alimentación.\n\n**HOOK:** \"¿Sabías que la cantidad de proteína que necesitas varía según tu vida y tu salud?\"\n\n**EL DATO:** La cantidad de proteína que cada persona necesita depende de factores como la edad, el nivel de actividad física, el peso corporal y cualquier tratamiento médico que esté siguiendo. No existe un enfoque único; cada cuerpo tiene necesidades únicas.\n\n**BAJADA SANTULA:** Incorporar la proteína en tu dieta no significa comer solo carne o suplementos. Es importante equilibrar este nutriente con una variedad de alimentos para asegurar una nutrición completa y adaptada a tu estilo de vida. Así, puedes mejorar tu energía y salud general.\n\n**REF. CULTURA:** \"La alimentación es nuestra medicina\" – Hipócrates."
     },
     {
-        "titulo": "Ansiedad y regla 3-3-3: cómo funciona la estrategia que podría reducir la respuesta ante el estrés",
-        "link": "https://www.infobae.com/salud/2026/10/28/ansiedad-y-regla-3-3-3-como-funciona-la-estrategia-que-podria-reducir-la-respuesta-ante-el-estres/",
-        "medio": "Infobae Salud",
-        "idioma": "es",
-        "fecha": "28/10/2026",
-        "score": 20.0,
-        "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La ansiedad es un compañero habitual en nuestras vidas, pero aprender a gestionarla puede marcar la diferencia en nuestro bienestar diario. La estrategia 3-3-3 nos ofrece una herramienta práctica y accesible para reducir el estrés y volver al presente.\n\nHOOK: \"¿Sabías que puedes combatir la ansiedad con solo tres pasos sencillos?\"\n\nEL DATO: La técnica 3-3-3 consiste en identificar tres cosas que ves, tres cosas que oyes y mover tres partes de tu cuerpo. Este método simple ayuda a desviar la atención de preocupaciones sobre el futuro y a reenfocar nuestra mente en el momento presente, lo que puede reducir la respuesta al estrés.\n\nBAJADA SANTULA: Imagina que estás en una reunión y la ansiedad comienza a apoderarse de ti. Utiliza el 3-3-3: mira a tu alrededor y nombra tres objetos, escucha tres sonidos y mueve tus manos o pies. Esta práctica te puede ayudar a calmarte y retomar el control en situaciones abrumadoras.\n\nREF. CULTURA: \"El poder del ahora\" de Eckhart Tolle, que enfatiza la importancia de vivir en el presente para reducir la ansiedad y el estrés."
-    },
-    {
-        "titulo": "Que Anthropic salga a bolsa va a tener consecuencias hasta para una constructora española: Ferrovial",
-        "link": "https://www.xataka.com/empresas-y-economia/que-anthropic-salga-a-bolsa-va-a-tener-consecuencias-para-constructora-espanola-ferrovial",
+        "titulo": "Medio Ambiente autoriza a Amazon a gastar un 48 % más de agua en su centro de datos de El Burgo de Ebro (Zaragoza)",
+        "link": "https://www.xataka.com/magnet/medio-ambiente-autoriza-a-amazon-a-gastar-48-agua-su-centro-datos-burgo-ebro-zaragoza",
         "medio": "Xataka",
         "idioma": "es",
-        "fecha": "28/10/2026",
+        "fecha": "29/10/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La salida de Anthropic a bolsa podría afectar a empresas fuera de su sector, como Ferrovial, lo que muestra cómo el movimiento de grandes firmas en el mercado puede repercutir en la economía de diversas industrias. Esto resalta la interconexión del mercado financiero y la importancia de estar al tanto de estos cambios para la estabilidad de cualquier negocio.\n\n**HOOK:** \"¿Sabías que la salida a bolsa de una empresa de IA puede afectar a una constructora española?\"\n\n**EL DATO:** Anthropic, una empresa de inteligencia artificial, se prepara para su debut en el Nasdaq, lo que podría desplazar a otras compañías como Ferrovial del índice Nasdaq 100, donde deben mantenerse entre las 125 mayores empresas no financieras para seguir en él.\n\n**BAJADA SANTULA:** Este movimiento no solo afecta a las acciones de Ferrovial, sino que también pone de manifiesto cómo la dinámica del mercado puede influir en empresas que, a primera vista, no están relacionadas. Es esencial que los inversionistas y empresarios comprendan estas conexiones para anticipar riesgos y oportunidades.\n\n**REF. CULTURA:** \"El efecto mariposa\" – la idea de que pequeños cambios pueden tener grandes repercusiones, tal como se ilustra en la teoría del caos."
-    },
-    {
-        "titulo": "OpenAI asegura haber logrado avances en tres problemas científicos muy complejos, aunque la academia tendrá la última palabra",
-        "link": "https://www.xataka.com/robotica-e-ia/openai-asegura-haber-logrado-avances-tres-problemas-cientificos-muy-complejos-academia-tendra-ultima-palabra",
-        "medio": "Xataka",
-        "idioma": "es",
-        "fecha": "28/10/2026",
-        "score": 20.0,
-        "provider": "openai",
-        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La inteligencia artificial está revolucionando la forma en que abordamos problemas complejos en ciencia y matemáticas. Esto no solo podría cambiar el futuro del conocimiento, sino también cómo entendemos el mundo que nos rodea.\n\nHOOK: \"¿Puede una máquina resolver misterios que han desconcertado a los científicos por años?\"\n\nEL DATO: OpenAI ha anunciado avances en tres problemas científicos complejos, incluyendo una conjetura matemática conocida como el problema de Kakeya. Este problema investiga si es posible construir un conjunto que contenga un segmento de longitud unidad en todas las direcciones. Aunque suena sencillo, ha sido un rompecabezas para matemáticos durante mucho tiempo.\n\nBAJADA SANTULA: Esto implica que la inteligencia artificial no solo está ayudando a resolver problemas del pasado, sino que también está modificando la manera en que se investiga y se comprende la ciencia. Para nosotros, esto significa que el futuro del aprendizaje y la innovación podría estar más cerca de lo que pensamos. ¿Estamos listos para confiar en máquinas para avanzar en el conocimiento humano?\n\nREF. CULTURA: \"El enigma de Fermat\" (libro de Simon Singh), que relata cómo un simple teorema llevó siglos de esfuerzo humano hasta ser resuelto."
-    },
-    {
-        "titulo": "Discord quiere que los mensajes de sus servidores públicos se puedan buscar en Google, con todo lo que eso conlleva",
-        "link": "https://www.xataka.com/aplicaciones/discord-quiere-que-mensajes-sus-servidores-publicos-se-puedan-buscar-google-todo-que-eso-conlleva",
-        "medio": "Xataka",
-        "idioma": "es",
-        "fecha": "28/10/2026",
-        "score": 20.0,
-        "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La nueva función de Discord para hacer sus servidores públicos buscables en Google plantea un dilema entre el acceso a la información y la privacidad. Para los usuarios, entender este cambio es crucial, ya que puede afectar cómo se comparte y se consume información en línea.\n\n**HOOK:** \"¿Tus mensajes de Discord podrían ser leídos por cualquiera? ¡Esto es lo que necesitas saber!\"\n\n**EL DATO:** Discord permitirá que ciertos servidores públicos sean indexados por Google, lo que significa que las conversaciones y respuestas útiles podrían ser fácilmente accesibles en línea. Esto aplica solo a los servidores con al menos 1.000 miembros que se han hecho públicos. Sin embargo, los chats privados y los servidores más pequeños seguirán siendo inaccesibles.\n\n**BAJADA SANTULA:** Imagina que estás buscando una solución a un problema específico y encuentras respuestas valiosas en un servidor de Discord que antes estaban escondidas en un mar de mensajes. Esto puede ser útil para muchos, pero también implica que cualquier cosa que digas en un servidor público podría ser vista por extraños. Es un llamado a ser más conscientes de lo que compartimos en espacios abiertos.\n\n**REF. CULTURA:** \"La red es un espejo de nuestras interacciones; elige con cuidado lo que decides reflejar.\""
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** En un mundo cada vez más digitalizado, la expansión de gigantes tecnológicos como Amazon plantea preguntas sobre la sostenibilidad y el acceso al agua. ¿Qué significa esto para los agricultores locales y el medio ambiente en general?\n\n**HOOK:** \"¿Amazon necesita más agua que nuestros campos? ¡Esto no suena bien!\"\n\n**EL DATO:** El Instituto Aragonés de Gestión Ambiental ha autorizado a Amazon Web Services a aumentar su consumo de agua en un 48% en su centro de datos en El Burgo de Ebro, argumentando que no hay efectos significativos sobre el medio ambiente. Sin embargo, muchos agricultores locales podrían tener una opinión diferente.\n\n**BAJADA SANTULA:** Este aumento en el uso de agua por parte de una empresa tan grande podría afectar la disponibilidad de recursos para la agricultura local. En un momento en que el cambio climático ya está impactando en la producción agrícola, es crucial que se equilibre el desarrollo tecnológico con la necesidad de preservar nuestros recursos naturales. ¿Estamos priorizando la tecnología sobre la alimentación?\n\n**REF. CULTURA:** N/A"
     }
 ]
