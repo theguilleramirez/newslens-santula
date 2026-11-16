@@ -1,102 +1,92 @@
 [
     {
-        "titulo": "Cinco bebidas que pueden ayudar a bajar el estrés al final del día",
-        "link": "https://www.infobae.com/salud/2026/11/15/cinco-bebidas-que-pueden-ayudar-a-bajar-el-estres-al-final-del-dia/",
-        "medio": "Infobae Salud",
-        "idioma": "es",
-        "fecha": "15/11/2026",
-        "score": 60.0,
-        "provider": "openai",
-        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: Al final del día, el estrés puede acumularse y afectar nuestra salud mental y física. Conocer qué bebidas pueden ayudarnos a relajarnos es clave para mejorar nuestro bienestar diario y promover hábitos saludables.\n\nHOOK: \"¿Te sientes estresado al final del día? Descubre las bebidas que te ayudarán a relajarte.\"\n\nEL DATO: Estudios muestran que bebidas como infusiones, cacao, leche tibia y jugo de cereza ácida contienen compuestos que favorecen el descanso y reducen el estrés. Sin embargo, su efectividad se potencia si se combinan con hábitos saludables, como una buena alimentación y ejercicio.\n\nBAJADA SANTULA: Incorporar estas bebidas en tu rutina nocturna puede ser un pequeño pero poderoso cambio. Piensa en disfrutar una infusión antes de dormir o un vaso de leche tibia para preparar tu cuerpo para un descanso reparador. Es un sencillo ritual que puede marcar la diferencia en tu bienestar.\n\nREF. CULTURA: \"El arte de la guerra\" de Sun Tzu, que nos enseña la importancia de la preparación y el autocuidado en la batalla diaria de la vida."
-    },
-    {
-        "titulo": "Julianne Moore y su clave para una longevidad saludable: “Tomarse en serio la salud cerebral”",
-        "link": "https://www.infobae.com/salud/2026/11/15/julianne-moore-y-su-clave-para-una-longevidad-saludable-tomarse-en-serio-la-salud-cerebral/",
-        "medio": "Infobae Salud",
-        "idioma": "es",
-        "fecha": "15/11/2026",
-        "score": 60.0,
-        "provider": "openai",
-        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La salud cerebral es fundamental para disfrutar de una vida plena y activa, especialmente a medida que envejecemos. ¿Cómo podemos cuidar nuestra mente para vivir mejor? \n\nHOOK: \"¿Sabías que cuidar tu cerebro podría ser la clave de tu longevidad?\"\n\nEL DATO: Julianne Moore, a sus 65 años, enfatiza la importancia de actividades que estimulan la salud cerebral, como leer, aprender cosas nuevas y mantener conexiones sociales, para conservar fuerza y bienestar mental.\n\nBAJADA SANTULA: No se trata solo de sumar años, sino de vivir esos años con calidad. Invertir tiempo en actividades que nutren nuestra mente puede ser tan crucial como una buena alimentación o el ejercicio físico. \n\nREF. CULTURA: \"Cien años de soledad\" de Gabriel García Márquez, donde la memoria y las historias son el hilo conductor de la vida."
-    },
-    {
-        "titulo": "Menos chuletón, más lentejas: un estudio finlandés relaciona la proteína vegetal con niveles más altos de testosterona",
-        "link": "https://www.xataka.com/medicina-y-salud/chuleton-lentejas-estudio-finlandes-relaciona-proteina-vegetal-niveles-altos-testosterona",
+        "titulo": "Una piscina de Alemania dependía de Microsoft para gestionar su nivel de cloro. Cuando cayó, varias personas terminaron en el hospital",
+        "link": "https://www.xataka.com/domotica-1/piscina-alemania-dependia-microsoft-para-gestionar-su-nivel-cloro-cuando-cayo-varias-personas-terminaron-hospital",
         "medio": "Xataka",
         "idioma": "es",
-        "fecha": "15/11/2026",
-        "score": 60.0,
-        "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: ¿Sabías que lo que comes puede influir en tu salud hormonal? Este estudio revela que optar por proteínas vegetales podría potenciar tus niveles de testosterona. En un mundo donde la dieta es un tema crucial, entender cómo los alimentos afectan nuestro cuerpo es fundamental para la salud masculina.\n\nHOOK: \"¿Menos chuletón y más lentejas? ¡Tu testosterona puede agradecerlo!\"\n\nEL DATO: Un estudio finlandés con más de 2.500 hombres reveló que aquellos que consumían más proteínas vegetales presentaban niveles más altos de testosterona en comparación con los que consumían proteínas animales. Esto desafía la creencia común de que solo la carne roja puede generar virilidad.\n\nBAJADA SANTULA: Este hallazgo nos invita a reconsiderar nuestras elecciones alimenticias. Incorporar más lentejas, frijoles y otras fuentes vegetales no solo puede ser beneficioso para el medio ambiente, sino que también puede mejorar nuestra salud hormonal. Es un buen momento para revisar nuestra dieta y probar nuevas opciones.\n\nREF. CULTURA: \"La dieta mediterránea: un enfoque equilibrado que resalta la importancia de los vegetales en la alimentación.\""
-    },
-    {
-        "titulo": "De 'GTA V' a 'GTA VI': 13 años, 4.700 empleados y una industria que sigue apartándose del camino de Rockstar",
-        "link": "https://www.xataka.com/videojuegos/gta-v-a-gta-vi-13-anos-4-700-empleados-industria-que-sigue-apartandose-camino-rockstar",
-        "medio": "Xataka",
-        "idioma": "es",
-        "fecha": "15/11/2026",
-        "score": 60.0,
-        "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La llegada de 'GTA VI' no solo representa un hito en el mundo de los videojuegos, sino que también refleja cómo la industria ha evolucionado y cómo los consumidores están dispuestos a invertir en experiencias inmersivas. Este lanzamiento es un claro ejemplo de la transformación en la producción de videojuegos y la importancia de la calidad sobre la cantidad.\n\n**HOOK:** \"¿Por qué 'GTA VI' podría cambiar el futuro de los videojuegos para siempre?\"\n\n**EL DATO:** Después de 13 años desde el lanzamiento de 'GTA V', Rockstar ha duplicado su plantilla de empleados y ha creado lo que se espera sea el videojuego más caro de la historia. Las reservas para 'GTA VI' superan las expectativas, con proyecciones de ingresos que podrían alcanzar entre 8.000 y 8.200 millones de dólares.\n\n**BAJADA SANTULA:** En un mundo donde la inmediatez y la cantidad a menudo prevalecen, 'GTA VI' nos recuerda que la paciencia y la inversión en calidad pueden llevar a resultados extraordinarios. Este lanzamiento podría redefinir las expectativas sobre cómo los videojuegos son desarrollados y comercializados, influyendo en todo el sector.\n\n**REF. CULTURA:** \"La tortuga y la liebre\" – una fábula que nos enseña que la constancia y la dedicación pueden superar a la velocidad y la superficialidad."
-    },
-    {
-        "titulo": "Por qué nos entra sueño después de comer: la culpa no es solo de la comida, sino de nuestro reloj biológico",
-        "link": "https://www.xataka.com/medicina-y-salud/que-nos-entra-sueno-despues-comer-culpa-no-solo-comida-sino-nuestro-reloj-biologico",
-        "medio": "Xataka",
-        "idioma": "es",
-        "fecha": "15/11/2026",
-        "score": 60.0,
-        "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La somnolencia post-comida no es solo culpa de lo que comemos, sino de cómo está programado nuestro cuerpo. Entenderlo puede ayudarnos a manejar mejor nuestra energía diaria y ser más productivos.\n\nHOOK: \"¿Te da sueño después de comer? No es solo la comida, ¡es tu reloj biológico!\"\n\nEL DATO: La sensación de modorra después de comer no es solo por la digestión. Un estudio de 2009 revela que nuestro cuerpo tiene un ciclo circadiano que provoca un segundo pico de somnolencia a las 12 horas del día, independientemente de lo que hayamos comido.\n\nBAJADA SANTULA: Si sabes que el sueño puede llegar a media tarde, puedes planificar tus actividades más demandantes antes de esa hora o programar pausas para reenergizarte. La clave está en conocer tu ritmo y adaptarte a él.\n\nREF. CULTURA: \"El Principito\" de Antoine de Saint-Exupéry nos recuerda que a veces, lo más importante está en lo que no vemos; entender nuestro cuerpo es esencial para vivir mejor."
-    },
-    {
-        "titulo": "\"En Málaga podremos hacer cosas que en Bélgica están totalmente prohibidas\": hablamos con Karel van Gils, director general de imec Spain",
-        "link": "https://www.xataka.com/entrevistas/malaga-podremos-hacer-cosas-que-belgica-estan-totalmente-prohibidas-hablamos-karel-van-gils-director-general-imec-spain",
-        "medio": "Xataka",
-        "idioma": "es",
-        "fecha": "15/11/2026",
+        "fecha": "16/11/2026",
         "score": 40.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La llegada de imec a Málaga representa una oportunidad única para el desarrollo tecnológico y la creación de empleo en España. En un momento donde la innovación es clave para el crecimiento económico, este laboratorio no solo potenciará nuestra industria tecnológica, sino que también atraerá talento y recursos. ¿Por qué es importante? Porque el futuro de la tecnología se decide hoy, y Málaga se posiciona como un nuevo referente en Europa.\n\n**HOOK:** \"¡Málaga se convierte en la nueva capital de la innovación tecnológica en Europa!\"\n\n**EL DATO:** imec, el laboratorio de investigación en semiconductores más importante de Europa, abrirá un nuevo centro en Málaga, generando 200 empleos de alta cualificación. Este laboratorio se enfocará en áreas clave como la inteligencia artificial y la conectividad, impulsando el desarrollo tecnológico en la región.\n\n**BAJADA SANTULA:** Imagina que, en lugar de tener que viajar a Bélgica o a Estados Unidos para acceder a tecnología de punta, ahora podrás hacerlo desde tu ciudad. Esto significa que las empresas locales tendrán acceso a recursos y conocimientos que antes estaban fuera de su alcance, lo que podría traducirse en mejores productos y servicios para todos. Además, la creación de empleo de calidad es un golpe directo a la economía local.\n\n**REF. CULTURA:** \"El futuro no es un regalo, es una conquista.\" - Pierre Teilhard de Chardin."
-    },
-    {
-        "titulo": "LG xboom Blast, análisis: es grande y pesa, pero es un altavoz Bluetooth mucho más versátil de lo que dejan caer su diseño y colores",
-        "link": "https://www.xataka.com/analisis/lg-xboom-blast-analisis-caracteristicas-precio-especificaciones",
-        "medio": "Xataka",
-        "idioma": "es",
-        "fecha": "15/11/2026",
-        "score": 40.0,
-        "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** En un mundo donde la música y el sonido acompañan cada momento de nuestra vida, un altavoz versátil puede transformar cualquier ocasión, desde una reunión con amigos hasta un día de playa. La capacidad de llevar la música contigo, sin sacrificar la calidad, es más relevante que nunca.\n\n**HOOK:** \"¿Un altavoz que puede ser tu mejor aliado en la fiesta y en casa? ¡Sigue viendo!\"\n\n**EL DATO:** El nuevo LG xboom Blast ofrece 220 W de potencia y una batería reemplazable, lo que lo convierte en un altavoz Bluetooth que no solo suena bien, sino que también se adapta a diferentes entornos, desde fiestas hasta cine en casa.\n\n**BAJADA SANTULA:** Imagina un fin de semana en la playa con amigos. En lugar de depender de un sistema de sonido estático, puedes llevar el xboom Blast. Su diseño robusto y su batería intercambiable te aseguran que la música nunca se detenga, adaptándose a cada momento, ya sea una tarde de relax o una noche de fiesta.\n\n**REF. CULTURA:** \"La música une a las personas\", un lema que resuena en cada encuentro y que este altavoz ayuda a materializar."
-    },
-    {
-        "titulo": "En esta aldea asturiana quedan seis habitantes. Dos de ellos son dos mujeres que pasan el día jugando al parchís",
-        "link": "https://www.xataka.com/magnet/esta-aldea-asturiana-quedan-seis-habitantes-dos-ellos-dos-mujeres-que-pasan-dia-jugando-al-parchis",
-        "medio": "Xataka",
-        "idioma": "es",
-        "fecha": "15/11/2026",
-        "score": 40.0,
-        "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La despoblación en áreas rurales es un fenómeno que afecta no solo a la economía local, sino también a la identidad y cultura de comunidades enteras. Este caso en Cansinos nos recuerda la fragilidad de nuestras tradiciones y el valor de la conexión humana en tiempos de cambio.\n\nHOOK: \"En un pueblo asturiano, solo quedan seis habitantes... ¿Qué pasará cuando ellos se vayan?\"\n\nEL DATO: En Cansinos, un pueblo que ha visto cómo sus calles se vacían, solo quedan seis personas, de las cuales dos pasan el tiempo jugando al parchís. Este lugar, que alguna vez fue vibrante, ahora se enfrenta a la inminente pérdida de su identidad y comunidad.\n\nBAJADA SANTULA: La historia de Cansinos es un reflejo de muchas pequeñas aldeas en España que están en riesgo de desaparecer. La vida cotidiana en estos lugares, llena de recuerdos y conexiones, está en peligro. Es importante que valoremos y apoyemos a nuestras comunidades locales antes de que sea demasiado tarde.\n\nREF. CULTURA: \"El último de los mohicanos\" de James Fenimore Cooper, que trata sobre la pérdida de una cultura y la lucha por la supervivencia en un mundo cambiante."
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La dependencia de sistemas tecnológicos puede tener consecuencias graves en nuestra vida diaria. Esta situación nos recuerda que un fallo en las plataformas que usamos puede afectar no solo a empresas, sino también a la salud de las personas. La historia de la piscina en Alemania ilustra lo que sucede cuando la tecnología no funciona como debería y nos hace reflexionar sobre la seguridad en la automatización.\n\n**HOOK:** \"¿Qué pasaría si el fallo de una empresa te pone en peligro? ¡Esto ocurrió en una piscina en Alemania!\"\n\n**EL DATO:** La caída de Microsoft afectó a múltiples servicios, incluyendo el sistema de gestión de cloro en una piscina de un hotel en Alemania. Esto resultó en un descontrol en los niveles de cloro, lo que llevó a que varias personas terminaran en el hospital debido a la exposición a productos químicos en exceso.\n\n**BAJADA SANTULA:** Este incidente nos hace cuestionar nuestra dependencia de la tecnología. En nuestra vida cotidiana, confiamos en sistemas automatizados para gestionar tareas críticas, desde la calidad del agua en una piscina hasta la operación de servicios básicos. Es fundamental tener planes de contingencia y no dejar todo en manos de un solo proveedor, ya que un fallo puede tener consecuencias serias.\n\n**REF. CULTURA:** \"El hombre, un dios para el hombre\" de Thomas Hobbes, nos recuerda que la confianza ciega en la tecnología puede llevar a situaciones peligrosas."
     },
     {
         "titulo": "‘Download My Free Guide’: What Products and Services Do Health and Wellness Influencers Promote?",
         "link": "https://www.pewresearch.org/short-reads/2026/11/12/download-my-free-guide-what-products-and-services-do-health-and-wellness-influencers-promote/",
         "medio": "Pew Research",
         "idioma": "en",
-        "fecha": "15/11/2026",
+        "fecha": "16/11/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** En un mundo donde la salud y el bienestar son prioridades, entender lo que promueven los influencers puede ayudarnos a tomar decisiones más informadas sobre nuestra salud. Hoy, exploramos cómo sus recomendaciones impactan a sus seguidores.\n\n**HOOK:** \"¡Cuidado! Lo que sigue podría cambiar tu forma de ver a los influencers de salud.\"\n\n**EL DATO:** Un estudio de Pew Research revela que los influencers de salud y bienestar promocionan productos o servicios en el 38% de sus publicaciones, siendo las guías y la información lo más común. Muchos de sus seguidores terminan siguiendo esos consejos.\n\n**BAJADA SANTULA:** Esto significa que lo que ves en las redes sociales puede influir en tus decisiones de salud. Antes de actuar, es fundamental que verifiques la fuente y el contenido de esas recomendaciones. No todo lo que brilla es oro.\n\n**REF. CULTURA:** \"La salud no lo es todo, pero sin salud, todo lo demás es nada.\" - Arthur Schopenhauer."
+        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La influencia de los líderes de opinión en salud y bienestar es más poderosa de lo que pensamos. Hoy, muchas personas buscan orientación en sus redes sociales y es crucial entender cómo esto impacta sus decisiones de compra.\n\nHOOK: ¿Sabías que el 38% de las publicaciones de influencers de salud promueven productos? \n\nEL DATO: Un estudio de Pew Research revela que los influencers de salud y bienestar promocionan productos o servicios en el 38% de sus publicaciones, siendo las guías y la información lo más común, y muchos de sus seguidores toman acción basándose en estas recomendaciones.\n\nBAJADA SANTULA: Si sigues a un influencer de salud, es probable que te hayan recomendado un producto. Es importante cuestionar y analizar esas recomendaciones antes de hacer una compra. A veces, lo que parece un consejo saludable puede ser solo una estrategia de marketing.\n\nREF. CULTURA: \"La verdad no siempre es hermosa, pero la belleza de la verdad puede ser reveladora.\" - N/A"
     },
     {
-        "titulo": "Reducir el consumo de carne roja mejora la salud cardiovascular y ayuda a regular el colesterol",
-        "link": "https://www.infobae.com/salud/2026/11/15/reducir-el-consumo-de-carne-roja-mejora-la-salud-cardiovascular-y-ayuda-a-regular-el-colesterol/",
+        "titulo": "Qué hacer durante el día para dormir mejor a la noche",
+        "link": "https://www.infobae.com/salud/2026/11/16/que-hacer-durante-el-dia-para-dormir-mejor-a-la-noche/",
         "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "15/11/2026",
+        "fecha": "16/11/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: Hoy en día, la salud cardiovascular es una preocupación creciente para muchos. Reducir el consumo de carne roja no solo puede mejorar tu bienestar, sino que también es un paso sencillo que puedes integrar en tu vida diaria.\n\nHOOK: \"¿Sabías que comer menos carne roja puede salvar tu corazón?\"\n\nEL DATO: Estudios recientes demuestran que disminuir la ingesta de carne roja está relacionado con una mejor salud cardiovascular y un mejor control del colesterol. Optar por alternativas más saludables puede marcar una gran diferencia.\n\nBAJADA SANTULA: Implementar este cambio es más fácil de lo que piensas. Comienza incorporando opciones cotidianas como legumbres, verduras y granos en tus platos. Prueba recetas de sopas o ensaladas que incluyan estos ingredientes para crear comidas nutritivas y deliciosas.\n\nREF. CULTURA: \"La dieta del futuro\" de Michael Pollan, que aboga por un enfoque más saludable y sostenible hacia la alimentación."
+        "ficha": "ÁNGULO EDITORIAL: La calidad del descanso es fundamental para nuestra salud y bienestar. Entender cómo nuestras decisiones diarias afectan el sueño nos permite optimizar nuestras rutinas y mejorar nuestra calidad de vida.\n\nHOOK: \"Si quieres dormir mejor, empieza por lo que haces durante el día.\"\n\nEL DATO: Estudios muestran que hábitos como la exposición a la luz natural, la actividad física y la regulación del consumo de cafeína durante el día pueden mejorar significativamente la calidad del sueño nocturno.\n\nBAJADA SANTULA: Incorporar pequeñas acciones, como salir a pasear durante el día o limitar la cafeína después de las 3 p.m., puede hacer la diferencia entre una noche de insomnio y un sueño reparador. Pequeños cambios en tu rutina diaria pueden transformar tus noches.\n\nREF. CULTURA: \"El arte de dormir\" de Matthew Walker, un libro que explora la ciencia del sueño y cómo mejorar nuestra vida a través de un mejor descanso."
+    },
+    {
+        "titulo": "Cuando el amor sano aburre: por qué algunas personas necesitan drama para sentirse enamoradas",
+        "link": "https://www.infobae.com/salud/2026/11/16/cuando-el-amor-sano-aburre-por-que-algunas-personas-necesitan-drama-para-sentirse-enamoradas/",
+        "medio": "Infobae Salud",
+        "idioma": "es",
+        "fecha": "16/11/2026",
+        "score": 20.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** Muchas personas confunden el amor con el drama, pues su cerebro ha aprendido a asociar la intensidad emocional con el afecto. Hoy, exploramos por qué algunos buscan conflictos en sus relaciones y cómo esto impacta su bienestar emocional.\n\n**HOOK:** \"¿El amor tranquilo te aburre? Tal vez tu cerebro esté acostumbrado al drama.\"\n\n**EL DATO:** Estudios muestran que quienes han vivido relaciones conflictivas asocian la adrenalina del drama con el amor genuino. Cuando encuentran una relación estable y tranquila, su cerebro se siente confundido y puede generar ansiedad.\n\n**BAJADA SANTULA:** Si te sientes incómodo en una relación tranquila, es posible que estés acostumbrado al caos emocional. Reflexiona sobre tus patrones de relación: ¿buscas el conflicto porque te resulta familiar? Aprender a disfrutar de la calma puede ser clave para una conexión más saludable.\n\n**REF. CULTURA:** \"El amor en tiempos de cólera\" de Gabriel García Márquez, que explora cómo la intensidad y el sufrimiento pueden ser confundidos con amor verdadero."
+    },
+    {
+        "titulo": "No todas las dietas keto son iguales: un estudio advierte que algunas grasas pueden favorecer la inflamación",
+        "link": "https://www.infobae.com/salud/ciencia/2026/11/16/no-todas-las-dietas-keto-son-iguales-un-estudio-advierte-que-algunas-grasas-pueden-favorecer-la-inflamacion/",
+        "medio": "Infobae Salud",
+        "idioma": "es",
+        "fecha": "16/11/2026",
+        "score": 20.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La dieta keto ha ganado popularidad por su enfoque en la pérdida de peso, pero no todas las versiones son saludables. Entender cómo ciertas grasas pueden afectar nuestra salud es crucial para tomar decisiones informadas sobre nuestra alimentación.\n\n**HOOK:** ¿Sabías que no todas las dietas keto son igual de saludables? ¡Te contamos por qué!\n\n**EL DATO:** Un estudio de la Universidad de Cincinnati revela que algunas grasas pueden activar señales de estrés mitocondrial, lo que podría aumentar la inflamación en el cuerpo. Esto significa que la composición de tu dieta keto puede afectar no solo tu peso, sino también tu salud general.\n\n**BAJADA SANTULA:** Si estás considerando o ya sigues una dieta keto, presta atención a qué tipos de grasas estás consumiendo. Optar por grasas saludables y evitar las que pueden provocar inflamación puede hacer la diferencia en tu bienestar diario.\n\n**REF. CULTURA:** N/A"
+    },
+    {
+        "titulo": "Qué significa que la grasa de la carne sea blanca o amarilla y cuál es más saludable",
+        "link": "https://www.infobae.com/salud/2026/11/16/que-significa-que-la-grasa-de-la-carne-sea-blanca-o-amarilla-y-cual-es-mas-saludable/",
+        "medio": "Infobae Salud",
+        "idioma": "es",
+        "fecha": "16/11/2026",
+        "score": 20.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La elección de la carne puede parecer trivial, pero entender la diferencia entre la grasa blanca y amarilla puede influir en nuestra salud y en nuestras decisiones alimenticias diarias. Saber qué elegir puede ayudarnos a llevar una dieta más saludable y nutritiva.\n\n**HOOK:** ¿Sabías que el color de la grasa en la carne puede decirte si es más saludable?\n\n**EL DATO:** La grasa de la carne puede ser blanca o amarilla. La grasa blanca suele ser más saludable porque proviene de animales bien alimentados, mientras que la grasa amarilla puede indicar que el animal consumió más pasto y menos granos, lo que puede ser menos saludable.\n\n**BAJADA SANTULA:** Al elegir carne en la carnicería, observa el color de la grasa. Optar por cortes con grasa blanca podría ser una mejor opción para tu salud. Presta atención a lo que comes y cómo eso afecta tu bienestar diario.\n\n**REF. CULTURA:** \"La salud es la verdadera riqueza, no las piezas de oro y plata.\" - Mahatma Gandhi."
+    },
+    {
+        "titulo": "Siesta de 20 minutos: qué dicen los expertos sobre su duración ideal para mejorar la concentración sin afectar el sueño nocturno",
+        "link": "https://www.infobae.com/salud/2026/11/16/siesta-de-20-minutos-que-dicen-los-expertos-sobre-su-duracion-ideal-para-mejorar-la-concentracion-sin-afectar-el-sueno-nocturno/",
+        "medio": "Infobae Salud",
+        "idioma": "es",
+        "fecha": "16/11/2026",
+        "score": 20.0,
+        "provider": "openai",
+        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La siesta de 20 minutos es más que un lujo; es una herramienta estratégica para mejorar nuestra productividad y bienestar. En un mundo donde el agotamiento es común, entender cómo y cuándo descansar puede hacer la diferencia en nuestra concentración diaria.\n\nHOOK: \"¿Sabías que una siesta de solo 20 minutos puede transformar tu productividad?\"\n\nEL DATO: Los expertos sugieren que una siesta breve, de alrededor de 20 minutos, puede ayudar a restaurar nuestra atención sin interferir con el sueño nocturno. La clave está en el momento y la duración: si es demasiado larga o se toma demasiado tarde, puede tener el efecto contrario.\n\nBAJADA SANTULA: Incorporar una siesta de 20 minutos en tu rutina laboral puede ser el respiro que necesitas para mantenerte alerta y efectivo. Escuchar a tu cuerpo y programar un breve descanso puede mejorar tu rendimiento y bienestar general.\n\nREF. CULTURA: \"El arte de la guerra\" de Sun Tzu, que nos recuerda la importancia de la estrategia y el descanso en la batalla de la vida diaria."
+    },
+    {
+        "titulo": "Fregado con vapor y 30.000 Pa de potencia de succión: este aspirador en seco y húmedo de Dreame ya está de Black Friday con un descuentazo",
+        "link": "https://www.xataka.com/seleccion/fregado-vapor-30-000-pa-potencia-succion-este-aspirador-seco-humedo-dreame-esta-black-friday-descuentazo",
+        "medio": "Xataka",
+        "idioma": "es",
+        "fecha": "16/11/2026",
+        "score": 20.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: En un mundo donde el tiempo es limitado, encontrar herramientas que faciliten las tareas del hogar se vuelve esencial. Este aspirador no solo promete eficiencia, sino que se adapta a las necesidades de familias con niños y mascotas, haciéndonos la vida más fácil.\n\nHOOK: “¿Cansado de las manchas que no se van? Este aspirador podría ser tu solución.”\n\nEL DATO: El Dreame T16 Pro Steam tiene una potencia de succión de 30.000 Pa y la capacidad de limpiar con vapor a 200 °C, lo que lo convierte en una herramienta efectiva para eliminar hasta las manchas más difíciles.\n\nBAJADA SANTULA: Con un buen aspirador en casa, como el Dreame T16 Pro Steam, puedes dedicarte a lo que realmente importa: pasar tiempo con tu familia y disfrutar de tu hogar, sin preocuparte por la limpieza constante de manchas o pelos de mascotas.\n\nREF. CULTURA: “La limpieza es la clave de la felicidad” - Proverbio popular."
+    },
+    {
+        "titulo": "La justicia italiana interviene a Revolut por fallos en sus sistemas de prevención del blanqueo de capitales en sus cuentas",
+        "link": "https://www.xataka.com/empresas-y-economia/justicia-italiana-interviene-a-revolut-fallos-sus-sistemas-prevencion-blanqueo-capitales-sus-cuentas",
+        "medio": "Xataka",
+        "idioma": "es",
+        "fecha": "16/11/2026",
+        "score": 20.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La intervención de la justicia italiana en Revolut nos recuerda que la innovación financiera debe ir acompañada de responsabilidad. Ante el crecimiento del uso de criptomonedas y plataformas digitales, es crucial que las empresas mantengan sistemas robustos para prevenir el blanqueo de capitales, protegiendo así a la economía y a la sociedad en general.\n\n**HOOK:** \"¿Es la facilidad de operar en línea un riesgo para tu dinero?\"\n\n**EL DATO:** Un tribunal en Milán ha puesto a Revolut bajo supervisión judicial debido a fallos en sus sistemas de prevención del blanqueo de capitales, lo que permitió mover 76,5 millones de euros de manera sospechosa. Aunque no se les acusa de colaborar con la mafia, la falta de controles efectivos ha puesto en riesgo la integridad financiera.\n\n**BAJADA SANTULA:** Esto significa que, aunque podamos disfrutar de la comodidad de operar con plataformas digitales, debemos ser conscientes de que la falta de seguridad puede afectarnos a todos. La responsabilidad no solo recae en las empresas, sino también en nosotros como usuarios, al elegir plataformas que prioricen la seguridad y la transparencia.\n\n**REF. CULTURA:** \"El lobo de Wall Street\", que ilustra cómo la codicia y la falta de regulación pueden llevar a consecuencias perjudiciales en el mundo financiero."
     }
 ]
