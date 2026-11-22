@@ -1,102 +1,102 @@
 [
     {
-        "titulo": "¿Cansancio o déficit de nutrientes? Cómo distinguir las causas de la falta de energía a esta altura del año",
-        "link": "https://www.infobae.com/salud/2026/11/21/cansancio-o-deficit-de-nutrientes-como-distinguir-las-causas-de-la-falta-de-energia-a-esta-altura-del-ano/",
+        "titulo": "Día del Psiquiatra: cinco claves para abordar la salud mental de forma integral",
+        "link": "https://www.infobae.com/salud/2026/11/22/dia-del-psiquiatra-cinco-claves-para-abordar-la-salud-mental-de-forma-integral/",
         "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "21/11/2026",
+        "fecha": "22/11/2026",
         "score": 60.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** En un mundo donde el ritmo de vida es acelerado, es fácil confundir el cansancio habitual con problemas de salud más serios. Reconocer la diferencia puede ser crucial para nuestra calidad de vida. \n\n**HOOK:** \"¿Te sientes agotado? ¡Podría no ser solo estrés!\"\n\n**EL DATO:** El cansancio puede ser causado por múltiples factores, pero si no mejora con el descanso, es vital considerar déficits nutricionales. Nutrientes como hierro, vitamina D y B12 son esenciales para mantener la energía. \n\n**BAJADA SANTULA:** Si te sientes constantemente fatigado a pesar de dormir lo suficiente, es hora de prestar atención. Escucha a tu cuerpo: un chequeo nutricional puede ser el primer paso hacia una vida más activa y plena.\n\n**REF. CULTURA:** \"La salud no lo es todo, pero sin salud, todo lo demás es nada.\" - Arthur Schopenhauer."
+        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La salud mental es un tema que nos involucra a todos. En un mundo cada vez más complejo, entender cómo abordarla de forma integral puede marcar la diferencia en nuestras vidas y en la de quienes nos rodean.\n\nHOOK: \"La salud mental no es un lujo, es una necesidad.\"\n\nEL DATO: Según especialistas de Ineco, la prevención y la escucha activa son fundamentales para el bienestar emocional. Esto significa que no solo debemos buscar ayuda cuando ya hay un problema, sino también fomentar un entorno donde se pueda hablar abiertamente de emociones y experiencias.\n\nBAJADA SANTULA: Integrar la salud mental en nuestra vida diaria implica crear espacios de conversación en casa, en el trabajo y en nuestras comunidades. Practicar la escucha y promover el trabajo en equipo con profesionales de diferentes áreas puede hacer que más personas se sientan apoyadas y comprendidas.\n\nREF. CULTURA: \"La mente es como un jardín, si no la cuidas, las malas hierbas crecen.\" - N/A"
     },
     {
-        "titulo": "Una empresa quería saber cuánto duran las baterías de los coches eléctricos y de paso nos ha dado una enorme alegría",
-        "link": "https://www.xataka.com/movilidad/empresa-queria-saber-cuanto-duran-baterias-coches-electricos-paso-nos-ha-dado-enorme-alegria",
+        "titulo": "La paradoja del otoño: se ha convertido en un cliché muy rentable justo cuando ha empezado a desaparecer",
+        "link": "https://www.xataka.com/magnet/paradoja-otono-se-ha-convertido-cliche-muy-rentable-justo-cuando-ha-empezado-a-desaparecer",
         "medio": "Xataka",
         "idioma": "es",
-        "fecha": "21/11/2026",
+        "fecha": "22/11/2026",
+        "score": 60.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** A medida que el otoño se convierte en un símbolo de consumo voraz, es importante reflexionar sobre cómo las estaciones han sido transformadas en productos que, aunque atractivos, pueden distorsionar nuestra percepción del tiempo y la naturaleza. ¿Estamos realmente disfrutando del otoño o solo comprando una ilusión?\n\n**HOOK:** \"¿El otoño se ha vuelto un cliché? ¡Te contamos por qué!\"\n\n**EL DATO:** A pesar de que el otoño debería ser una estación de cambios naturales, hoy en día se ha convertido en una estrategia de marketing. Desde la llegada del Pumpkin Spice Latte a España en 2014, las tiendas han comenzado a ofrecer productos otoñales antes de que realmente llegue la temporada, creando una sensación de otoño artificial y anticipada.\n\n**BAJADA SANTULA:** En nuestro día a día, esto nos lleva a una reflexión: ¿realmente disfrutamos de cada estación o simplemente seguimos el ritmo del consumo? Te invito a que, en lugar de dejarte llevar por las tendencias, busques momentos auténticos del otoño: paseos en la naturaleza, disfrutar de una buena lectura o simplemente observar los cambios en tu entorno.\n\n**REF. CULTURA:** \"El otoño de las maravillas\" – una frase que nos recuerda que la belleza de cada estación está en los momentos simples y verdaderos, no en los productos que consumimos."
+    },
+    {
+        "titulo": "\"Notamos una caída de pacientes\": cómo están viviendo los psicólogos el auge de la IA entre la población",
+        "link": "https://www.xataka.com/medicina-y-salud/notamos-caida-pacientes-como-estan-viviendo-psicologos-auge-ia-poblacion",
+        "medio": "Xataka",
+        "idioma": "es",
+        "fecha": "22/11/2026",
+        "score": 60.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La inteligencia artificial está transformando la manera en que las personas buscan apoyo emocional, lo que puede afectar la salud mental de muchos. Con el auge de los chatbots, algunos pacientes optan por hablar con máquinas en lugar de terapeutas, lo que puede perpetuar problemas de soledad y despersonalización. Es crucial reflexionar sobre cómo esta tecnología impacta nuestra conexión humana y nuestra identidad profesional.\n\n**HOOK:** \"¿Puede un chatbot reemplazar a un psicólogo? La respuesta puede sorprenderte.\"\n\n**EL DATO:** Según psicólogos consultados, muchos pacientes prefieren interactuar con chatbots en lugar de buscar terapia, lo que ha llevado a una caída en las consultas. Esto no solo afecta a los profesionales, sino que también puede agravar problemas emocionales en las personas que buscan respuestas rápidas y superficiales en lugar de un acompañamiento humano.\n\n**BAJADA SANTULA:** En nuestra vida cotidiana, es importante recordar que aunque la tecnología puede ofrecer soluciones rápidas, la conexión humana es insustituible. Si sientes que necesitas ayuda, no dudes en buscar un profesional. La salud mental es un tema serio y requiere el contacto humano que solo un terapeuta puede ofrecer.\n\n**REF. CULTURA:** \"La soledad en la era digital\", un tema explorado en la película \"Her\", donde una persona forma una relación con una inteligencia artificial, evidenciando los riesgos de priorizar la tecnología sobre las conexiones humanas reales."
+    },
+    {
+        "titulo": "Por qué el colesterol no baja pese a la dieta: qué papel juegan los genes, según un estudio",
+        "link": "https://www.infobae.com/salud/2026/11/20/los-genes-pueden-aumentar-el-riesgo-de-colesterol-alto/",
+        "medio": "Infobae Salud",
+        "idioma": "es",
+        "fecha": "22/11/2026",
         "score": 40.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La confianza en el mercado de coches eléctricos de segunda mano es crucial para su expansión. Entender la salud de las baterías puede ser la clave para que más personas se animen a dar el salto a la movilidad eléctrica.\n\n**HOOK:** ¡La salud de la batería de tu coche eléctrico puede ser tu mejor aliado en el mercado de segunda mano!\n\n**EL DATO:** Un estudio de la empresa austriaca Aviloo ha certificado que las baterías de los coches eléctricos mantienen su capacidad mucho mejor de lo que se pensaba. Esto significa que, al comprar un coche eléctrico de segunda mano, puedes estar más seguro de que la batería aún tiene una buena vida útil.\n\n**BAJADA SANTULA:** Si estás pensando en comprar un coche eléctrico usado, este estudio te da una razón más para hacerlo. Al contar con un examen de batería que certifica su estado, puedes tomar una decisión informada y evitar sorpresas desagradables. Así, no solo ahorras dinero, sino que contribuyes a un futuro más sostenible.\n\n**REF. CULTURA:** N/A"
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** A pesar de llevar una alimentación saludable, muchas personas no logran reducir sus niveles de colesterol. Esto es relevante hoy porque entender el papel de nuestros genes puede ayudarnos a tomar decisiones más informadas sobre nuestra salud cardiovascular.\n\n**HOOK:** \"¿Comes sano y tu colesterol sigue alto? La respuesta está en tus genes.\"\n\n**EL DATO:** Un estudio de Stanford reveló que la respuesta del cuerpo a la dieta puede variar significativamente entre individuos, dependiendo de su genética. Más de 21,000 mujeres en EE.UU. participaron en esta investigación, que mostró que la predisposición heredada puede afectar cómo metabolizamos los alimentos y, en consecuencia, nuestros niveles de colesterol.\n\n**BAJADA SANTULA:** Esto significa que no todos respondemos de la misma manera a las mismas dietas. Si te esfuerzas por comer bien y no ves resultados en tu colesterol, no te desanimes. Es fundamental conocer tu genética y, quizás, consultar a un especialista que pueda orientarte sobre un enfoque más personalizado en tu alimentación.\n\n**REF. CULTURA:** \"La genética no es destino; es solo parte de la historia.\" – N/A"
     },
     {
-        "titulo": "12 síntomas que pueden advertir niveles bajos de estrógeno",
-        "link": "https://www.infobae.com/salud/2026/11/21/12-sintomas-que-pueden-advertir-niveles-bajos-de-estrogeno/",
-        "medio": "Infobae Salud",
-        "idioma": "es",
-        "fecha": "21/11/2026",
-        "score": 20.0,
-        "provider": "openai",
-        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La menopausia es una etapa natural en la vida de las mujeres, pero sus síntomas pueden impactar significativamente la calidad de vida. Reconocer las señales de niveles bajos de estrógeno es crucial para buscar la atención médica adecuada y mejorar el bienestar.\n\nHOOK: \"¿Sientes sofocos o alteraciones del sueño? ¡Presta atención a tu cuerpo!\"\n\nEL DATO: Los niveles bajos de estrógeno pueden manifestarse a través de síntomas como sofocos, sequedad vaginal, alteraciones del sueño y pérdida de masa ósea. Estos signos son especialmente comunes durante la transición a la menopausia y deben ser evaluados por un médico.\n\nBAJADA SANTULA: Si experimentas alguno de estos síntomas, no los ignores. Hablar con tu médico puede ayudarte a encontrar el tratamiento adecuado y mejorar tu calidad de vida en esta etapa de transición.\n\nREF. CULTURA: \"Cien años de soledad\" de Gabriel García Márquez: Una obra que explora la complejidad de las etapas de la vida y cómo los cambios pueden afectar nuestras experiencias."
-    },
-    {
-        "titulo": "4 objetos de uso cotidiano en el hogar que esconden riesgos para la salud y qué hacer en cada caso",
-        "link": "https://www.infobae.com/salud/2026/11/21/4-objetos-de-uso-cotidiano-en-el-hogar-que-esconden-riesgos-para-la-salud-y-que-hacer-en-cada-caso/",
-        "medio": "Infobae Salud",
-        "idioma": "es",
-        "fecha": "21/11/2026",
-        "score": 20.0,
-        "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** En nuestro hogar, objetos que consideramos inofensivos pueden representar riesgos ocultos para nuestra salud. Entender estos peligros nos permite proteger a nuestros seres queridos y vivir con mayor seguridad.\n\n**HOOK:** \"¿Tu hogar es un lugar seguro? ¡Descubre los objetos que podrían poner en riesgo tu salud!\"\n\n**EL DATO:** Según la OMS y los CDC, ciertos objetos cotidianos, como juguetes, utensilios de cocina y productos de limpieza, pueden causar accidentes si no se usan correctamente o se dañan. La clave está en saber cómo manejarlos para evitar riesgos.\n\n**BAJADA SANTULA:** No se trata de vivir con miedo, sino de estar informados. Revisa tus objetos diarios: asegúrate de que los juguetes estén en buen estado, utiliza utensilios de cocina apropiados y almacena productos de limpieza fuera del alcance de los niños. La prevención es un acto de amor hacia nuestra familia.\n\n**REF. CULTURA:** \"El hogar es el refugio del alma.\" - Proverbio. Esto nos recuerda que debemos cuidar no solo de la estética, sino también de la seguridad en nuestro espacio más íntimo."
-    },
-    {
-        "titulo": "El dato que preocupa a la OMS: la resistencia antimicrobiana amenaza tratamientos y también afecta la salud animal",
-        "link": "https://www.infobae.com/salud/ciencia/2026/11/21/el-dato-que-preocupa-a-la-oms-la-resistencia-antimicrobiana-amenaza-tratamientos-y-tambien-afecta-la-salud-animal/",
-        "medio": "Infobae Salud",
-        "idioma": "es",
-        "fecha": "21/11/2026",
-        "score": 20.0,
-        "provider": "openai",
-        "ficha": "FICHA DE PRODUCCIÓN PARA REELS\n\nÁNGULO EDITORIAL: La resistencia antimicrobiana no solo pone en riesgo nuestras vidas, sino también la salud animal y la economía global. Entender este problema es crucial para nuestra salud y bienestar diario.\n\nHOOK: \"¡Los antibióticos están perdiendo su poder y eso nos afecta a todos!\"\n\nEL DATO: La OMS advierte que la resistencia a los antibióticos está creciendo, lo que significa que tratamientos que solían ser efectivos ahora pueden fallar. Esto no solo amenazará la atención médica, sino que también impactará el suministro de alimentos y las economías de todo el mundo.\n\nBAJADA SANTULA: En nuestra vida cotidiana, esto puede traducirse en infecciones comunes que se vuelven difíciles de tratar, lo que podría hacer que una simple cirugía se convierta en un riesgo significativo. Además, si los animales de granja enferman y no responden a los antibióticos, esto podría afectar la disponibilidad y el costo de los alimentos que consumimos.\n\nREF. CULTURA: \"La peste\" de Albert Camus, que refleja cómo una crisis de salud puede afectar a toda una sociedad."
-    },
-    {
-        "titulo": "Sandía, melón y frutos rojos: qué aporta cada fruta de estación a la alimentación después de los 50 años",
-        "link": "https://www.infobae.com/generacion-silver/2026/11/21/sandia-melon-y-frutos-rojos-que-aporta-cada-fruta-de-estacion-a-la-alimentacion-despues-de-los-50-anos/",
-        "medio": "Infobae Salud",
-        "idioma": "es",
-        "fecha": "21/11/2026",
-        "score": 20.0,
-        "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** A medida que envejecemos, nuestro cuerpo cambia y nuestras necesidades nutricionales también. Conocer qué frutas son más beneficiosas a partir de los 50 años puede mejorar nuestra salud y calidad de vida.\n\n**HOOK:** \"¿Sabías que la fruta que elijas puede transformar tu salud después de los 50?\"\n\n**EL DATO:** Las guías nutricionales sugieren que frutas como la sandía, el melón y los frutos rojos son esenciales para mejorar la digestión, fortalecer el sistema inmunológico y mantener el equilibrio de nutrientes en personas mayores. Estas frutas son ricas en agua y antioxidantes, lo que ayuda a combatir el envejecimiento celular.\n\n**BAJADA SANTULA:** Incorporar sandía y melón en tu dieta diaria te ayudará a mantenerte hidratado y nutrido. Los frutos rojos, además de ser deliciosos, son perfectos para combatir el cansancio y la inflamación. Así que, la próxima vez que hagas la compra, recuerda elegir estas frutas para cuidar tu salud.\n\n**REF. CULTURA:** \"La vida es como una caja de frutas: siempre hay algo dulce, pero también hay que saber elegir lo que te nutre.\""
-    },
-    {
-        "titulo": "En 1984, Países Bajos construyó un barrio imposible como solución a la vivienda: vivir en pelotas de golf gigantes que siguen desafiando la arquitectura",
-        "link": "https://www.xataka.com/magnet/1984-paises-bajos-construyo-barrio-imposible-como-solucion-a-vivienda-vivir-pelotas-golf-gigantes-que-siguen-desafiando-arquitectura",
+        "titulo": "Por primera vez, Rockstar premia en 'GTA VI' una relación de pareja saludable. La machosfera está que trina",
+        "link": "https://www.xataka.com/videojuegos/primera-vez-rockstar-premia-gta-vi-relacion-pareja-saludable-machosfera-esta-que-trina",
         "medio": "Xataka",
         "idioma": "es",
-        "fecha": "21/11/2026",
-        "score": 20.0,
+        "fecha": "22/11/2026",
+        "score": 40.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La crisis de vivienda es un problema global que afecta a millones de personas hoy. La historia de las Bolwoningen en Países Bajos nos recuerda que, en lugar de seguir patrones convencionales, a veces hay que arriesgarse y pensar fuera de la caja para encontrar soluciones habitacionales innovadoras.\n\n**HOOK:** ¡Imagina vivir en una pelota de golf gigante! 😲\n\n**EL DATO:** En 1984, en 's-Hertogenbosch, Países Bajos, se construyeron 50 viviendas esféricas llamadas Bolwoningen. Estas casas, diseñadas por el arquitecto Dries Kreijkamp, eran una respuesta creativa a la escasez de vivienda y desafiaron las normas arquitectónicas de su tiempo.\n\n**BAJADA SANTULA:** La escasez de viviendas sigue siendo un desafío en muchas ciudades. Este modelo de vivienda no solo es innovador, sino que también nos invita a cuestionar qué tan flexibles debemos ser en nuestras soluciones habitacionales. ¿Podríamos aplicar ideas similares para resolver problemas en nuestras propias comunidades?\n\n**REF. CULTURA:** N/A"
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La evolución de los videojuegos refleja cambios sociales. Promover relaciones saludables en 'GTA VI' no solo es un avance en la narrativa, sino un llamado a cuestionar y redefinir la masculinidad en el entretenimiento. Esto importa hoy porque la forma en que representamos el amor y las relaciones influye en la juventud y la cultura popular.\n\n**HOOK:** \"¿Por qué 'GTA VI' está haciendo que algunos se sientan incómodos? ¡Hablemos de relaciones saludables en los videojuegos!\"\n\n**EL DATO:** En 'GTA VI', los personajes principales, Jason y Lucía, interactúan de manera positiva a través de gestos románticos como regalar flores y ayudar en las tareas del hogar. Esto contrasta con la imagen tóxica de masculinidad reflejada en entregas anteriores, donde la violencia hacia las mujeres era la norma.\n\n**BAJADA SANTULA:** Este cambio en la narrativa de 'GTA VI' nos invita a reflexionar sobre nuestras propias relaciones. ¿Cómo tratamos a nuestras parejas en la vida diaria? Promover el respeto y la consideración puede transformar la dinámica de nuestras interacciones y contribuir a una sociedad más justa.\n\n**REF. CULTURA:** La película \"La La Land\", que explora el amor y la relación entre sus protagonistas de manera realista, también desafía las nociones tradicionales de romance y éxito."
     },
     {
-        "titulo": "Los calcetines que hacen que andar cueste menos: la ciencia ha dado con el santo grial de los vagos",
-        "link": "https://www.xataka.com/medicina-y-salud/calcetines-que-hacen-que-andar-cueste-ciencia-ha-dado-santo-grial-vagos",
+        "titulo": "¿Es GTA VI el último juego a gran escala desarrollado sin usar IA?",
+        "link": "https://www.xataka.com/videojuegos/gta-vi-ultimo-gran-juego-desarrollado-usar-ia",
         "medio": "Xataka",
         "idioma": "es",
-        "fecha": "21/11/2026",
-        "score": 20.0,
+        "fecha": "22/11/2026",
+        "score": 40.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** En un mundo donde la comodidad y la eficiencia son primordiales, estos calcetines ofrecen una solución innovadora para aquellos que buscan reducir el esfuerzo al caminar. ¿Quién no querría hacer su vida diaria un poco más fácil?\n\n**HOOK:** \"¿Y si te dijera que hay calcetines que te permiten caminar sin esfuerzo?\"\n\n**EL DATO:** Investigadores de la Universidad de Texas en Austin descubrieron que unos calcetines especiales pueden ayudar a caminar con menos esfuerzo. Aunque su objetivo inicial era entender la rigidez de los pies humanos, al final crearon un producto que podría cambiar la forma en que nos movemos.\n\n**BAJADA SANTULA:** Imagina que, en lugar de llegar cansado a casa después de un día ajetreado, puedes disfrutar de cada paso. Estos calcetines no solo son una innovación, sino una herramienta que podría hacer que nuestra vida diaria sea mucho más llevadera. ¿Realmente necesitamos hacer tanto esfuerzo si la ciencia puede ayudarnos?\n\n**REF. CULTURA:** \"La comodidad es un lujo que todos merecen.\" N/A"
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La llegada de GTA VI representa un hito en la industria de los videojuegos, mostrando la culminación de un enfoque creativo tradicional en un momento donde la inteligencia artificial empieza a transformar la producción. Esto es relevante para todos, ya que marca la transición entre lo artesanal y lo automatizado en el entretenimiento.\n\nHOOK: \"¿GTA VI es el último gran juego hecho a mano antes de que la IA tome el control?\"\n\nEL DATO: GTA VI es el videojuego más caro y ambicioso de la historia, desarrollado por un extenso equipo durante años, justo cuando la IA generativa empieza a influir en la creación de videojuegos. Esto plantea la pregunta sobre el futuro del desarrollo creativo en la industria.\n\nBAJADA SANTULA: En el día a día, esto nos afecta como consumidores de entretenimiento. La forma en que disfrutamos y valoramos los videojuegos podría cambiar drásticamente: desde el tipo de historias que se cuentan hasta cómo se crean los mundos virtuales. ¿Vamos hacia una era donde la creatividad humana es reemplazada por algoritmos?\n\nREF. CULTURA: \"La máquina de los deseos\" de Philip K. Dick, donde se explora cómo la tecnología puede cambiar las percepciones de la realidad y la creatividad humana."
     },
     {
-        "titulo": "Andalucía pone GPS a 29 águilas imperiales y las convierte en centinelas frente al virus del Nilo",
-        "link": "https://www.xataka.com/ecologia-y-naturaleza/andalucia-pone-gps-a-29-aguilas-imperiales-convierte-centinelas-frente-al-virus-nilo",
-        "medio": "Xataka",
+        "titulo": "Por qué insistir para que otra persona cambie puede desgastar una relación y qué hacer en su lugar",
+        "link": "https://www.infobae.com/salud/2026/11/22/por-que-insistir-para-que-otra-persona-cambie-puede-desgastar-una-relacion-y-que-hacer-en-su-lugar/",
+        "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "21/11/2026",
+        "fecha": "22/11/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La conservación de una especie en peligro de extinción no solo es crucial para la biodiversidad, sino que también tiene implicaciones directas en la salud pública. La tecnología se convierte en un aliado inesperado en la lucha contra virus que pueden amenazar a los seres humanos.\n\nHOOK: \"¿Sabías que un águila puede salvar vidas humanas?\"\n\nEL DATO: El águila imperial ibérica, la más amenazada de Europa, es equipada con GPS en Andalucía. Este año, 29 pollos han sido marcados para monitorear su vuelo y detectar el virus del Nilo, que se ha confirmado en algunos de ellos, alertando a las autoridades sobre su presencia.\n\nBAJADA SANTULA: Esto demuestra cómo la tecnología y la conservación se entrelazan. Al cuidar del águila imperial, no solo preservamos una especie, sino que también protegemos a nuestra comunidad de posibles brotes de enfermedades transmitidas por mosquitos. Cada pollo monitoreado es un paso hacia un entorno más seguro.\n\nREF. CULTURA: \"El águila y la serpiente\", una obra que simboliza la lucha entre la naturaleza y la adversidad, ilustrando cómo la vigilancia y el cuidado son esenciales para la supervivencia."
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** Muchas veces, intentamos cambiar a quienes amamos, pero esto puede causar tensión y desgaste en nuestras relaciones. Entender cómo desaprender ciertos patrones y aprender nuevas formas de convivencia es crucial para mantener conexiones saludables hoy.\n\n**HOOK:** \"¿Te has dado cuenta de que intentar cambiar a alguien puede destruir tu relación?\"\n\n**EL DATO:** Un estudio revela que insistir en que otra persona cambie puede llevar a la frustración y al resentimiento. En lugar de eso, aprender a desaprender expectativas y fomentar el crecimiento mutuo es más efectivo para fortalecer los lazos.\n\n**BAJADA SANTULA:** En lugar de presionar a alguien para que cambie, enfócate en cómo puedes adaptarte y crecer juntos. Esto no solo alivia la presión, sino que también crea un espacio seguro para ambos. Practica la comunicación abierta y la empatía en tu día a día.\n\n**REF. CULTURA:** \"La vida es como una bicicleta. Para mantener el equilibrio, debes seguir adelante.\" - Albert Einstein."
     },
     {
-        "titulo": "Escribir un libro con IA es más fácil que nunca. Por eso las editoriales están tomando medidas antes de publicar",
-        "link": "https://www.xataka.com/literatura-comics-y-juegos/escribir-libro-ia-facil-que-nunca-eso-editoriales-estan-tomando-medidas-antes-publicar",
-        "medio": "Xataka",
+        "titulo": "“Rocky” cumple 50 años y sus entrenamientos aún dejan lecciones para el deporte",
+        "link": "https://www.infobae.com/salud/2026/11/22/rocky-cumple-50-anos-y-sus-entrenamientos-aun-dejan-lecciones-para-el-deporte/",
+        "medio": "Infobae Salud",
         "idioma": "es",
-        "fecha": "21/11/2026",
+        "fecha": "22/11/2026",
         "score": 20.0,
         "provider": "openai",
-        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La creciente utilización de la inteligencia artificial para escribir libros plantea interrogantes sobre la autenticidad y la autoría. En un mundo donde la tecnología avanza rápidamente, es fundamental entender cómo esto impacta en la literatura y en nuestra confianza en las obras que leemos.\n\n**HOOK:** \"¿Quién escribió realmente este libro? La respuesta puede sorprenderte.\"\n\n**EL DATO:** En los últimos años, el uso de IA para crear contenido literario ha aumentado considerablemente. Esto ha llevado a las editoriales a cuestionar la autenticidad de los autores, ya que obras premiadas están bajo sospecha de haber sido generadas por algoritmos en lugar de humanos.\n\n**BAJADA SANTULA:** En nuestra vida diaria, esto significa que debemos ser más críticos con lo que leemos. Preguntarnos si un libro fue escrito por una persona o una máquina no solo afecta nuestra experiencia de lectura, sino también nuestra percepción de la creatividad y el esfuerzo humano en la literatura.\n\n**REF. CULTURA:** \"El dilema de la autoría en la era digital es similar al que retrata 'La sombra del viento' de Carlos Ruiz Zafón, donde los secretos del pasado y la identidad de los escritores son centrales en la narrativa.\""
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\nÁNGULO EDITORIAL: La película \"Rocky\" no solo nos dejó un icónico personaje, sino que sus enseñanzas sobre disciplina y entrenamiento siguen siendo relevantes en el deporte actual. Hoy más que nunca, entender la importancia de la constancia y la técnica puede marcar la diferencia en nuestro día a día, ya sea en el deporte o en la vida personal.\n\nHOOK: \"¿Qué lecciones sobre entrenamiento nos dejó Rocky hace 50 años?\"\n\nEL DATO: \"Rocky\" no solo es una película de boxeo; es un manual sobre cómo alcanzar metas. La historia del boxeador que supera obstáculos a través de la disciplina y la dedicación resuena en los entrenamientos modernos. Estudios demuestran que la constancia en el ejercicio, una buena alimentación y un propósito claro son claves para el éxito en cualquier actividad física.\n\nBAJADA SANTULA: Si alguna vez te has sentido desmotivado en tus entrenamientos o en cualquier objetivo personal, recuerda a Rocky. La perseverancia y la técnica no solo aplican en el ring, sino en cada paso que das hacia tus metas. Cada pequeño esfuerzo cuenta y puede llevarte a grandes resultados.\n\nREF. CULTURA: \"Rocky no es solo una película, es un símbolo de lucha y superación que nos enseña que con esfuerzo y dedicación, todo es posible.\""
+    },
+    {
+        "titulo": "El bronceado no es salud: cómo prevenir el daño solar y reducir el riesgo de cáncer de piel",
+        "link": "https://www.infobae.com/salud/2026/11/22/el-bronceado-no-es-salud-como-prevenir-el-dano-solar-y-reducir-el-riesgo-de-cancer-de-piel/",
+        "medio": "Infobae Salud",
+        "idioma": "es",
+        "fecha": "22/11/2026",
+        "score": 20.0,
+        "provider": "openai",
+        "ficha": "**FICHA DE PRODUCCIÓN PARA REELS**\n\n**ÁNGULO EDITORIAL:** La salud de nuestra piel es un tema vital que a menudo descuidamos, especialmente en climas soleados. Comprender el daño solar y su relación con el cáncer de piel es crucial para proteger nuestra salud a largo plazo.\n\n**HOOK:** \"Tu bronceado puede costarte más de lo que piensas: ¡descubre por qué!\"\n\n**EL DATO:** La radiación ultravioleta (UV) se acumula desde la infancia y puede dañar los mecanismos de reparación celular de nuestra piel. Esto aumenta el riesgo de cáncer de piel, por lo que es esencial usar protector solar correctamente y no confiar en él para exposiciones prolongadas.\n\n**BAJADA SANTULA:** Proteger nuestra piel no es solo una cuestión estética. Debemos hacer del uso diario de protector solar un hábito y aprender a reconocer señales como manchas nuevas o cambios en lunares. Consultar al dermatólogo puede salvar vidas.\n\n**REF. CULTURA:** \"La piel es el espejo del alma\", una frase que nos recuerda que cuidar de nuestra piel es cuidar de nosotros mismos."
+    },
+    {
+        "titulo": "La NASA está reclutando astronautas para vivir en la luna a -203 °C con polvo abrasivo y sueldos de 164.000 dólares",
+        "link": "https://www.xataka.com/espacio/nasa-esta-reclutando-astronautas-para-vivir-luna-a-203-c-polvo-abrasivo-sueldos-164-000-dolares",
+        "medio": "Xataka",
+        "idioma": "es",
+        "fecha": "22/11/2026",
+        "score": 20.0,
+        "provider": "openai",
+        "ficha": "ÁNGULO EDITORIAL: La exploración del espacio está más cerca de ser una realidad cotidiana para algunos. La posibilidad de vivir en la luna podría parecer lejana, pero el reclutamiento de astronautas nos muestra que la humanidad está lista para dar pasos audaces. Esto nos invita a reflexionar sobre nuestras propias aspiraciones y la búsqueda de horizontes inexplorados en nuestras vidas.\n\nHOOK: ¿Te imaginas vivir en la luna? La NASA lo está haciendo posible... ¡con un salario de 164 mil dólares!\n\nEL DATO: La NASA ha abierto una convocatoria para reclutar astronautas que participen en la construcción de una base lunar, que aún no existe. Estos nuevos astronautas recibirán entrenamiento para enfrentar condiciones extremas, como temperaturas de -203 °C y polvo abrasivo, y se espera que contribuyan a la exploración futura de Marte.\n\nBAJADA SANTULA: Aunque vivir en la luna suena a ciencia ficción, el hecho de que la NASA esté buscando astronautas nos recuerda que las grandes metas requieren preparación y valentía. En nuestra vida cotidiana, también enfrentamos desafíos que pueden parecer imposibles, pero con la preparación adecuada y un enfoque claro, podemos alcanzar nuestras propias \"lunas\".\n\nREF. CULTURA: \"El único límite es el cielo\", frase atribuida a Robert H. Goddard, pionero de la cohetería."
     }
 ]
